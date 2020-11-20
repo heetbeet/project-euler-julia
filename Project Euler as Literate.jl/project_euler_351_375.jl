@@ -25,7 +25,7 @@ Find H(100 000 000).
 </p>
 =#
 
-submit_answer(nothing; prob_num=365)
+submit_answer(nothing; prob_num=351)
 
 #=
 <h2>Problem 352: Blood tests</h2>
@@ -71,7 +71,7 @@ Give your answer rounded to six decimal places.
 </p>
 =#
 
-submit_answer(nothing; prob_num=366)
+submit_answer(nothing; prob_num=352)
 
 #=
 <h2>Problem 353: Risky moon</h2>
@@ -110,7 +110,7 @@ Give your answer rounded to 10 digits behind the decimal point in the form a.bcd
 </p>
 =#
 
-submit_answer(nothing; prob_num=367)
+submit_answer(nothing; prob_num=353)
 
 #=
 <h2>Problem 354: Distances in a bee's honeycomb </h2>
@@ -128,7 +128,7 @@ For example, $\text{B}(\sqrt 3)=6$, $\text{B}(\sqrt {21}) = 12$ and $\text{B}(11
 <p>Find the number of $L \le 5 \times 10^{11}$ such that $\text{B}(L) = 450$.</p>
 =#
 
-submit_answer(nothing; prob_num=368)
+submit_answer(nothing; prob_num=354)
 
 #=
 <h2>Problem 355: Maximal coprime subset</h2>
@@ -144,7 +144,7 @@ You are given that Co(30) = 193 and Co(100) = 1356.
 </p>
 =#
 
-submit_answer(nothing; prob_num=369)
+submit_answer(nothing; prob_num=355)
 
 #=
 <h2>Problem 356: Largest roots of cubic polynomials</h2>
@@ -159,7 +159,7 @@ Find the last eight digits of $\sum \limits_{i = 1}^{30} {\left \lfloor a_i^{987
 <u><i>Note</i></u>: $\lfloor a \rfloor$ represents the floor function.</p>
 =#
 
-submit_answer(nothing; prob_num=370)
+submit_answer(nothing; prob_num=356)
 
 #=
 <h2>Problem 357: Prime generating integers</h2>
@@ -173,7 +173,7 @@ for every divisor <var>d</var> of <var>n</var>, <var>d</var>+<var>n</var>/<var>d
 </p>
 =#
 
-submit_answer(nothing; prob_num=371)
+submit_answer(nothing; prob_num=357)
 
 #=
 <h2>Problem 358: Cyclic numbers</h2>
@@ -209,7 +209,7 @@ There is only one cyclic number for which, the eleven leftmost digits are 000000
 </p>
 =#
 
-submit_answer(nothing; prob_num=372)
+submit_answer(nothing; prob_num=358)
 
 #=
 <h2>Problem 359: Hilbert's New Hotel</h2>
@@ -247,7 +247,7 @@ Find the sum of all P(<var>f</var>, <var>r</var>) for all positive <var>f</var> 
 </p>
 =#
 
-submit_answer(nothing; prob_num=373)
+submit_answer(nothing; prob_num=359)
 
 #=
 <h2>Problem 360: Scary Sphere</h2>
@@ -267,7 +267,7 @@ Find S(10<sup>10</sup>).
 </p>
 =#
 
-submit_answer(nothing; prob_num=374)
+submit_answer(nothing; prob_num=360)
 
 #=
 <h2>Problem 361: Subsequence of Thue-Morse sequence</h2>
@@ -300,7 +300,7 @@ Find the last 9 digits of $\sum \limits_{k = 1}^{18} {A_{10^k}}$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=375)
+submit_answer(nothing; prob_num=361)
 
 #=
 <h2>Problem 362: Squarefree factors</h2>
@@ -325,7 +325,7 @@ Find S(10 000 000 000).
 </p>
 =#
 
-submit_answer(nothing; prob_num=376)
+submit_answer(nothing; prob_num=362)
 
 #=
 <h2>Problem 363: Bézier Curves</h2>
@@ -357,7 +357,7 @@ That is, if $L$ is the length of the curve, calculate $100 \times \dfrac{L - \fr
 Give your answer rounded to 10 digits behind the decimal point.</p>
 =#
 
-submit_answer(nothing; prob_num=377)
+submit_answer(nothing; prob_num=363)
 
 #=
 <h2>Problem 364: Comfortable distance</h2>
@@ -377,7 +377,7 @@ Let T(<var>N</var>) be the number of possibilities that <var>N</var> seats are o
 <p>Find T(1 000 000) mod 100 000 007.</p>
 =#
 
-submit_answer(nothing; prob_num=378)
+submit_answer(nothing; prob_num=364)
 
 #=
 <h2>Problem 365: A huge binomial coefficient</h2>
@@ -392,7 +392,7 @@ Calculate $\displaystyle{\sum M(10^{18},10^9,p\cdot q\cdot r)}$ for $1000\lt p\l
 </p>
 =#
 
-submit_answer(nothing; prob_num=379)
+submit_answer(nothing; prob_num=365)
 
 #=
 <h2>Problem 366: Stone Game III</h2>
@@ -424,7 +424,7 @@ Give your answer modulo 10<sup>8</sup>.
 </p>
 =#
 
-submit_answer(nothing; prob_num=380)
+submit_answer(nothing; prob_num=366)
 
 #=
 <h2>Problem 367: Bozo sort</h2>
@@ -449,7 +449,7 @@ Give your answer rounded to the nearest integer.
 </p>
 =#
 
-submit_answer(nothing; prob_num=381)
+submit_answer(nothing; prob_num=367)
 
 #=
 <h2>Problem 368: A Kempner-like series</h2>
@@ -470,7 +470,7 @@ $$\dfrac{1}{1111}, \dfrac{1}{1112}, \dfrac{1}{1113}, \dfrac{1}{1114}, \dfrac{1}{
 Give your answer rounded to 10 digits behind the decimal point.</p>
 =#
 
-submit_answer(nothing; prob_num=382)
+submit_answer(nothing; prob_num=368)
 
 #=
 <h2>Problem 369: Badugi</h2>
@@ -481,7 +481,7 @@ submit_answer(nothing; prob_num=382)
 <p>Find <span style="font-size:larger;"><span style="font-size:larger;">∑</span></span> f(<var>n</var>)  for 4 ≤ <var>n</var> ≤ 13.</p>
 =#
 
-submit_answer(nothing; prob_num=383)
+submit_answer(nothing; prob_num=369)
 
 #=
 <h2>Problem 370: Geometric triangles</h2>
@@ -494,7 +494,7 @@ submit_answer(nothing; prob_num=383)
 <p>How many geometric triangles exist with perimeter ≤ 2.5·10<sup>13</sup> ?</p>
 =#
 
-submit_answer(nothing; prob_num=384)
+submit_answer(nothing; prob_num=370)
 
 #=
 <h2>Problem 371: Licence plates</h2>
@@ -515,7 +515,7 @@ Give your answer rounded to 8 decimal places behind the decimal point.
 </p>
 =#
 
-submit_answer(nothing; prob_num=385)
+submit_answer(nothing; prob_num=371)
 
 #=
 <h2>Problem 372: Pencils of rays</h2>
@@ -529,7 +529,7 @@ Find $R(2\cdot10^6, 10^9)$.
 <u><i>Note</i></u>: $\lfloor x\rfloor$ represents the floor function.</p>
 =#
 
-submit_answer(nothing; prob_num=386)
+submit_answer(nothing; prob_num=372)
 
 #=
 <h2>Problem 373: Circumscribed Circles</h2>
@@ -547,7 +547,7 @@ Find S(10<sup>7</sup>).
 </p>
 =#
 
-submit_answer(nothing; prob_num=387)
+submit_answer(nothing; prob_num=373)
 
 #=
 <h2>Problem 374: Maximum Integer Partition Product</h2>
@@ -573,7 +573,7 @@ A partition of <var>n</var> into <b>distinct parts</b> is a partition of <var>n<
 <br />Give your answer modulo 982451653, the 50 millionth prime.</p>
 =#
 
-submit_answer(nothing; prob_num=388)
+submit_answer(nothing; prob_num=374)
 
 #=
 <h2>Problem 375: Minimum of subsequences</h2>
@@ -597,49 +597,4 @@ Find $M(2\,000\,000\,000)$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=389)
-
-#=
-<h2>Problem 376: Nontransitive sets of dice</h2>
-<p>
-Consider the following set of dice with nonstandard pips:
-</p>
-
-<p>
-Die A: 1 4 4 4 4 4<br />
-Die B: 2 2 2 5 5 5<br />
-Die C: 3 3 3 3 3 6<br /></p>
-
-<p>
-A game is played by two players picking a die in turn and rolling it. The player who rolls the highest value wins.
-</p>
-
-<p>
-If the first player picks die A and the second player picks die B we get<br />
-P(second player wins) = <sup>7</sup>/<sub>12</sub> &gt; <sup>1</sup>/<sub>2</sub></p>
-
-<p>
-If the first player picks die B and the second player picks die C we get<br />
-P(second player wins) = <sup>7</sup>/<sub>12</sub> &gt; <sup>1</sup>/<sub>2</sub></p>
-
-<p>
-If the first player picks die C and the second player picks die A we get<br />
-P(second player wins) = <sup>25</sup>/<sub>36</sub> &gt; <sup>1</sup>/<sub>2</sub></p>
-
-<p>
-So whatever die the first player picks, the second player can pick another die and have a larger than 50% chance of winning.<br />
-A set of dice having this property is called a <b>nontransitive set of dice</b>.
-</p>
-
-<p>
-We wish to investigate how many sets of nontransitive dice exist. We will assume the following conditions:</p><ul><li>There are three six-sided dice with each side having between 1 and <var>N</var> pips, inclusive.</li>
-<li>Dice with the same set of pips are equal, regardless of which side on the die the pips are located.</li>
-<li>The same pip value may appear on multiple dice; if both players roll the same value neither player wins.</li>
-<li>The sets of dice {A,B,C}, {B,C,A} and {C,A,B} are the same set.</li>
-</ul><p>
-For <var>N</var> = 7 we find there are 9780 such sets.<br />
-How many are there for <var>N</var> = 30 ?
-</p>
-=#
-
-submit_answer(nothing; prob_num=390)
+submit_answer(nothing; prob_num=375)

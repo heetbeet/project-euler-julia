@@ -14,7 +14,7 @@ include((@__DIR__)*"/shared.jl");
 <p>What area under the blancmange curve is enclosed by <var>C</var>?<br />Give your answer rounded to eight decimal places in the form <i>0.abcdefgh</i></p>
 =#
 
-submit_answer(nothing; prob_num=235)
+submit_answer(nothing; prob_num=226)
 
 #=
 <h2>Problem 227: The Chase</h2>
@@ -32,7 +32,7 @@ Otherwise, the player keeps the die for the next turn.</p>
 <p>Give your answer rounded to ten significant digits.</p>
 =#
 
-submit_answer(nothing; prob_num=236)
+submit_answer(nothing; prob_num=227)
 
 #=
 <h2>Problem 228: Minkowski Sums</h2>
@@ -61,7 +61,7 @@ adding every point in <var>S</var> to every point in <var>T</var>, where point a
 <p>How many sides does <var>S</var><sub>1864</sub> + <var>S</var><sub>1865</sub> + … + <var>S</var><sub>1909</sub> have?</p>
 =#
 
-submit_answer(nothing; prob_num=237)
+submit_answer(nothing; prob_num=228)
 
 #=
 <h2>Problem 229: Four Representations using Squares</h2>
@@ -86,7 +86,7 @@ We are interested in the numbers <var>n</var> which admit representations of all
 How many such numbers are there that do not exceed 2×10<sup>9</sup>?</p>
 =#
 
-submit_answer(nothing; prob_num=238)
+submit_answer(nothing; prob_num=229)
 
 #=
 <h2>Problem 230: Fibonacci Words</h2>
@@ -119,7 +119,7 @@ submit_answer(nothing; prob_num=238)
 <p>Find <span style="font-size:larger;"><span style="font-size:larger;">∑</span></span><sub><var>n</var> = 0,1,...,17</sub>   10<sup><var>n</var></sup>× D<sub>A,B</sub>((127+19<var>n</var>)×7<sup><var>n</var></sup>) .</p>
 =#
 
-submit_answer(nothing; prob_num=239)
+submit_answer(nothing; prob_num=230)
 
 #=
 <h2>Problem 231: The prime factorisation of binomial coefficients</h2>
@@ -131,7 +131,7 @@ Find the sum of the terms in the prime factorisation of $\displaystyle \binom {2
 </p>
 =#
 
-submit_answer(nothing; prob_num=240)
+submit_answer(nothing; prob_num=231)
 
 #=
 <h2>Problem 232: The Race</h2>
@@ -150,7 +150,7 @@ submit_answer(nothing; prob_num=240)
 <p>Give your answer rounded to eight decimal places in the form $0.abcdefgh$.</p>
 =#
 
-submit_answer(nothing; prob_num=241)
+submit_answer(nothing; prob_num=232)
 
 #=
 <h2>Problem 233: Lattice points on a circle</h2>
@@ -160,7 +160,7 @@ submit_answer(nothing; prob_num=241)
 <p>What is the sum of all positive integers <var>N</var> ≤ 10<sup>11</sup> such that <var>f</var>(<var>N</var>) = 420 ?</p>
 =#
 
-submit_answer(nothing; prob_num=242)
+submit_answer(nothing; prob_num=233)
 
 #=
 <h2>Problem 234: Semidivisible numbers</h2>
@@ -174,7 +174,7 @@ As a further example, the sum of the 92 semidivisible numbers up to 1000 is 3482
 <p>What is the sum of all semidivisible numbers not exceeding 999966663333 ?</p>
 =#
 
-submit_answer(nothing; prob_num=243)
+submit_answer(nothing; prob_num=234)
 
 #=
 <h2>Problem 235: An Arithmetic Geometric sequence</h2>
@@ -190,7 +190,7 @@ Give your answer rounded to 12 places behind the decimal point.
 </p>
 =#
 
-submit_answer(nothing; prob_num=244)
+submit_answer(nothing; prob_num=235)
 
 #=
 <h2>Problem 236: Luxury Hampers</h2>
@@ -209,7 +209,7 @@ submit_answer(nothing; prob_num=244)
 Give your answer as a fraction reduced to its lowest terms, in the form <var>u</var>/<var>v</var>.</p>
 =#
 
-submit_answer(nothing; prob_num=245)
+submit_answer(nothing; prob_num=236)
 
 #=
 <h2>Problem 237: Tours on a 4 x n playing board</h2>
@@ -226,7 +226,7 @@ submit_answer(nothing; prob_num=245)
 <p>T(10) is 2329. What is T(10<sup>12</sup>) modulo 10<sup>8</sup>?</p>
 =#
 
-submit_answer(nothing; prob_num=246)
+submit_answer(nothing; prob_num=237)
 
 #=
 <h2>Problem 238: Infinite string tour</h2>
@@ -266,7 +266,7 @@ start at position <b>3</b>, hence <var>p</var>(2) = <var>p</var>(9) = �
 <p>Find <span style="font-size:larger;"><span style="font-size:larger;">∑</span></span> <var>p</var>(<var>k</var>), for 0 &lt; <var>k</var> ≤ 2×10<sup>15</sup>.</p>
 =#
 
-submit_answer(nothing; prob_num=247)
+submit_answer(nothing; prob_num=238)
 
 #=
 <h2>Problem 239: Twenty-two Foolish Primes</h2>
@@ -278,7 +278,7 @@ submit_answer(nothing; prob_num=247)
 <p>Give your answer rounded to 12 places behind the decimal point in the form 0.abcdefghijkl.</p>
 =#
 
-submit_answer(nothing; prob_num=248)
+submit_answer(nothing; prob_num=239)
 
 #=
 <h2>Problem 240: Top Dice</h2>
@@ -296,7 +296,7 @@ D<sub>1</sub>,D<sub>2</sub>,D<sub>3</sub>,D<sub>4</sub>,D<sub>5</sub> = 6,6,3,3,
 In how many ways can twenty 12-sided dice (sides numbered 1 to 12) be rolled so that the top ten sum to 70?</p>
 =#
 
-submit_answer(nothing; prob_num=249)
+submit_answer(nothing; prob_num=240)
 
 #=
 <h2>Problem 241: Perfection Quotients</h2>
@@ -309,7 +309,7 @@ submit_answer(nothing; prob_num=249)
 <p>Find the sum of all positive integers $n \le 10^{18}$ for which $p(n)$ has the form $k + \dfrac{1}{2}$, where $k$ is an integer.</p>
 =#
 
-submit_answer(nothing; prob_num=250)
+submit_answer(nothing; prob_num=241)
 
 #=
 <h2>Problem 242: Odd Triplets</h2>
@@ -324,7 +324,7 @@ an <i>odd-triplet</i> [<var>n</var>,<var>k</var>,<var>f</var>(<var>n</var>,<var>
 <p>How many odd-triplets are there with <var>n</var> ≤ 10<sup>12</sup> ?</p>
 =#
 
-submit_answer(nothing; prob_num=251)
+submit_answer(nothing; prob_num=242)
 
 #=
 <h2>Problem 243: Resilience</h2>
@@ -340,7 +340,7 @@ In fact, <var>d</var> = 12 is the smallest denominator having a resilience <
 <p>Find the smallest denominator <var>d</var>, having a resilience <var>R</var>(<var>d</var>) &lt; <sup>15499</sup>/<sub>94744</sub> .</p>
 =#
 
-submit_answer(nothing; prob_num=252)
+submit_answer(nothing; prob_num=243)
 
 #=
 <h2>Problem 244: Sliders</h2>
@@ -372,7 +372,7 @@ find all shortest ways to reach configuration (<b>T</b>).</p>
 <p>What is the sum of all checksums for the paths having the minimal length?</p>
 =#
 
-submit_answer(nothing; prob_num=253)
+submit_answer(nothing; prob_num=244)
 
 #=
 <h2>Problem 245: Coresilience</h2>
@@ -387,7 +387,7 @@ submit_answer(nothing; prob_num=253)
 <p>Find the sum of all <b>composite</b> integers $1 \lt n \le 2 \times 10^{11}$, for which $C(n)$ is a <dfn title="A fraction with numerator 1">unit fraction</dfn>.</p>
 =#
 
-submit_answer(nothing; prob_num=254)
+submit_answer(nothing; prob_num=245)
 
 #=
 <h2>Problem 246: Tangents to an ellipse</h2>
@@ -414,7 +414,7 @@ For how many lattice points P is angle RPS greater than 45 degrees?
 </p>
 =#
 
-submit_answer(nothing; prob_num=255)
+submit_answer(nothing; prob_num=246)
 
 #=
 <h2>Problem 247: Squares under a hyperbola</h2>
@@ -437,7 +437,7 @@ What is the largest <var>n</var> for which the index of S<sub><var>n</var></sub>
 </p>
 =#
 
-submit_answer(nothing; prob_num=256)
+submit_answer(nothing; prob_num=247)
 
 #=
 <h2>Problem 248: Numbers for which Euler’s totient function equals 13!</h2>
@@ -445,7 +445,7 @@ submit_answer(nothing; prob_num=256)
 <p>Find the 150,000<sup>th</sup> such number.</p>
 =#
 
-submit_answer(nothing; prob_num=257)
+submit_answer(nothing; prob_num=248)
 
 #=
 <h2>Problem 249: Prime Subset Sums</h2>
@@ -454,31 +454,11 @@ submit_answer(nothing; prob_num=257)
 Enter the rightmost 16 digits as your answer.</p>
 =#
 
-submit_answer(nothing; prob_num=258)
+submit_answer(nothing; prob_num=249)
 
 #=
 <h2>Problem 250: 250250</h2>
 <p>Find the number of non-empty subsets of {1<sup>1</sup>, 2<sup>2</sup>, 3<sup>3</sup>,..., 250250<sup>250250</sup>}, the sum of whose elements is divisible by 250. Enter the rightmost 16 digits as your answer.</p>
 =#
 
-submit_answer(nothing; prob_num=259)
-
-#=
-<h2>Problem 251: Cardano Triplets</h2>
-<p>
-A triplet of positive integers (<var>a</var>,<var>b</var>,<var>c</var>) is called a Cardano Triplet if it satisfies the condition:</p>
-$$\sqrt[3]{a + b \sqrt{c}} + \sqrt[3]{a - b \sqrt{c}} = 1$$
-
-<p>
-For example, (2,1,5) is a Cardano Triplet.
-</p>
-<p>
-There exist 149 Cardano Triplets for which <var>a</var>+<var>b</var>+<var>c</var> ≤ 1000.
-</p>
-<p>
-Find how many Cardano Triplets exist such that <var>a</var>+<var>b</var>+<var>c</var> ≤ 110,000,000.
- 
-</p>
-=#
-
-submit_answer(nothing; prob_num=260)
+submit_answer(nothing; prob_num=250)

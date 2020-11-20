@@ -25,7 +25,7 @@ include((@__DIR__)*"/shared.jl");
 <p>Find the sum of FITs for the BOPs.</p>
 =#
 
-submit_answer(nothing; prob_num=105)
+submit_answer(nothing; prob_num=101)
 
 #=
 <h2>Problem 102: Triangle containment</h2>
@@ -38,7 +38,7 @@ X(-175,41), Y(-421,-714), Z(574,-645)</p>
 <p class="smaller">NOTE: The first two examples in the file represent the triangles in the example given above.</p>
 =#
 
-submit_answer(nothing; prob_num=106)
+submit_answer(nothing; prob_num=102)
 
 #=
 <h2>Problem 103: Special subset sums: optimum</h2>
@@ -53,7 +53,7 @@ submit_answer(nothing; prob_num=106)
 <p class="smaller">NOTE: This problem is related to <a href="https://projecteuler.net/problem=105">Problem 105</a> and <a href="problem=106">Problem 106</a>.</p>
 =#
 
-submit_answer(nothing; prob_num=107)
+submit_answer(nothing; prob_num=103)
 
 #=
 <h2>Problem 104: Pandigital Fibonacci ends</h2>
@@ -63,7 +63,7 @@ submit_answer(nothing; prob_num=107)
 <p>Given that F<sub><i>k</i></sub> is the first Fibonacci number for which the first nine digits AND the last nine digits are 1-9 pandigital, find <i>k</i>.</p>
 =#
 
-submit_answer(nothing; prob_num=108)
+submit_answer(nothing; prob_num=104)
 
 #=
 <h2>Problem 105: Special subset sums: testing</h2>
@@ -75,7 +75,7 @@ submit_answer(nothing; prob_num=108)
 <p class="smaller">NOTE: This problem is related to <a href="https://projecteuler.net/problem=103">Problem 103</a> and <a href="problem=106">Problem 106</a>.</p>
 =#
 
-submit_answer(nothing; prob_num=109)
+submit_answer(nothing; prob_num=105)
 
 #=
 <h2>Problem 106: Special subset sums: meta-testing</h2>
@@ -88,7 +88,7 @@ submit_answer(nothing; prob_num=109)
 <p class="smaller">NOTE: This problem is related to <a href="https://projecteuler.net/problem=103">Problem 103</a> and <a href="problem=105">Problem 105</a>.</p>
 =#
 
-submit_answer(nothing; prob_num=110)
+submit_answer(nothing; prob_num=106)
 
 #=
 <h2>Problem 107: Minimal network</h2>
@@ -110,7 +110,7 @@ submit_answer(nothing; prob_num=110)
 <p>Using <a href="project/resources/p107_network.txt">network.txt</a> (right click and 'Save Link/Target As...'), a 6K text file containing a network with forty vertices, and given in matrix form, find the maximum saving which can be achieved by removing redundant edges whilst ensuring that the network remains connected.</p>
 =#
 
-submit_answer(nothing; prob_num=111)
+submit_answer(nothing; prob_num=107)
 
 #=
 <h2>Problem 108: Diophantine reciprocals I</h2>
@@ -128,7 +128,7 @@ $$
 <p class="note">NOTE: This problem is an easier version of <a href="https://projecteuler.net/problem=110">Problem 110</a>; it is strongly advised that you solve this one first.</p>
 =#
 
-submit_answer(nothing; prob_num=112)
+submit_answer(nothing; prob_num=108)
 
 #=
 <h2>Problem 109: Darts</h2>
@@ -166,7 +166,7 @@ submit_answer(nothing; prob_num=112)
 <p>How many distinct ways can a player checkout with a score less than 100?</p>
 =#
 
-submit_answer(nothing; prob_num=113)
+submit_answer(nothing; prob_num=109)
 
 #=
 <h2>Problem 110: Diophantine reciprocals II</h2>
@@ -179,7 +179,7 @@ submit_answer(nothing; prob_num=113)
 <p class="smaller">NOTE: This problem is a much more difficult version of <a href="https://projecteuler.net/problem=108">Problem 108</a> and as it is well beyond the limitations of a brute force approach it requires a clever implementation.</p>
 =#
 
-submit_answer(nothing; prob_num=114)
+submit_answer(nothing; prob_num=110)
 
 #=
 <h2>Problem 111: Primes with runs</h2>
@@ -238,7 +238,7 @@ submit_answer(nothing; prob_num=114)
 <p>Find the sum of all S(10, <i>d</i>).</p>
 =#
 
-submit_answer(nothing; prob_num=115)
+submit_answer(nothing; prob_num=111)
 
 #=
 <h2>Problem 112: Bouncy numbers</h2>
@@ -250,7 +250,7 @@ submit_answer(nothing; prob_num=115)
 <p>Find the least number for which the proportion of bouncy numbers is exactly 99%.</p>
 =#
 
-submit_answer(nothing; prob_num=116)
+submit_answer(nothing; prob_num=112)
 
 #=
 <h2>Problem 113: Non-bouncy numbers</h2>
@@ -261,7 +261,7 @@ submit_answer(nothing; prob_num=116)
 <p>How many numbers below a googol (10<sup>100</sup>) are not bouncy?</p>
 =#
 
-submit_answer(nothing; prob_num=117)
+submit_answer(nothing; prob_num=113)
 
 #=
 <h2>Problem 114: Counting block combinations I</h2>
@@ -275,7 +275,7 @@ submit_answer(nothing; prob_num=117)
 <p class="note">NOTE: Although the example above does not lend itself to the possibility, in general it is permitted to mix block sizes. For example, on a row measuring eight units in length you could use red (3), grey (1), and red (4).</p>
 =#
 
-submit_answer(nothing; prob_num=118)
+submit_answer(nothing; prob_num=114)
 
 #=
 <h2>Problem 115: Counting block combinations II</h2>
@@ -288,7 +288,7 @@ submit_answer(nothing; prob_num=118)
 <p>For <i>m</i> = 50, find the least value of <i>n</i> for which the fill-count function first exceeds one million.</p>
 =#
 
-submit_answer(nothing; prob_num=119)
+submit_answer(nothing; prob_num=115)
 
 #=
 <h2>Problem 116: Red, green or blue tiles</h2>
@@ -316,7 +316,7 @@ submit_answer(nothing; prob_num=119)
 <p class="note">NOTE: This is related to <a href="https://projecteuler.net/problem=117">Problem 117</a>.</p>
 =#
 
-submit_answer(nothing; prob_num=120)
+submit_answer(nothing; prob_num=116)
 
 #=
 <h2>Problem 117: Red, green, and blue tiles</h2>
@@ -330,7 +330,7 @@ submit_answer(nothing; prob_num=120)
 <p class="note">NOTE: This is related to <a href="https://projecteuler.net/problem=116">Problem 116</a>.</p>
 =#
 
-submit_answer(nothing; prob_num=121)
+submit_answer(nothing; prob_num=117)
 
 #=
 <h2>Problem 118: Pandigital prime sets</h2>
@@ -338,7 +338,7 @@ submit_answer(nothing; prob_num=121)
 <p>How many distinct sets containing each of the digits one through nine exactly once contain only prime elements?</p>
 =#
 
-submit_answer(nothing; prob_num=122)
+submit_answer(nothing; prob_num=118)
 
 #=
 <h2>Problem 119: Digit power sum</h2>
@@ -348,7 +348,7 @@ submit_answer(nothing; prob_num=122)
 <p>Find <i>a</i><sub>30</sub>.</p>
 =#
 
-submit_answer(nothing; prob_num=123)
+submit_answer(nothing; prob_num=119)
 
 #=
 <h2>Problem 120: Square remainders</h2>
@@ -357,7 +357,7 @@ submit_answer(nothing; prob_num=123)
 <p>For 3 ≤ <i>a</i> ≤ 1000, find <span style="font-family:'times new roman';font-size:13pt;">∑</span> <i>r</i><sub>max</sub>.</p>
 =#
 
-submit_answer(nothing; prob_num=124)
+submit_answer(nothing; prob_num=120)
 
 #=
 <h2>Problem 121: Disc game prize fund</h2>
@@ -367,7 +367,7 @@ submit_answer(nothing; prob_num=124)
 <p>Find the maximum prize fund that should be allocated to a single game in which fifteen turns are played.</p>
 =#
 
-submit_answer(nothing; prob_num=125)
+submit_answer(nothing; prob_num=121)
 
 #=
 <h2>Problem 122: Efficient exponentiation</h2>
@@ -381,7 +381,7 @@ submit_answer(nothing; prob_num=125)
 <p>For 1 ≤ <i>k</i> ≤ 200, find <span style="font-family:'times new roman';font-size:13pt;">∑</span> m(<i>k</i>).</p>
 =#
 
-submit_answer(nothing; prob_num=126)
+submit_answer(nothing; prob_num=122)
 
 #=
 <h2>Problem 123: Prime square remainders</h2>
@@ -391,7 +391,7 @@ submit_answer(nothing; prob_num=126)
 <p>Find the least value of <i>n</i> for which the remainder first exceeds 10<sup>10</sup>.</p>
 =#
 
-submit_answer(nothing; prob_num=127)
+submit_answer(nothing; prob_num=123)
 
 #=
 <h2>Problem 124: Ordered radicals</h2>
@@ -440,7 +440,7 @@ submit_answer(nothing; prob_num=127)
 <p>If rad(<i>n</i>) is sorted for 1 ≤ <i>n</i> ≤ 100000, find E(10000).</p>
 =#
 
-submit_answer(nothing; prob_num=128)
+submit_answer(nothing; prob_num=124)
 
 #=
 <h2>Problem 125: Palindromic sums</h2>
@@ -449,18 +449,4 @@ submit_answer(nothing; prob_num=128)
 <p>Find the sum of all the numbers less than 10<sup>8</sup> that are both palindromic and can be written as the sum of consecutive squares.</p>
 =#
 
-submit_answer(nothing; prob_num=129)
-
-#=
-<h2>Problem 126: Cuboid layers</h2>
-<p>The minimum number of cubes to cover every visible face on a cuboid measuring 3 x 2 x 1 is twenty-two.</p>
-<div class="center">
-<img src="project/images/p126.png" class="dark_img" alt="" /><br /></div>
-<p>If we then add a second layer to this solid it would require forty-six cubes to cover every visible face, the third layer would require seventy-eight cubes, and the fourth layer would require one-hundred and eighteen cubes to cover every visible face.</p>
-<p>However, the first layer on a cuboid measuring 5 x 1 x 1 also requires twenty-two cubes; similarly the first layer on cuboids measuring 5 x 3 x 1, 7 x 2 x 1, and 11 x 1 x 1 all contain forty-six cubes.</p>
-<p>We shall define C(<i>n</i>) to represent the number of cuboids that contain <i>n</i> cubes in one of its layers. So C(22) = 2, C(46) = 4, C(78) = 5, and C(118) = 8.</p>
-<p>It turns out that 154 is the least value of <i>n</i> for which C(<i>n</i>) = 10.</p>
-<p>Find the least value of <i>n</i> for which C(<i>n</i>) = 1000.</p>
-=#
-
-submit_answer(nothing; prob_num=130)
+submit_answer(nothing; prob_num=125)

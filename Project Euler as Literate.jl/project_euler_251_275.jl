@@ -18,7 +18,7 @@ Find how many Cardano Triplets exist such that <var>a</var>+<var>b</var>+<var>c<
 </p>
 =#
 
-submit_answer(nothing; prob_num=261)
+submit_answer(nothing; prob_num=251)
 
 #=
 <h2>Problem 252: Convex Holes</h2>
@@ -53,7 +53,7 @@ What is the maximum area for a convex hole on the set containing the first 500 p
 </p>
 =#
 
-submit_answer(nothing; prob_num=262)
+submit_answer(nothing; prob_num=252)
 
 #=
 <h2>Problem 253: Tidying up</h2>
@@ -80,7 +80,7 @@ For a caterpillar of ten pieces, the number of possibilities for each <var>M</va
 <p>Give your answer rounded to six decimal places.</p>
 =#
 
-submit_answer(nothing; prob_num=263)
+submit_answer(nothing; prob_num=253)
 
 #=
 <h2>Problem 254: Sums of Digit Factorials</h2>
@@ -97,7 +97,7 @@ submit_answer(nothing; prob_num=263)
 <p>What is <span style="font-size:larger;"><span style="font-size:larger;">∑</span></span> sg(<var>i</var>) for 1 ≤ <var>i</var> ≤ 150?</p>
 =#
 
-submit_answer(nothing; prob_num=264)
+submit_answer(nothing; prob_num=254)
 
 #=
 <h2>Problem 255: Rounded Square Roots</h2>
@@ -128,7 +128,7 @@ Give your answer rounded to 10 decimal places.
 </p>
 =#
 
-submit_answer(nothing; prob_num=265)
+submit_answer(nothing; prob_num=255)
 
 #=
 <h2>Problem 256: Tatami-Free Rooms</h2>
@@ -161,7 +161,7 @@ In fact, <var>s</var> = 1320 is the smallest room-size <var>s</var> for which <v
 <p>Find the smallest room-size <var>s</var> for which <var>T</var>(<var>s</var>) = 200.</p>
 =#
 
-submit_answer(nothing; prob_num=266)
+submit_answer(nothing; prob_num=256)
 
 #=
 <h2>Problem 257: Angular Bisectors</h2>
@@ -182,7 +182,7 @@ How many triangles ABC with perimeter≤100,000,000 exist so that the ratio area
 </p>
 =#
 
-submit_answer(nothing; prob_num=267)
+submit_answer(nothing; prob_num=257)
 
 #=
 <h2>Problem 258: A lagged Fibonacci sequence</h2>
@@ -193,7 +193,7 @@ submit_answer(nothing; prob_num=267)
 </li></ul><p>Find <var>g</var><sub><var>k</var></sub> mod 20092010 for <var>k</var> = 10<sup>18</sup>.</p>
 =#
 
-submit_answer(nothing; prob_num=268)
+submit_answer(nothing; prob_num=258)
 
 #=
 <h2>Problem 259: Reachable Numbers</h2>
@@ -210,7 +210,7 @@ submit_answer(nothing; prob_num=268)
 <p>What is the sum of all positive reachable integers?</p>
 =#
 
-submit_answer(nothing; prob_num=269)
+submit_answer(nothing; prob_num=259)
 
 #=
 <h2>Problem 260: Stone Game</h2>
@@ -239,7 +239,7 @@ We can verify that $\sum (x_i + y_i + z_i) = 173895$ for these.</p>
 <p>Find $\sum (x_i + y_i + z_i)$ where $(x_i, y_i, z_i)$ ranges over the losing configurations with $x_i \le y_i \le z_i \le 1000$.</p>
 =#
 
-submit_answer(nothing; prob_num=270)
+submit_answer(nothing; prob_num=260)
 
 #=
 <h2>Problem 261: Pivotal Square Sums</h2>
@@ -255,7 +255,7 @@ submit_answer(nothing; prob_num=270)
 <li><b>110</b>: 108<sup>2</sup> + 109<sup>2</sup> + <b>110</b><sup>2</sup> = 133<sup>2</sup> + 134<sup>2</sup></li></ul><p>Find the sum of all <b>distinct</b> square-pivots ≤ 10<sup>10</sup>.</p>
 =#
 
-submit_answer(nothing; prob_num=271)
+submit_answer(nothing; prob_num=261)
 
 #=
 <h2>Problem 262: Mountain Range</h2>
@@ -277,7 +277,7 @@ Then, find the length of the shortest path between A' and B', while flying at th
 h=( 5000-0.005*(x*x+y*y+x*y)+12.5*(x+y) ) * exp( -abs(0.000001*(x*x+y*y)-0.0015*(x+y)+0.7) )</font></p>
 =#
 
-submit_answer(nothing; prob_num=272)
+submit_answer(nothing; prob_num=262)
 
 #=
 <h2>Problem 263: An engineers' dream come true</h2>
@@ -305,7 +305,7 @@ Find the sum of the first four engineers’ paradises.
 </p>
 =#
 
-submit_answer(nothing; prob_num=273)
+submit_answer(nothing; prob_num=263)
 
 #=
 <h2>Problem 264: Triangle Centres</h2>
@@ -332,7 +332,7 @@ A(9, 2), B(2, -9), C(-6, 7)<br /></td>
 Enter as your answer the sum of their perimeters rounded to four decimal places.</p>
 =#
 
-submit_answer(nothing; prob_num=274)
+submit_answer(nothing; prob_num=264)
 
 #=
 <h2>Problem 265: Binary Circles</h2>
@@ -352,7 +352,7 @@ submit_answer(nothing; prob_num=274)
 <p>Find S(5).</p>
 =#
 
-submit_answer(nothing; prob_num=275)
+submit_answer(nothing; prob_num=265)
 
 #=
 <h2>Problem 266: Pseudo Square Root</h2>
@@ -368,7 +368,7 @@ Find PSR(<var>p</var>) mod 10<sup>16</sup>.
 </p>
 =#
 
-submit_answer(nothing; prob_num=276)
+submit_answer(nothing; prob_num=266)
 
 #=
 <h2>Problem 267: Billionaire</h2>
@@ -380,7 +380,7 @@ submit_answer(nothing; prob_num=276)
 <p>All computations are assumed to be exact (no rounding), but give your answer rounded to 12 digits behind the decimal point in the form 0.abcdefghijkl.</p>
 =#
 
-submit_answer(nothing; prob_num=277)
+submit_answer(nothing; prob_num=267)
 
 #=
 <h2>Problem 268: Counting numbers with at least four distinct prime factors less than 100</h2>
@@ -389,7 +389,7 @@ submit_answer(nothing; prob_num=277)
 <p>Find how many positive integers less than 10<sup>16</sup> are divisible by at least four distinct primes less than 100.</p>
 =#
 
-submit_answer(nothing; prob_num=278)
+submit_answer(nothing; prob_num=268)
 
 #=
 <h2>Problem 269: Polynomials with at least one integer root</h2>
@@ -406,7 +406,7 @@ For example, P<sub>5703</sub>(<var>x</var>) = 5<var>x</var><sup>3</sup> + 7<var>
 <p>What is Z(10<sup>16</sup>)?</p>
 =#
 
-submit_answer(nothing; prob_num=279)
+submit_answer(nothing; prob_num=269)
 
 #=
 <h2>Problem 270: Cutting Squares</h2>
@@ -420,7 +420,7 @@ submit_answer(nothing; prob_num=279)
 <p>What is C(30) mod 10<sup>8</sup> ?</p>
 =#
 
-submit_answer(nothing; prob_num=280)
+submit_answer(nothing; prob_num=270)
 
 #=
 <h2>Problem 271: Modular Cubes, part 1</h2>
@@ -435,7 +435,7 @@ Find S(13082761331670030).
 </p>
 =#
 
-submit_answer(nothing; prob_num=281)
+submit_answer(nothing; prob_num=271)
 
 #=
 <h2>Problem 272: Modular Cubes, part 2</h2>
@@ -449,7 +449,7 @@ Thus, C(91)=8.</p>
 Find the sum of the positive numbers <var>n</var>≤10<sup>11</sup> for which C(<var>n</var>)=242.</p>
 =#
 
-submit_answer(nothing; prob_num=282)
+submit_answer(nothing; prob_num=272)
 
 #=
 <h2>Problem 273: Sum of Squares</h2>
@@ -462,7 +462,7 @@ submit_answer(nothing; prob_num=282)
 <p>Find <span style="font-size:larger;"><span style="font-size:larger;">∑</span></span> S(<var>N</var>), for all squarefree <var>N</var> only divisible by primes of the form 4<var>k</var>+1 with 4<var>k</var>+1 &lt; 150.</p>
 =#
 
-submit_answer(nothing; prob_num=283)
+submit_answer(nothing; prob_num=273)
 
 #=
 <h2>Problem 274: Divisibility Multipliers</h2>
@@ -481,7 +481,7 @@ submit_answer(nothing; prob_num=283)
 <p>The sum of the divisibility multipliers for the primes that are coprime to 10 and less than 1000 is 39517. What is the sum of the divisibility multipliers for the primes that are coprime to 10 and less than 10<sup>7</sup>?</p>
 =#
 
-submit_answer(nothing; prob_num=284)
+submit_answer(nothing; prob_num=274)
 
 #=
 <h2>Problem 275: Balanced Sculptures</h2>
@@ -496,14 +496,4 @@ submit_answer(nothing; prob_num=284)
 <p>There are 964 balanced sculptures of order 10 and 360505 of order 15.<br />How many balanced sculptures are there of order 18?</p>
 =#
 
-submit_answer(nothing; prob_num=285)
-
-#=
-<h2>Problem 276: Primitive Triangles</h2>
-<p>Consider the triangles with integer sides a, b and c with a ≤ b ≤ c.<br />
-An integer sided triangle (a,b,c) is called primitive if <dfn title="gcd(a,b,c)=gcd(a,gcd(b,c))"> gcd(a,b,c)</dfn>=1. <br />
-How many primitive integer sided triangles exist with a perimeter not exceeding 10 000 000?
-</p>
-=#
-
-submit_answer(nothing; prob_num=286)
+submit_answer(nothing; prob_num=275)

@@ -7,7 +7,7 @@ include((@__DIR__)*"/shared.jl");
 <p>Find the smallest prime which, by replacing part of the number (not necessarily adjacent digits) with the same digit, is part of an eight prime value family.</p>
 =#
 
-submit_answer(nothing; prob_num=53)
+submit_answer(nothing; prob_num=51)
 
 #=
 <h2>Problem 52: Permuted multiples</h2>
@@ -15,7 +15,7 @@ submit_answer(nothing; prob_num=53)
 <p>Find the smallest positive integer, <i>x</i>, such that 2<i>x</i>, 3<i>x</i>, 4<i>x</i>, 5<i>x</i>, and 6<i>x</i>, contain the same digits.</p>
 =#
 
-submit_answer(nothing; prob_num=54)
+submit_answer(nothing; prob_num=52)
 
 #=
 <h2>Problem 53: Combinatoric selections</h2>
@@ -28,7 +28,7 @@ submit_answer(nothing; prob_num=54)
 <p>How many, not necessarily distinct, values of $\displaystyle \binom n r$ for $1 \le n \le 100$, are greater than one-million?</p>
 =#
 
-submit_answer(nothing; prob_num=55)
+submit_answer(nothing; prob_num=53)
 
 #=
 <h2>Problem 54: Poker hands</h2>
@@ -58,7 +58,7 @@ submit_answer(nothing; prob_num=55)
 <p>How many hands does Player 1 win?</p>
 =#
 
-submit_answer(nothing; prob_num=56)
+submit_answer(nothing; prob_num=54)
 
 #=
 <h2>Problem 55: Lychrel numbers</h2>
@@ -74,7 +74,7 @@ submit_answer(nothing; prob_num=56)
 <p class="smaller">NOTE: Wording was modified slightly on 24 April 2007 to emphasise the theoretical nature of Lychrel numbers.</p>
 =#
 
-submit_answer(nothing; prob_num=57)
+submit_answer(nothing; prob_num=55)
 
 #=
 <h2>Problem 56: Powerful digit sum</h2>
@@ -82,7 +82,7 @@ submit_answer(nothing; prob_num=57)
 <p>Considering natural numbers of the form, <i>a<sup>b</sup></i>, where <i>a, b</i> &lt; 100, what is the maximum digital sum?</p>
 =#
 
-submit_answer(nothing; prob_num=58)
+submit_answer(nothing; prob_num=56)
 
 #=
 <h2>Problem 57: Square root convergents</h2>
@@ -97,7 +97,7 @@ $1 + \frac 1 {2 + \frac 1 {2+\frac 1 {2+\frac 1 2}}} = \frac {41}{29} = 1.41379 
 <p>In the first one-thousand expansions, how many fractions contain a numerator with more digits than the denominator?</p>
 =#
 
-submit_answer(nothing; prob_num=59)
+submit_answer(nothing; prob_num=57)
 
 #=
 <h2>Problem 58: Spiral primes</h2>
@@ -112,7 +112,7 @@ submit_answer(nothing; prob_num=59)
 <p>If one complete new layer is wrapped around the spiral above, a square spiral with side length 9 will be formed. If this process is continued, what is the side length of the square spiral for which the ratio of primes along both diagonals first falls below 10%?</p>
 =#
 
-submit_answer(nothing; prob_num=60)
+submit_answer(nothing; prob_num=58)
 
 #=
 <h2>Problem 59: XOR decryption</h2>
@@ -123,7 +123,7 @@ submit_answer(nothing; prob_num=60)
 <p>Your task has been made easy, as the encryption key consists of three lower case characters. Using <a href="project/resources/p059_cipher.txt">p059_cipher.txt</a> (right click and 'Save Link/Target As...'), a file containing the encrypted ASCII codes, and the knowledge that the plain text must contain common English words, decrypt the message and find the sum of the ASCII values in the original text.</p>
 =#
 
-submit_answer(nothing; prob_num=61)
+submit_answer(nothing; prob_num=59)
 
 #=
 <h2>Problem 60: Prime pair sets</h2>
@@ -131,7 +131,7 @@ submit_answer(nothing; prob_num=61)
 <p>Find the lowest sum for a set of five primes for which any two primes concatenate to produce another prime.</p>
 =#
 
-submit_answer(nothing; prob_num=62)
+submit_answer(nothing; prob_num=60)
 
 #=
 <h2>Problem 61: Cyclical figurate numbers</h2>
@@ -173,7 +173,7 @@ submit_answer(nothing; prob_num=62)
 </ol><p>Find the sum of the only ordered set of six cyclic 4-digit numbers for which each polygonal type: triangle, square, pentagonal, hexagonal, heptagonal, and octagonal, is represented by a different number in the set.</p>
 =#
 
-submit_answer(nothing; prob_num=63)
+submit_answer(nothing; prob_num=61)
 
 #=
 <h2>Problem 62: Cubic permutations</h2>
@@ -181,7 +181,7 @@ submit_answer(nothing; prob_num=63)
 <p>Find the smallest cube for which exactly five permutations of its digits are cube.</p>
 =#
 
-submit_answer(nothing; prob_num=64)
+submit_answer(nothing; prob_num=62)
 
 #=
 <h2>Problem 63: Powerful digit counts</h2>
@@ -189,7 +189,7 @@ submit_answer(nothing; prob_num=64)
 <p>How many <i>n</i>-digit positive integers exist which are also an <i>n</i>th power?</p>
 =#
 
-submit_answer(nothing; prob_num=65)
+submit_answer(nothing; prob_num=63)
 
 #=
 <h2>Problem 64: Odd period square roots</h2>
@@ -236,7 +236,7 @@ $\quad \quad \sqrt{13}=[3;(1,1,1,1,6)]$, period=$5$
 <p>How many continued fractions for $N \le 10\,000$ have an odd period?</p>
 =#
 
-submit_answer(nothing; prob_num=66)
+submit_answer(nothing; prob_num=64)
 
 #=
 <h2>Problem 65: Convergents of e</h2>
@@ -259,7 +259,7 @@ $</p>
 <p>Find the sum of digits in the numerator of the 100<sup>th</sup> convergent of the continued fraction for $e$.</p>
 =#
 
-submit_answer(nothing; prob_num=67)
+submit_answer(nothing; prob_num=65)
 
 #=
 <h2>Problem 66: Diophantine equation</h2>
@@ -276,7 +276,7 @@ submit_answer(nothing; prob_num=67)
 <p>Find the value of D ≤ 1000 in minimal solutions of <i>x</i> for which the largest value of <i>x</i> is obtained.</p>
 =#
 
-submit_answer(nothing; prob_num=68)
+submit_answer(nothing; prob_num=66)
 
 #=
 <h2>Problem 67: Maximum path sum II</h2>
@@ -289,7 +289,7 @@ submit_answer(nothing; prob_num=68)
 <p class="smaller"><b>NOTE:</b> This is a much more difficult version of <a href="https://projecteuler.net/problem=18">Problem 18</a>. It is not possible to try every route to solve this problem, as there are 2<sup>99</sup> altogether! If you could check one trillion (10<sup>12</sup>) routes every second it would take over twenty billion years to check them all. There is an efficient algorithm to solve it. ;o)</p>
 =#
 
-submit_answer(nothing; prob_num=69)
+submit_answer(nothing; prob_num=67)
 
 #=
 <h2>Problem 68: Magic 5-gon ring</h2>
@@ -315,7 +315,7 @@ submit_answer(nothing; prob_num=69)
 <img src="project/images/p068_2.png" class="dark_img" alt="" /><br /></div>
 =#
 
-submit_answer(nothing; prob_num=70)
+submit_answer(nothing; prob_num=68)
 
 #=
 <h2>Problem 69: Totient maximum</h2>
@@ -366,7 +366,7 @@ submit_answer(nothing; prob_num=70)
 <p>Find the value of <i>n</i> ≤ 1,000,000 for which <i>n</i>/φ(<i>n</i>) is a maximum.</p>
 =#
 
-submit_answer(nothing; prob_num=71)
+submit_answer(nothing; prob_num=69)
 
 #=
 <h2>Problem 70: Totient permutation</h2>
@@ -375,7 +375,7 @@ submit_answer(nothing; prob_num=71)
 <p>Find the value of <var>n</var>, 1 &lt; <var>n</var> &lt; 10<sup>7</sup>, for which φ(<var>n</var>) is a permutation of <var>n</var> and the ratio <var>n</var>/φ(<var>n</var>) produces a minimum.</p>
 =#
 
-submit_answer(nothing; prob_num=72)
+submit_answer(nothing; prob_num=70)
 
 #=
 <h2>Problem 71: Ordered fractions</h2>
@@ -386,7 +386,7 @@ submit_answer(nothing; prob_num=72)
 <p>By listing the set of reduced proper fractions for <i>d</i> ≤ 1,000,000 in ascending order of size, find the numerator of the fraction immediately to the left of 3/7.</p>
 =#
 
-submit_answer(nothing; prob_num=73)
+submit_answer(nothing; prob_num=71)
 
 #=
 <h2>Problem 72: Counting fractions</h2>
@@ -397,7 +397,7 @@ submit_answer(nothing; prob_num=73)
 <p>How many elements would be contained in the set of reduced proper fractions for <i>d</i> ≤ 1,000,000?</p>
 =#
 
-submit_answer(nothing; prob_num=74)
+submit_answer(nothing; prob_num=72)
 
 #=
 <h2>Problem 73: Counting fractions in a range</h2>
@@ -408,7 +408,7 @@ submit_answer(nothing; prob_num=74)
 <p>How many fractions lie between 1/3 and 1/2 in the sorted set of reduced proper fractions for <i>d</i> ≤ 12,000?</p>
 =#
 
-submit_answer(nothing; prob_num=75)
+submit_answer(nothing; prob_num=73)
 
 #=
 <h2>Problem 74: Digit factorial chains</h2>
@@ -426,7 +426,7 @@ submit_answer(nothing; prob_num=75)
 <p>How many chains, with a starting number below one million, contain exactly sixty non-repeating terms?</p>
 =#
 
-submit_answer(nothing; prob_num=76)
+submit_answer(nothing; prob_num=74)
 
 #=
 <h2>Problem 75: Singular integer right triangles</h2>
@@ -437,18 +437,4 @@ submit_answer(nothing; prob_num=76)
 <p>Given that L is the length of the wire, for how many values of L ≤ 1,500,000 can exactly one integer sided right angle triangle be formed?</p>
 =#
 
-submit_answer(nothing; prob_num=77)
-
-#=
-<h2>Problem 76: Counting summations</h2>
-<p>It is possible to write five as a sum in exactly six different ways:</p>
-<p class="margin_left">4 + 1<br />
-3 + 2<br />
-3 + 1 + 1<br />
-2 + 2 + 1<br />
-2 + 1 + 1 + 1<br />
-1 + 1 + 1 + 1 + 1</p>
-<p>How many different ways can one hundred be written as a sum of at least two positive integers?</p>
-=#
-
-submit_answer(nothing; prob_num=78)
+submit_answer(nothing; prob_num=75)

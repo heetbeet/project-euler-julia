@@ -25,7 +25,7 @@ Find the sum, as $i$ ranges from 1 to 31, of $P(i, 4^i)$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=625)
+submit_answer(nothing; prob_num=601)
 
 #=
 <h2>Problem 602: Product of Head Counts</h2>
@@ -52,7 +52,7 @@ Find $c(10000000, 4000000) \mod 10^9+7$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=626)
+submit_answer(nothing; prob_num=602)
 
 #=
 <h2>Problem 603: Substring sums of prime concatenations</h2>
@@ -67,7 +67,7 @@ submit_answer(nothing; prob_num=626)
 <p>Evaluate $S(C(10^6, 10^{12}))$ mod $(10^9 + 7)$.</p>
 =#
 
-submit_answer(nothing; prob_num=627)
+submit_answer(nothing; prob_num=603)
 
 #=
 <h2>Problem 604: Convex path in square</h2>
@@ -85,7 +85,7 @@ Find $F(10^{18})$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=628)
+submit_answer(nothing; prob_num=604)
 
 #=
 <h2>Problem 605: Pairwise Coin-Tossing Game</h2>
@@ -102,7 +102,7 @@ submit_answer(nothing; prob_num=628)
 <p>Find the last $8$ digits of $M_{10^8+7}(10^4+7)$.</p>
 =#
 
-submit_answer(nothing; prob_num=629)
+submit_answer(nothing; prob_num=605)
 
 #=
 <h2>Problem 606: Gozinta Chains II</h2>
@@ -120,7 +120,7 @@ Find S(10<sup>36</sup>), giving the last nine digits of your answer.
 </p>
 =#
 
-submit_answer(nothing; prob_num=630)
+submit_answer(nothing; prob_num=606)
 
 #=
 <h2>Problem 607: Marsh Crossing</h2>
@@ -143,7 +143,7 @@ Find the shortest possible time required to travel from point A to B, and give y
 </p>
 =#
 
-submit_answer(nothing; prob_num=631)
+submit_answer(nothing; prob_num=607)
 
 #=
 <h2>Problem 608: Divisor Sums</h2>
@@ -153,7 +153,7 @@ You are given $D(3!,10^2)=3398$ and $D(4!,10^6)=268882292$.</p>
 <p>Find $D(200!,10^{12}) \text{ mod } (10^9 + 7)$.</p>
 =#
 
-submit_answer(nothing; prob_num=632)
+submit_answer(nothing; prob_num=608)
 
 #=
 <h2>Problem 609: π sequences</h2>
@@ -183,7 +183,7 @@ Find $P(10^8)$. Give your answer modulo 1000000007.
 </p>
 =#
 
-submit_answer(nothing; prob_num=633)
+submit_answer(nothing; prob_num=609)
 
 #=
 <h2>Problem 610: Roman Numerals II</h2>
@@ -196,7 +196,7 @@ submit_answer(nothing; prob_num=633)
 <p>Find the expected value of the number represented by what we have written down when we stop. (If nothing is written down then count that as zero.) Give your answer rounded to 8 places after the decimal point.</p>
 =#
 
-submit_answer(nothing; prob_num=634)
+submit_answer(nothing; prob_num=610)
 
 #=
 <h2>Problem 611: Hallway of square steps</h2>
@@ -210,7 +210,7 @@ submit_answer(nothing; prob_num=634)
 <p>Find <var>F</var>(10<sup>12</sup>).</p>
 =#
 
-submit_answer(nothing; prob_num=635)
+submit_answer(nothing; prob_num=611)
 
 #=
 <h2>Problem 612: Friend numbers</h2>
@@ -226,7 +226,7 @@ Find $f(10^{18})$ mod $1000267129$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=636)
+submit_answer(nothing; prob_num=612)
 
 #=
 <h2>Problem 613: Pythagorean Ant</h2>
@@ -237,7 +237,7 @@ Another gust blows a small ant straight onto this triangle. The poor ant is comp
 Give your answer rounded to 10 digits after the decimal point.</p>
 =#
 
-submit_answer(nothing; prob_num=637)
+submit_answer(nothing; prob_num=613)
 
 #=
 <h2>Problem 614: Special partitions 2</h2>
@@ -251,7 +251,7 @@ The number $10$ admits many more integer partitions (a total of 42), but only th
 <p>Find $\displaystyle \sum_{i=1}^{10^7}{P(i)}$. Give the result modulo $10^9+7$.</p>
 =#
 
-submit_answer(nothing; prob_num=638)
+submit_answer(nothing; prob_num=614)
 
 #=
 <h2>Problem 615: The millionth number with at least one million prime factors</h2>
@@ -273,7 +273,7 @@ Find the millionth number with at least one million prime factors.<br />  Give y
 </p>
 =#
 
-submit_answer(nothing; prob_num=639)
+submit_answer(nothing; prob_num=615)
 
 #=
 <h2>Problem 616: Creative numbers</h2>
@@ -289,7 +289,7 @@ submit_answer(nothing; prob_num=639)
 </p><p>Find the sum of all creative integers less than or equal to $10^{12}$.</p>
 =#
 
-submit_answer(nothing; prob_num=640)
+submit_answer(nothing; prob_num=616)
 
 #=
 <h2>Problem 617: Mirror Power Sequence</h2>
@@ -303,7 +303,7 @@ submit_answer(nothing; prob_num=640)
 <p>Find $D(10^{18})$.</p>
 =#
 
-submit_answer(nothing; prob_num=641)
+submit_answer(nothing; prob_num=617)
 
 #=
 <h2>Problem 618: Numbers with a given prime factor sum</h2>
@@ -322,7 +322,7 @@ The Fibonacci sequence is $F_1 = 1, F_2 = 1, F_3 = 2, F_4 = 3, F_5 = 5$, ....<br
 Find the last nine digits of $\displaystyle\sum_{k=2}^{24}{S(F_k)}$.</p>
 =#
 
-submit_answer(nothing; prob_num=642)
+submit_answer(nothing; prob_num=618)
 
 #=
 <h2>Problem 619: Square subsets</h2>
@@ -333,7 +333,7 @@ submit_answer(nothing; prob_num=642)
 <p>Find $C(1000000,1234567) \text{ mod } 1000000007$.</p>
 =#
 
-submit_answer(nothing; prob_num=643)
+submit_answer(nothing; prob_num=619)
 
 #=
 <h2>Problem 620: Planetary Gears</h2>
@@ -353,7 +353,7 @@ submit_answer(nothing; prob_num=643)
 <p>Find $G(500)$.</p>
 =#
 
-submit_answer(nothing; prob_num=644)
+submit_answer(nothing; prob_num=620)
 
 #=
 <h2>Problem 621: Expressing an integer as the sum of triangular numbers</h2>
@@ -367,7 +367,7 @@ You are given $G(1000) = 78$ and $G(10^6) = 2106$.</p>
 Find $G(17 526 \times 10^9)$.</p>
 =#
 
-submit_answer(nothing; prob_num=645)
+submit_answer(nothing; prob_num=621)
 
 #=
 <h2>Problem 622: Riffle Shuffles</h2>
@@ -384,7 +384,7 @@ Find the sum of all values of n that satisfy $s(n) = 60$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=646)
+submit_answer(nothing; prob_num=622)
 
 #=
 <h2>Problem 623: Lambda Count</h2>
@@ -419,7 +419,7 @@ submit_answer(nothing; prob_num=646)
 <p>Find $\Lambda(2000)$. Give the answer modulo $1\,000\,000\,007$.</p>
 =#
 
-submit_answer(nothing; prob_num=647)
+submit_answer(nothing; prob_num=623)
 
 #=
 <h2>Problem 624: Two heads are better than one</h2>
@@ -436,7 +436,7 @@ Similarly $Q(P(3),109) = 46$.</p>
 Find $Q(P(10^{18}),1\,000\,000\,009)$.</p>
 =#
 
-submit_answer(nothing; prob_num=648)
+submit_answer(nothing; prob_num=624)
 
 #=
 <h2>Problem 625: Gcd sum</h2>
@@ -448,34 +448,4 @@ Find $G(10^{11})$. Give your answer modulo 998244353
 </p>
 =#
 
-submit_answer(nothing; prob_num=649)
-
-#=
-<h2>Problem 626: Counting Binary Matrices</h2>
-<p>A binary matrix is a matrix consisting entirely of 0s and 1s. Consider the following transformations that can be performed on a binary matrix:</p>
-
-<ul>
-<li>Swap any two rows</li>
-<li>Swap any two columns</li>
-<li>Flip all elements in a single row (1s become 0s, 0s become 1s)</li>
-<li>Flip all elements in a single column</li>
-</ul>
-
-<p>Two binary matrices $A$ and $B$ will be considered <i>equivalent</i> if there is a sequence of such transformations that when applied to $A$ yields $B$. For example, the following two matrices are equivalent:</p>
-$A=\begin{pmatrix} 
-  1 &amp; 0 &amp; 1 \\ 
-  0 &amp; 0 &amp; 1 \\
-  0 &amp; 0 &amp; 0 \\
-\end{pmatrix} \quad B=\begin{pmatrix} 
-  0 &amp; 0 &amp; 0 \\ 
-  1 &amp; 0 &amp; 0 \\
-  0 &amp; 0 &amp; 1 \\
-\end{pmatrix}$
-<p>via the sequence of two transformations "Flip all elements in column 3" followed by "Swap rows 1 and 2".</p>
-
-<p>Define $c(n)$ to be the maximum number of $n\times n$ binary matrices that can be found such that no two are equivalent. For example, $c(3)=3$. You are also given that $c(5)=39$ and $c(8)=656108$.</p>
-
-<p>Find $c(20)$, and give your answer modulo $1\,001\,001\,011$.</p>
-=#
-
-submit_answer(nothing; prob_num=650)
+submit_answer(nothing; prob_num=625)

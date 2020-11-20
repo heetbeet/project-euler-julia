@@ -36,7 +36,7 @@ Give as your answer the sum of the squares of the elements of the final state. F
 </p>
 =#
 
-submit_answer(nothing; prob_num=443)
+submit_answer(nothing; prob_num=426)
 
 #=
 <h2>Problem 427: n-sequences</h2>
@@ -53,7 +53,7 @@ For example, for the given sequence S above, L(S) = 3, because of the three cons
 <p>Find <var>f</var>(7 500 000) mod 1 000 000 009.</p>
 =#
 
-submit_answer(nothing; prob_num=444)
+submit_answer(nothing; prob_num=427)
 
 #=
 <h2>Problem 428: Necklace of circles</h2>
@@ -82,7 +82,7 @@ Find T(1 000 000 000).
 </p>
 =#
 
-submit_answer(nothing; prob_num=445)
+submit_answer(nothing; prob_num=428)
 
 #=
 <h2>Problem 429: Sum of squares of unitary divisors</h2>
@@ -99,7 +99,7 @@ Find S(100 000 000!) modulo 1 000 000 009.
 </p>
 =#
 
-submit_answer(nothing; prob_num=446)
+submit_answer(nothing; prob_num=429)
 
 #=
 <h2>Problem 430: Range flips</h2>
@@ -120,7 +120,7 @@ We can verify that E(3, 1) = 10/9, E(3, 2) = 5/3, E(10, 4) ≈ 5.157 and E(100, 
 Give your answer rounded to 2 decimal places behind the decimal point.</p>
 =#
 
-submit_answer(nothing; prob_num=447)
+submit_answer(nothing; prob_num=430)
 
 #=
 <h2>Problem 431: Square Space Silo</h2>
@@ -138,7 +138,7 @@ submit_answer(nothing; prob_num=447)
 <p>If Quick thinking Quentin is to satisfy frustratingly fussy Fred the farmer's appetite for all things square then determine the values of $x$ for all possible square space wastage options and calculate $\sum x$ correct to 9 decimal places.</p>
 =#
 
-submit_answer(nothing; prob_num=448)
+submit_answer(nothing; prob_num=431)
 
 #=
 <h2>Problem 432: Totient sum</h2>
@@ -152,7 +152,7 @@ Give the last 9 digits of your answer.
 </p>
 =#
 
-submit_answer(nothing; prob_num=449)
+submit_answer(nothing; prob_num=432)
 
 #=
 <h2>Problem 433: Steps in Euclid's algorithm</h2>
@@ -172,7 +172,7 @@ Find S(5·10<sup>6</sup>).
 </p>
 =#
 
-submit_answer(nothing; prob_num=450)
+submit_answer(nothing; prob_num=433)
 
 #=
 <h2>Problem 434: Rigid graphs</h2>
@@ -197,7 +197,7 @@ Find <var>S</var>(100), give your answer modulo 1000000033.
 </p>
 =#
 
-submit_answer(nothing; prob_num=451)
+submit_answer(nothing; prob_num=434)
 
 #=
 <h2>Problem 435: Polynomials of Fibonacci numbers</h2>
@@ -207,7 +207,7 @@ submit_answer(nothing; prob_num=451)
 <p>Let $n = 10^{15}$. Find the sum $\displaystyle{\sum_{x=0}^{100} F_n(x)}$ and give your answer modulo $1\,307\,674\,368\,000 \ (= 15!)$.</p>
 =#
 
-submit_answer(nothing; prob_num=452)
+submit_answer(nothing; prob_num=435)
 
 #=
 <h2>Problem 436: Unfair wager</h2>
@@ -228,7 +228,7 @@ What is the probability that the second player wins?<br />
 Give your answer rounded to 10 places behind the decimal point in the form 0.abcdefghij</p>
 =#
 
-submit_answer(nothing; prob_num=453)
+submit_answer(nothing; prob_num=436)
 
 #=
 <h2>Problem 437: Fibonacci primitive roots</h2>
@@ -254,7 +254,7 @@ There are 323 primes less than 10000 with one or more Fibonacci primitive roots 
 Find the sum of the primes less than 100,000,000 with at least one Fibonacci primitive root.
 =#
 
-submit_answer(nothing; prob_num=454)
+submit_answer(nothing; prob_num=437)
 
 #=
 <h2>Problem 438: Integer part of polynomial equation's solutions</h2>
@@ -275,7 +275,7 @@ Find <span style="font-size:larger;"><span style="font-size:larger;">∑</span><
 </p>
 =#
 
-submit_answer(nothing; prob_num=455)
+submit_answer(nothing; prob_num=438)
 
 #=
 <h2>Problem 439: Sum of sum of divisors</h2>
@@ -287,7 +287,7 @@ For example, S(3) = <var>d</var>(1) + <var>d</var>(2) + <var>d</var>(3) + <var>d
 Find S(10<sup>11</sup>) mod 10<sup>9</sup>.</p>
 =#
 
-submit_answer(nothing; prob_num=456)
+submit_answer(nothing; prob_num=439)
 
 #=
 <h2>Problem 440: GCD and Tiling</h2>
@@ -313,7 +313,7 @@ S(4) mod 987 898 789 = 670616280.</p>
 <p>Find S(2000) mod 987 898 789.</p>
 =#
 
-submit_answer(nothing; prob_num=457)
+submit_answer(nothing; prob_num=440)
 
 #=
 <h2>Problem 441: The inverse summation of coprime couples</h2>
@@ -332,7 +332,7 @@ Find S(10<sup>7</sup>). Give your answer rounded to four decimal places.
 </p>
 =#
 
-submit_answer(nothing; prob_num=458)
+submit_answer(nothing; prob_num=441)
 
 #=
 <h2>Problem 442: Eleven-free integers</h2>
@@ -345,7 +345,7 @@ submit_answer(nothing; prob_num=458)
 <p>Find E(10<sup>18</sup>).</p>
 =#
 
-submit_answer(nothing; prob_num=459)
+submit_answer(nothing; prob_num=442)
 
 #=
 <h2>Problem 443: GCD sequence</h2>
@@ -364,7 +364,7 @@ g(<var>n</var>) = g(<var>n</var>-1) + gcd(<var>n</var>, g(<var>n</var>-1)) for <
 <p>Find g(10<sup>15</sup>).</p>
 =#
 
-submit_answer(nothing; prob_num=460)
+submit_answer(nothing; prob_num=443)
 
 #=
 <h2>Problem 444: The Roundtable Lottery</h2>
@@ -390,7 +390,7 @@ Let $S_k(N) = \sum \limits_{p = 1}^{N} {S_{k-1}(p)}$ for $k \gt 1$.</p>
 <p>Find $S_{20}(10^{14})$ and write the answer in scientific notation rounded to 10 significant digits. Use a lowercase e to separate mantissa and exponent. For example, the answer for $S_3(100)$ would be 5.983679014e5.</p>
 =#
 
-submit_answer(nothing; prob_num=461)
+submit_answer(nothing; prob_num=444)
 
 #=
 <h2>Problem 445: Retractions A</h2>
@@ -411,7 +411,7 @@ Give your answer modulo $1\,000\,000\,007$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=462)
+submit_answer(nothing; prob_num=445)
 
 #=
 <h2>Problem 446: Retractions B</h2>
@@ -432,7 +432,7 @@ Give your answer modulo $1\,000\,000\,007$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=463)
+submit_answer(nothing; prob_num=446)
 
 #=
 <h2>Problem 447: Retractions C</h2>
@@ -453,7 +453,7 @@ Give your answer modulo $1\,000\,000\,007$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=464)
+submit_answer(nothing; prob_num=447)
 
 #=
 <h2>Problem 448: Average least common multiple</h2>
@@ -470,7 +470,7 @@ Find S(99999999019) mod 999999017.
 </p>
 =#
 
-submit_answer(nothing; prob_num=465)
+submit_answer(nothing; prob_num=448)
 
 #=
 <h2>Problem 449: Chocolate covered candy</h2>
@@ -487,7 +487,7 @@ $b^2 x^2 + b^2 y^2 + a^2 z^2 = a^2 b^2$.</p>
 <p>Find the amount of chocolate in mm<sup>3</sup> required if $a = 3$ mm and $b  =1$ mm. Give your answer as the number rounded to 8 decimal places behind the decimal point.</p>
 =#
 
-submit_answer(nothing; prob_num=466)
+submit_answer(nothing; prob_num=449)
 
 #=
 <h2>Problem 450: Hypocycloid and Lattice points</h2>
@@ -526,27 +526,4 @@ Let $S(R, r) = \sum_{(x,y) \in C(R, r)} |x| + |y|$ be the sum of the absolute va
 <p>Find $T(10^6)$.</p>
 =#
 
-submit_answer(nothing; prob_num=467)
-
-#=
-<h2>Problem 451: Modular inverses</h2>
-<p>
-Consider the number 15.<br />
-There are eight positive numbers less than 15 which are coprime to 15: 1, 2, 4, 7, 8, 11, 13, 14.<br />
-The modular inverses of these numbers modulo 15 are: 1, 8, 4, 13, 2, 11, 7, 14<br />  
-because<br />
-1 · 1 mod 15=1<br />
-2 · 8=16 mod 15=1<br />
-4 · 4=16 mod 15=1<br />
-7 · 13=91 mod 15=1<br />
-11 · 11=121 mod 15=1<br />
-14 · 14=196 mod 15=1<br /></p>
-<p>
-Let I(n) be the largest positive number m smaller than n-1 such that the modular inverse of m modulo n equals m itself.<br />
-So I(15)=11.<br />
-Also I(100)=51 and I(7)=1.<br /></p>
-<p>
-Find <span style="font-size:larger;"><span style="font-size:larger;">∑</span></span> I(n) for 3≤n≤2×10<sup>7</sup></p>
-=#
-
-submit_answer(nothing; prob_num=468)
+submit_answer(nothing; prob_num=450)

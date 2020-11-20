@@ -12,7 +12,7 @@ include((@__DIR__)*"/shared.jl");
 <p>How many different ways can one hundred be written as a sum of at least two positive integers?</p>
 =#
 
-submit_answer(nothing; prob_num=79)
+submit_answer(nothing; prob_num=76)
 
 #=
 <h2>Problem 77: Prime summations</h2>
@@ -25,7 +25,7 @@ submit_answer(nothing; prob_num=79)
 <p>What is the first value which can be written as the sum of primes in over five thousand different ways?</p>
 =#
 
-submit_answer(nothing; prob_num=80)
+submit_answer(nothing; prob_num=77)
 
 #=
 <h2>Problem 78: Coin partitions</h2>
@@ -42,7 +42,7 @@ O   O   O   O   O
 <p>Find the least value of <i>n</i> for which p(<i>n</i>) is divisible by one million.</p>
 =#
 
-submit_answer(nothing; prob_num=81)
+submit_answer(nothing; prob_num=78)
 
 #=
 <h2>Problem 79: Passcode derivation</h2>
@@ -51,7 +51,7 @@ submit_answer(nothing; prob_num=81)
 <p>Given that the three characters are always asked for in order, analyse the file so as to determine the shortest possible secret passcode of unknown length.</p>
 =#
 
-submit_answer(nothing; prob_num=82)
+submit_answer(nothing; prob_num=79)
 
 #=
 <h2>Problem 80: Square root digital expansion</h2>
@@ -60,7 +60,7 @@ submit_answer(nothing; prob_num=82)
 <p>For the first one hundred natural numbers, find the total of the digital sums of the first one hundred decimal digits for all the irrational square roots.</p>
 =#
 
-submit_answer(nothing; prob_num=83)
+submit_answer(nothing; prob_num=80)
 
 #=
 <h2>Problem 81: Path sum: two ways</h2>
@@ -79,7 +79,7 @@ $$
 <p>Find the minimal path sum from the top left to the bottom right by only moving right and down in <a href="project/resources/p081_matrix.txt">matrix.txt</a> (right click and "Save Link/Target As..."), a 31K text file containing an 80 by 80 matrix.</p>
 =#
 
-submit_answer(nothing; prob_num=84)
+submit_answer(nothing; prob_num=81)
 
 #=
 <h2>Problem 82: Path sum: three ways</h2>
@@ -99,7 +99,7 @@ $$
 <p>Find the minimal path sum from the left column to the right column in <a href="project/resources/p082_matrix.txt">matrix.txt</a> (right click and "Save Link/Target As..."), a 31K text file containing an 80 by 80 matrix.</p>
 =#
 
-submit_answer(nothing; prob_num=85)
+submit_answer(nothing; prob_num=82)
 
 #=
 <h2>Problem 83: Path sum: four ways</h2>
@@ -119,7 +119,7 @@ $$
 <p>Find the minimal path sum from the top left to the bottom right by moving left, right, up, and down in <a href="project/resources/p083_matrix.txt">matrix.txt</a> (right click and "Save Link/Target As..."), a 31K text file containing an 80 by 80 matrix.</p>
 =#
 
-submit_answer(nothing; prob_num=86)
+submit_answer(nothing; prob_num=83)
 
 #=
 <h2>Problem 84: Monopoly odds</h2>
@@ -152,7 +152,7 @@ submit_answer(nothing; prob_num=86)
 <p>If, instead of using two 6-sided dice, two 4-sided dice are used, find the six-digit modal string.</p>
 =#
 
-submit_answer(nothing; prob_num=87)
+submit_answer(nothing; prob_num=84)
 
 #=
 <h2>Problem 85: Counting rectangles</h2>
@@ -162,7 +162,7 @@ submit_answer(nothing; prob_num=87)
 <p>Although there exists no rectangular grid that contains exactly two million rectangles, find the area of the grid with the nearest solution.</p>
 =#
 
-submit_answer(nothing; prob_num=88)
+submit_answer(nothing; prob_num=85)
 
 #=
 <h2>Problem 86: Cuboid route</h2>
@@ -174,7 +174,7 @@ submit_answer(nothing; prob_num=88)
 <p>Find the least value of M such that the number of solutions first exceeds one million.</p>
 =#
 
-submit_answer(nothing; prob_num=89)
+submit_answer(nothing; prob_num=86)
 
 #=
 <h2>Problem 87: Prime power triples</h2>
@@ -186,7 +186,7 @@ submit_answer(nothing; prob_num=89)
 <p>How many numbers below fifty million can be expressed as the sum of a prime square, prime cube, and prime fourth power?</p>
 =#
 
-submit_answer(nothing; prob_num=90)
+submit_answer(nothing; prob_num=87)
 
 #=
 <h2>Problem 88: Product-sum numbers</h2>
@@ -199,7 +199,7 @@ submit_answer(nothing; prob_num=90)
 <p>What is the sum of all the minimal product-sum numbers for 2≤<i>k</i>≤12000?</p>
 =#
 
-submit_answer(nothing; prob_num=91)
+submit_answer(nothing; prob_num=88)
 
 #=
 <h2>Problem 89: Roman numerals</h2>
@@ -217,7 +217,7 @@ XVI</p>
 <p class="smaller">Note: You can assume that all the Roman numerals in the file contain no more than four consecutive identical units.</p>
 =#
 
-submit_answer(nothing; prob_num=92)
+submit_answer(nothing; prob_num=89)
 
 #=
 <h2>Problem 90: Cube digit pairs</h2>
@@ -244,7 +244,7 @@ submit_answer(nothing; prob_num=92)
 <p>How many distinct arrangements of the two cubes allow for all of the square numbers to be displayed?</p>
 =#
 
-submit_answer(nothing; prob_num=93)
+submit_answer(nothing; prob_num=90)
 
 #=
 <h2>Problem 91: Right triangles with integer coordinates</h2>
@@ -261,7 +261,7 @@ submit_answer(nothing; prob_num=93)
 <p>Given that 0 ≤ <i>x</i><sub>1</sub>, <i>y</i><sub>1</sub>, <i>x</i><sub>2</sub>, <i>y</i><sub>2</sub> ≤ 50, how many right triangles can be formed?</p>
 =#
 
-submit_answer(nothing; prob_num=94)
+submit_answer(nothing; prob_num=91)
 
 #=
 <h2>Problem 92: Square digit chains</h2>
@@ -273,7 +273,7 @@ submit_answer(nothing; prob_num=94)
 <p>How many starting numbers below ten million will arrive at 89?</p>
 =#
 
-submit_answer(nothing; prob_num=95)
+submit_answer(nothing; prob_num=92)
 
 #=
 <h2>Problem 93: Arithmetic expressions</h2>
@@ -288,7 +288,7 @@ submit_answer(nothing; prob_num=95)
 <p>Find the set of four distinct digits, <i>a</i> &lt; <i>b</i> &lt; <i>c</i> &lt; <i>d</i>, for which the longest set of consecutive positive integers, 1 to <i>n</i>, can be obtained, giving your answer as a string: <i>abcd</i>.</p>
 =#
 
-submit_answer(nothing; prob_num=96)
+submit_answer(nothing; prob_num=93)
 
 #=
 <h2>Problem 94: Almost equilateral triangles</h2>
@@ -297,7 +297,7 @@ submit_answer(nothing; prob_num=96)
 <p>Find the sum of the perimeters of all <i>almost equilateral triangles</i> with integral side lengths and area and whose perimeters do not exceed one billion (1,000,000,000).</p>
 =#
 
-submit_answer(nothing; prob_num=97)
+submit_answer(nothing; prob_num=94)
 
 #=
 <h2>Problem 95: Amicable chains</h2>
@@ -309,7 +309,7 @@ submit_answer(nothing; prob_num=97)
 <p>Find the smallest member of the longest amicable chain with no element exceeding one million.</p>
 =#
 
-submit_answer(nothing; prob_num=98)
+submit_answer(nothing; prob_num=95)
 
 #=
 <h2>Problem 96: Su Doku</h2>
@@ -322,7 +322,7 @@ submit_answer(nothing; prob_num=98)
 <p>By solving all fifty puzzles find the sum of the 3-digit numbers found in the top left corner of each solution grid; for example, 483 is the 3-digit number found in the top left corner of the solution grid above.</p>
 =#
 
-submit_answer(nothing; prob_num=99)
+submit_answer(nothing; prob_num=96)
 
 #=
 <h2>Problem 97: Large non-Mersenne prime</h2>
@@ -331,7 +331,7 @@ submit_answer(nothing; prob_num=99)
 <p>Find the last ten digits of this prime number.</p>
 =#
 
-submit_answer(nothing; prob_num=100)
+submit_answer(nothing; prob_num=97)
 
 #=
 <h2>Problem 98: Anagramic squares</h2>
@@ -341,7 +341,7 @@ submit_answer(nothing; prob_num=100)
 <p class="smaller">NOTE: All anagrams formed must be contained in the given text file.</p>
 =#
 
-submit_answer(nothing; prob_num=101)
+submit_answer(nothing; prob_num=98)
 
 #=
 <h2>Problem 99: Largest exponential</h2>
@@ -351,7 +351,7 @@ submit_answer(nothing; prob_num=101)
 <p class="smaller">NOTE: The first two lines in the file represent the numbers in the example given above.</p>
 =#
 
-submit_answer(nothing; prob_num=102)
+submit_answer(nothing; prob_num=99)
 
 #=
 <h2>Problem 100: Arranged probability</h2>
@@ -360,31 +360,4 @@ submit_answer(nothing; prob_num=102)
 <p>By finding the first arrangement to contain over 10<sup>12</sup> = 1,000,000,000,000 discs in total, determine the number of blue discs that the box would contain.</p>
 =#
 
-submit_answer(nothing; prob_num=103)
-
-#=
-<h2>Problem 101: Optimum polynomial</h2>
-<p>If we are presented with the first <var>k</var> terms of a sequence it is impossible to say with certainty the value of the next term, as there are infinitely many polynomial functions that can model the sequence.</p>
-<p>As an example, let us consider the sequence of cube numbers. This is defined by the generating function, <br /><var>u</var><sub><var>n</var></sub> = <var>n</var><sup>3</sup>: 1, 8, 27, 64, 125, 216, ...</p>
-<p>Suppose we were only given the first two terms of this sequence. Working on the principle that "simple is best" we should assume a linear relationship and predict the next term to be 15 (common difference 7). Even if we were presented with the first three terms, by the same principle of simplicity, a quadratic relationship should be assumed.</p>
-<p>We shall define OP(<var>k</var>, <var>n</var>) to be the <var>n</var><sup>th</sup> term of the optimum polynomial generating function for the first <var>k</var> terms of a sequence. It should be clear that OP(<var>k</var>, <var>n</var>) will accurately generate the terms of the sequence for <var>n</var> ≤ <var>k</var>, and potentially the <i>first incorrect term</i> (FIT) will be OP(<var>k</var>, <var>k</var>+1); in which case we shall call it a <i>bad OP</i> (BOP).</p>
-<p>As a basis, if we were only given the first term of sequence, it would be most sensible to assume constancy; that is, for <var>n</var> ≥ 2, OP(1, <var>n</var>) = <var>u</var><sub>1</sub>.</p>
-<p>Hence we obtain the following OPs for the cubic sequence:</p>
-<div class="margin_left">
-<table><tr><td>OP(1, <var>n</var>) = 1</td>
-<td>1, <span style="color:#ff0000;"><b>1</b></span>, 1, 1, ...</td>
-</tr><tr><td>OP(2, <var>n</var>) = 7<var>n</var>−6</td>
-<td>1, 8, <span style="color:#ff0000;"><b>15</b></span>, ...</td>
-</tr><tr><td>OP(3, <var>n</var>) = 6<var>n</var><sup>2</sup>−11<var>n</var>+6     </td>
-<td>1, 8, 27, <span style="color:#ff0000;"><b>58</b></span>, ...</td>
-</tr><tr><td>OP(4, <var>n</var>) = <var>n</var><sup>3</sup></td>
-<td>1, 8, 27, 64, 125, ...</td>
-</tr></table></div>
-<p>Clearly no BOPs exist for <var>k</var> ≥ 4.</p>
-<p>By considering the sum of FITs generated by the BOPs (indicated in <span style="color:#ff0000;"><b>red</b></span> above), we obtain 1 + 15 + 58 = 74.</p>
-<p>Consider the following tenth degree polynomial generating function:</p>
-<p class="center"><var>u</var><sub><var>n</var></sub> = 1 − <var>n</var> + <var>n</var><sup>2</sup> − <var>n</var><sup>3</sup> + <var>n</var><sup>4</sup> − <var>n</var><sup>5</sup> + <var>n</var><sup>6</sup> − <var>n</var><sup>7</sup> + <var>n</var><sup>8</sup> − <var>n</var><sup>9</sup> + <var>n</var><sup>10</sup></p>
-<p>Find the sum of FITs for the BOPs.</p>
-=#
-
-submit_answer(nothing; prob_num=104)
+submit_answer(nothing; prob_num=100)

@@ -21,7 +21,7 @@ Also I(100)=51 and I(7)=1.<br /></p>
 Find <span style="font-size:larger;"><span style="font-size:larger;">∑</span></span> I(n) for 3≤n≤2×10<sup>7</sup></p>
 =#
 
-submit_answer(nothing; prob_num=469)
+submit_answer(nothing; prob_num=451)
 
 #=
 <h2>Problem 452: Long Products</h2>
@@ -31,7 +31,7 @@ submit_answer(nothing; prob_num=469)
 <p>Find F(10<sup>9</sup>, 10<sup>9</sup>) mod 1 234 567 891.</p>
 =#
 
-submit_answer(nothing; prob_num=470)
+submit_answer(nothing; prob_num=452)
 
 #=
 <h2>Problem 453: Lattice Quadrilaterals</h2>
@@ -46,7 +46,7 @@ submit_answer(nothing; prob_num=470)
 <p>Find Q(12345, 6789) mod 135707531.</p>
 =#
 
-submit_answer(nothing; prob_num=471)
+submit_answer(nothing; prob_num=453)
 
 #=
 <h2>Problem 454: Diophantine reciprocals III</h2>
@@ -58,7 +58,7 @@ $$\dfrac{1}{x} + \dfrac{1}{y} = \dfrac{1}{n}$$
 Find F(10<sup>12</sup>).</p>
 =#
 
-submit_answer(nothing; prob_num=472)
+submit_answer(nothing; prob_num=454)
 
 #=
 <h2>Problem 455: Powers With Trailing Digits</h2>
@@ -73,7 +73,7 @@ submit_answer(nothing; prob_num=472)
 </ul><p>Find <span style="font-size:larger;"><span style="font-size:larger;">∑</span></span> f(n), 2 ≤ n ≤ 10<sup>6</sup>.</p>
 =#
 
-submit_answer(nothing; prob_num=473)
+submit_answer(nothing; prob_num=455)
 
 #=
 <h2>Problem 456: Triangles containing the origin II</h2>
@@ -96,7 +96,7 @@ C(40 000) = 2666610948988
 </p>
 =#
 
-submit_answer(nothing; prob_num=474)
+submit_answer(nothing; prob_num=456)
 
 #=
 <h2>Problem 457: A polynomial modulo the square of a prime</h2>
@@ -113,7 +113,7 @@ Find SR(10<sup>7</sup>).
 </p>
 =#
 
-submit_answer(nothing; prob_num=475)
+submit_answer(nothing; prob_num=457)
 
 #=
 <h2>Problem 458: Permutations of Project</h2>
@@ -128,7 +128,7 @@ Find T(10<sup>12</sup>). Give the last 9 digits of your answer.
 </p>
 =#
 
-submit_answer(nothing; prob_num=476)
+submit_answer(nothing; prob_num=458)
 
 #=
 <h2>Problem 459: Flipping game</h2>
@@ -155,7 +155,7 @@ W(1) = 1, W(2) = 0, W(5) = 8 and W(10<sup>2</sup>) = 31395.</p>
 <p>Find W(10<sup>6</sup>).</p>
 =#
 
-submit_answer(nothing; prob_num=477)
+submit_answer(nothing; prob_num=459)
 
 #=
 <h2>Problem 460: An ant on the move</h2>
@@ -184,7 +184,7 @@ Find F(10000). Give your answer rounded to nine decimal places.
 </p>
 =#
 
-submit_answer(nothing; prob_num=478)
+submit_answer(nothing; prob_num=460)
 
 #=
 <h2>Problem 461: Almost Pi</h2>
@@ -197,7 +197,7 @@ submit_answer(nothing; prob_num=478)
 <p>Find <var>g</var>(10000).<sup></sup></p>
 =#
 
-submit_answer(nothing; prob_num=479)
+submit_answer(nothing; prob_num=461)
 
 #=
 <h2>Problem 462: Permutation of 3-smooth numbers</h2>
@@ -220,7 +220,7 @@ When giving your answer, use a lowercase e to separate mantissa and exponent. E.
 </p>
 =#
 
-submit_answer(nothing; prob_num=480)
+submit_answer(nothing; prob_num=462)
 
 #=
 <h2>Problem 463: A weird recurrence relation</h2>
@@ -237,7 +237,7 @@ The function $f$ is defined for all positive integers as follows:
 <p>Find $S(3^{37})$. Give the last 9 digits of your answer.</p>
 =#
 
-submit_answer(nothing; prob_num=481)
+submit_answer(nothing; prob_num=463)
 
 #=
 <h2>Problem 464: Möbius function and intervals</h2>
@@ -265,7 +265,7 @@ Find C(20 000 000).
 </p>
 =#
 
-submit_answer(nothing; prob_num=482)
+submit_answer(nothing; prob_num=464)
 
 #=
 <h2>Problem 465: Polar polygons</h2>
@@ -288,7 +288,7 @@ submit_answer(nothing; prob_num=482)
 <p>Find P(7<sup>13</sup>) mod 1 000 000 007.</p>
 =#
 
-submit_answer(nothing; prob_num=483)
+submit_answer(nothing; prob_num=465)
 
 #=
 <h2>Problem 466: Distinct terms in a multiplication table</h2>
@@ -310,7 +310,7 @@ P(32,10<sup>15</sup>) = 13826382602124302.</p>
 <p>Find P(64,10<sup>16</sup>).</p>
 =#
 
-submit_answer(nothing; prob_num=484)
+submit_answer(nothing; prob_num=466)
 
 #=
 <h2>Problem 467: Superinteger</h2>
@@ -335,7 +335,7 @@ C<sub>10</sub> = 4689135679</p>
 <p>Find <var>f</var>(10 000) mod 1 000 000 007.</p>
 =#
 
-submit_answer(nothing; prob_num=485)
+submit_answer(nothing; prob_num=467)
 
 #=
 <h2>Problem 468: Smooth divisors of binomial coefficients</h2>
@@ -355,7 +355,7 @@ $F(111\,111) \mod 1\,000\,000\,993 = 22156169$</p>
 <p>Find $F(11\,111\,111)  \mod 1\,000\,000\,993$.</p>
 =#
 
-submit_answer(nothing; prob_num=486)
+submit_answer(nothing; prob_num=468)
 
 #=
 <h2>Problem 469: Empty chairs</h2>
@@ -374,7 +374,7 @@ Find E(10<sup>18</sup>). Give your answer rounded to fourteen decimal places in 
 </p>
 =#
 
-submit_answer(nothing; prob_num=487)
+submit_answer(nothing; prob_num=469)
 
 #=
 <h2>Problem 470: Super Ramvok</h2>
@@ -393,7 +393,7 @@ submit_answer(nothing; prob_num=487)
 <p>Calculate F(20), rounded to the nearest integer.</p>
 =#
 
-submit_answer(nothing; prob_num=488)
+submit_answer(nothing; prob_num=470)
 
 #=
 <h2>Problem 471: Triangle inscribed in ellipse</h2>
@@ -409,7 +409,7 @@ submit_answer(nothing; prob_num=488)
 <p>For <var>G</var>(10) the answer would have been 2.059722222e1.</p>
 =#
 
-submit_answer(nothing; prob_num=489)
+submit_answer(nothing; prob_num=471)
 
 #=
 <h2>Problem 472: Comfortable Distance II</h2>
@@ -433,7 +433,7 @@ We can also see that the first person has 9 choices to maximize the number of pe
 <p>Find <span style="font-size:larger;"><span style="font-size:larger;">∑</span></span> f(N) for 1 ≤ <var>N</var> ≤ 10<sup>12</sup>. Give the last 8 digits of your answer.</p>
 =#
 
-submit_answer(nothing; prob_num=490)
+submit_answer(nothing; prob_num=472)
 
 #=
 <h2>Problem 473: Phigital number base</h2>
@@ -458,7 +458,7 @@ The sum of the positive integers not exceeding 1000 whose phigital representatio
 Find the sum of the positive integers not exceeding $10^{10}$ whose phigital representation is palindromic.</p>
 =#
 
-submit_answer(nothing; prob_num=491)
+submit_answer(nothing; prob_num=473)
 
 #=
 <h2>Problem 474: Last digits of divisors</h2>
@@ -474,7 +474,7 @@ Find F(10<sup>6</sup>!, 65432) modulo (10<sup>16</sup> + 61).
 </p>
 =#
 
-submit_answer(nothing; prob_num=492)
+submit_answer(nothing; prob_num=474)
 
 #=
 <h2>Problem 475: Music festival</h2>
@@ -488,14 +488,4 @@ submit_answer(nothing; prob_num=492)
 <p>Find <var>f</var>(600) mod 1 000 000 007.</p>
 =#
 
-submit_answer(nothing; prob_num=493)
-
-#=
-<h2>Problem 476: Circle Packing II</h2>
-<p>Let <var>R</var>(<var>a</var>, <var>b</var>, <var>c</var>) be the maximum area covered by three non-overlapping circles inside a triangle with edge lengths <var>a</var>, <var>b</var> and <var>c</var>.</p>
-<p>Let <var>S</var>(<var>n</var>) be the average value of <var>R</var>(<var>a</var>, <var>b</var>, <var>c</var>) over all integer triplets (<var>a</var>, <var>b</var>, <var>c</var>) such that 1 ≤ <var>a</var> ≤ <var>b</var> ≤ <var>c</var> &lt; <var>a</var> + <var>b</var> ≤ <var>n</var></p>
-<p>You are given <var>S</var>(2) = <var>R</var>(1, 1, 1) ≈ 0.31998, <var>S</var>(5) ≈ 1.25899.</p>
-<p>Find <var>S</var>(1803) rounded to 5 decimal places behind the decimal point.</p>
-=#
-
-submit_answer(nothing; prob_num=494)
+submit_answer(nothing; prob_num=475)

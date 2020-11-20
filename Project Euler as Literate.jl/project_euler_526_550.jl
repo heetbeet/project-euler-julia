@@ -14,7 +14,7 @@ include((@__DIR__)*"/shared.jl");
 <p>Find <var>h</var>(10<sup>16</sup>).</p>
 =#
 
-submit_answer(nothing; prob_num=547)
+submit_answer(nothing; prob_num=526)
 
 #=
 <h2>Problem 527: Randomized Binary Search</h2>
@@ -31,7 +31,7 @@ submit_answer(nothing; prob_num=547)
 <p>Find R(10<sup>10</sup>) − B(10<sup>10</sup>) rounded to 8 decimal places.</p>
 =#
 
-submit_answer(nothing; prob_num=548)
+submit_answer(nothing; prob_num=527)
 
 #=
 <h2>Problem 528: Constrained Sums</h2>
@@ -42,7 +42,7 @@ submit_answer(nothing; prob_num=548)
 <p>Find (<span style="font-size:larger;">∑</span><sub>10 ≤ <var>k</var> ≤ 15</sub> S(10<sup><var>k</var></sup>,<var>k</var>,<var>k</var>)) mod 1 000 000 007.</p>
 =#
 
-submit_answer(nothing; prob_num=549)
+submit_answer(nothing; prob_num=528)
 
 #=
 <h2>Problem 529: 10-substrings</h2>
@@ -57,7 +57,7 @@ For example <var>T</var>(2) = 9 and <var>T</var>(5) = 3492.</p>
 <p>Find <var>T</var>(10<sup>18</sup>) mod 1 000 000 007.</p>
 =#
 
-submit_answer(nothing; prob_num=550)
+submit_answer(nothing; prob_num=529)
 
 #=
 <h2>Problem 530: GCD of Divisors</h2>
@@ -74,7 +74,7 @@ $F(k)=\displaystyle\sum\limits_{n=1}^k \, f(n)$.</p>
 <p>Find <var>F</var>(10<sup>15</sup>).</p>
 =#
 
-submit_answer(nothing; prob_num=551)
+submit_answer(nothing; prob_num=530)
 
 #=
 <h2>Problem 531: Chinese leftovers</h2>
@@ -98,7 +98,7 @@ Find <span style="font-size:larger;"><span style="font-size:larger;">∑</span><
 </p>
 =#
 
-submit_answer(nothing; prob_num=552)
+submit_answer(nothing; prob_num=531)
 
 #=
 <h2>Problem 532: Nanobots on Geodesics</h2>
@@ -115,7 +115,7 @@ submit_answer(nothing; prob_num=552)
 <p>In order to show off a little with his presents, Bob decides to use just enough bots to make sure that the line each bot draws is longer than 1000. What is the total length of all lines drawn with this number of bots, rounded to two decimal places?</p>
 =#
 
-submit_answer(nothing; prob_num=553)
+submit_answer(nothing; prob_num=532)
 
 #=
 <h2>Problem 533: Minimum values of the Carmichael function</h2>
@@ -128,7 +128,7 @@ For example, L(6) = 241 and L(100) = 20 174 525 281.</p>
 <p>Find L(20 000 000). Give the last 9 digits of your answer.</p>
 =#
 
-submit_answer(nothing; prob_num=554)
+submit_answer(nothing; prob_num=533)
 
 #=
 <h2>Problem 534: Weak Queens</h2>
@@ -145,7 +145,7 @@ submit_answer(nothing; prob_num=554)
 <p>Find S(14).</p>
 =#
 
-submit_answer(nothing; prob_num=555)
+submit_answer(nothing; prob_num=534)
 
 #=
 <h2>Problem 535: Fractal Sequence</h2>
@@ -166,7 +166,7 @@ You are given T(1) = 1, T(20) = 86, T(10<sup>3</sup>) = 364089 and T(10<su
 <p>Find T(10<sup>18</sup>). Give the last 9 digits of your answer.</p>
 =#
 
-submit_answer(nothing; prob_num=556)
+submit_answer(nothing; prob_num=535)
 
 #=
 <h2>Problem 536: Modulo power identity </h2>
@@ -183,7 +183,7 @@ Find S(10<sup>12</sup>).
 </p>
 =#
 
-submit_answer(nothing; prob_num=557)
+submit_answer(nothing; prob_num=536)
 
 #=
 <h2>Problem 537: Counting tuples</h2>
@@ -207,7 +207,7 @@ Find <var>T</var>(20 000, 20 000) mod 1 004 535 809.
 </p>
 =#
 
-submit_answer(nothing; prob_num=558)
+submit_answer(nothing; prob_num=537)
 
 #=
 <h2>Problem 538: Maximum quadrilaterals</h2>
@@ -228,7 +228,7 @@ It can also be shown that <span style="font-size:larger;"><span style="font-size
 Find <span style="font-size:larger;"><span style="font-size:larger;">∑</span></span> f(<var>U<sub>n</sub></var>) for 4 ≤ n ≤ 3 000 000.</p>
 =#
 
-submit_answer(nothing; prob_num=559)
+submit_answer(nothing; prob_num=538)
 
 #=
 <h2>Problem 539: Odd elimination</h2>
@@ -252,7 +252,7 @@ Find S(10<sup>18</sup>) mod 987654321.
 </p>
 =#
 
-submit_answer(nothing; prob_num=560)
+submit_answer(nothing; prob_num=539)
 
 #=
 <h2>Problem 540: Counting primitive Pythagorean triples</h2>
@@ -268,7 +268,7 @@ Find P(3141592653589793).
 </p>
 =#
 
-submit_answer(nothing; prob_num=561)
+submit_answer(nothing; prob_num=540)
 
 #=
 <h2>Problem 541: Divisibility of Harmonic Number Denominators</h2>
@@ -284,7 +284,7 @@ $H_n = \displaystyle \sum_{k=1}^n \frac 1 k = \frac {a_n} {b_n}$, with $\text {g
 <p>Find <var>M</var>(137).</p>
 =#
 
-submit_answer(nothing; prob_num=562)
+submit_answer(nothing; prob_num=541)
 
 #=
 <h2>Problem 542: Geometric Progression with Maximum Sum</h2>
@@ -304,7 +304,7 @@ submit_answer(nothing; prob_num=562)
 <p>Find <var>T</var>(10<sup>17</sup>).</p>
 =#
 
-submit_answer(nothing; prob_num=563)
+submit_answer(nothing; prob_num=542)
 
 #=
 <h2>Problem 543: Prime-Sum Numbers</h2>
@@ -321,7 +321,7 @@ submit_answer(nothing; prob_num=563)
 <p>Find the sum of all S(F(<var>k</var>)) over 3 ≤ <var>k</var> ≤ 44</p>
 =#
 
-submit_answer(nothing; prob_num=564)
+submit_answer(nothing; prob_num=543)
 
 #=
 <h2>Problem 544: Chromatic Conundrum</h2>
@@ -336,7 +336,7 @@ submit_answer(nothing; prob_num=564)
 <p>Find S(9,10,1112131415) mod 10<sup>9</sup>+7.</p>
 =#
 
-submit_answer(nothing; prob_num=565)
+submit_answer(nothing; prob_num=544)
 
 #=
 <h2>Problem 545: Faulhaber's Formulas</h2>
@@ -353,7 +353,7 @@ You are given D(4) = 30 (since <var>a</var><sub>1</sub> = -1/30), D(308) = 2
 <p>Find F(10<sup>5</sup>).</p>
 =#
 
-submit_answer(nothing; prob_num=566)
+submit_answer(nothing; prob_num=545)
 
 #=
 <h2>Problem 546: The Floor's Revenge</h2>
@@ -364,7 +364,7 @@ submit_answer(nothing; prob_num=566)
 <p>Find $(\sum_{k=2}^{10}$ <var>f</var><sub><var>k</var></sub>(10<sup>14</sup>)$)$ mod (10<sup>9</sup>+7).</p>
 =#
 
-submit_answer(nothing; prob_num=567)
+submit_answer(nothing; prob_num=546)
 
 #=
 <h2>Problem 547: Distance of random points within hollow square laminae</h2>
@@ -389,7 +389,7 @@ submit_answer(nothing; prob_num=567)
 <p>Find S(40) rounded to four digits after the decimal point.</p>
 =#
 
-submit_answer(nothing; prob_num=568)
+submit_answer(nothing; prob_num=547)
 
 #=
 <h2>Problem 548: Gozinta Chains</h2>
@@ -405,7 +405,7 @@ Find the sum of the numbers <var>n</var>  not exceeding 10<sup>16</sup> for whic
 </p>
 =#
 
-submit_answer(nothing; prob_num=569)
+submit_answer(nothing; prob_num=548)
 
 #=
 <h2>Problem 549: Divisibility of factorials</h2>
@@ -424,7 +424,7 @@ Find S(10<sup>8</sup>).
 </p>
 =#
 
-submit_answer(nothing; prob_num=570)
+submit_answer(nothing; prob_num=549)
 
 #=
 <h2>Problem 550: Divisor game</h2>
@@ -446,18 +446,4 @@ Find  f(10<sup>7</sup>,10<sup>12</sup>).<br />Give your answer modulo 987654321.
 </p>
 =#
 
-submit_answer(nothing; prob_num=571)
-
-#=
-<h2>Problem 551: Sum of digits sequence</h2>
-<p>Let <var>a</var><sub>0</sub>, <var>a</var><sub>1</sub>, <var>a</var><sub>2</sub>, ... be an integer sequence defined by:</p>
-<ul>
-<li><var>a</var><sub>0</sub> = 1;</li>
-<li>for <var>n</var> ≥ 1, <var>a<sub>n</sub></var> is the sum of the digits of all preceding terms.</li>
-</ul>
-<p>The sequence starts with 1, 1, 2, 4, 8, 16, 23, 28, 38, 49, ...<br />
-You are given <var>a</var><sub>10<sup>6</sup></sub> = 31054319.</p>
-<p>Find <var>a</var><sub>10<sup>15</sup></sub>.</p>
-=#
-
-submit_answer(nothing; prob_num=572)
+submit_answer(nothing; prob_num=550)

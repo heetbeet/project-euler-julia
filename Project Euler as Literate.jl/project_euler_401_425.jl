@@ -18,7 +18,7 @@ Find SIGMA2(10<sup>15</sup>) modulo 10<sup>9</sup>.
 </p>
 =#
 
-submit_answer(nothing; prob_num=417)
+submit_answer(nothing; prob_num=401)
 
 #=
 <h2>Problem 402: Integer-valued polynomials</h2>
@@ -44,7 +44,7 @@ Find the last 9 digits of <span style="font-size:larger;"><span style="font-size
 </p>
 =#
 
-submit_answer(nothing; prob_num=418)
+submit_answer(nothing; prob_num=402)
 
 #=
 <h2>Problem 403: Lattice points enclosed by parabola and line</h2>
@@ -64,7 +64,7 @@ Find S(10<sup>12</sup>). Give your answer mod 10<sup>8</sup>.
 </p>
 =#
 
-submit_answer(nothing; prob_num=419)
+submit_answer(nothing; prob_num=403)
 
 #=
 <h2>Problem 404: Crisscross Ellipses</h2>
@@ -92,7 +92,7 @@ Find C(10<sup>17</sup>).
 </p>
 =#
 
-submit_answer(nothing; prob_num=420)
+submit_answer(nothing; prob_num=404)
 
 #=
 <h2>Problem 405: A rectangular tiling</h2>
@@ -122,7 +122,7 @@ Find <var>f</var>(10<sup><var>k</var></sup>) for <var>k</var> = 10<sup>18</sup>,
 </p>
 =#
 
-submit_answer(nothing; prob_num=421)
+submit_answer(nothing; prob_num=405)
 
 #=
 <h2>Problem 406: Guessing Game</h2>
@@ -152,7 +152,7 @@ $C(2000000, \sqrt 5, \sqrt 7) = 49.63755955\dots$</p>
 <p>Let $F_k$ be the Fibonacci numbers: $F_k=F_{k-1}+F_{k-2}$ with base cases $F_1=F_2= 1$.<br />Find $\displaystyle \sum \limits_{k = 1}^{30} {C \left (10^{12}, \sqrt{k}, \sqrt{F_k} \right )}$, and give your answer rounded to 8 decimal places behind the decimal point.</p>
 =#
 
-submit_answer(nothing; prob_num=422)
+submit_answer(nothing; prob_num=406)
 
 #=
 <h2>Problem 407: Idempotents</h2>
@@ -169,7 +169,7 @@ Find <span style="font-size:larger;"><span style="font-size:larger;">∑</span><
 </p>
 =#
 
-submit_answer(nothing; prob_num=423)
+submit_answer(nothing; prob_num=407)
 
 #=
 <h2>Problem 408: Admissible paths through a grid</h2>
@@ -185,7 +185,7 @@ It can be verified that P(5) = 252, P(16) = 596994440 and P(1000) mod 1 000 00
 <p>Find P(10 000 000) mod 1 000 000 007.</p>
 =#
 
-submit_answer(nothing; prob_num=424)
+submit_answer(nothing; prob_num=408)
 
 #=
 <h2>Problem 409: Nim Extreme</h2>
@@ -199,7 +199,7 @@ conditions (a position is winning if the first player has a winning strategy). F
 </p>
 =#
 
-submit_answer(nothing; prob_num=425)
+submit_answer(nothing; prob_num=409)
 
 #=
 <h2>Problem 410: Circle and tangent line</h2>
@@ -213,7 +213,7 @@ submit_answer(nothing; prob_num=425)
 Find F(10<sup>8</sup>, 10<sup>9</sup>) + F(10<sup>9</sup>, 10<sup>8</sup>).</p>
 =#
 
-submit_answer(nothing; prob_num=426)
+submit_answer(nothing; prob_num=410)
 
 #=
 <h2>Problem 411: Uphill paths</h2>
@@ -234,7 +234,7 @@ Find <span style="font-size:larger;"><span style="font-size:larger;">∑</span><
 </p>
 =#
 
-submit_answer(nothing; prob_num=427)
+submit_answer(nothing; prob_num=411)
 
 #=
 <h2>Problem 412: Gnomon numbering</h2>
@@ -255,7 +255,7 @@ It can be verified that LC(3, 0) = 42, LC(5, 3) = 250250, LC(6, 3) = 40602902
 <p>Find LC(10000, 5000) mod 76543217.</p>
 =#
 
-submit_answer(nothing; prob_num=428)
+submit_answer(nothing; prob_num=412)
 
 #=
 <h2>Problem 413: One-child Numbers</h2>
@@ -271,7 +271,7 @@ We can verify that F(10) = 9, F(10<sup>3</sup>) = 389 and F(10<sup>7</sup>) = 27
 <p>Find F(10<sup>19</sup>).</p>
 =#
 
-submit_answer(nothing; prob_num=429)
+submit_answer(nothing; prob_num=413)
 
 #=
 <h2>Problem 414: Kaprekar constant</h2>
@@ -311,7 +311,7 @@ Give the last 18 digits as your answer.
 </p>
 =#
 
-submit_answer(nothing; prob_num=430)
+submit_answer(nothing; prob_num=414)
 
 #=
 <h2>Problem 415: Titanic sets</h2>
@@ -327,7 +327,7 @@ It can be verified that <var>T</var>(1) = 11, <var>T</var>(2) = 494, <var>T</var
 <p>Find <var>T</var>(10<sup>11</sup>) mod 10<sup>8</sup>.</p>
 =#
 
-submit_answer(nothing; prob_num=431)
+submit_answer(nothing; prob_num=415)
 
 #=
 <h2>Problem 416: A frog's trip</h2>
@@ -339,7 +339,7 @@ For example, F(1, 3) = 4, F(1, 4) = 15, F(1, 5) = 46, F(2, 3) = 16 and F(2, 100)
 <p>Find the last 9 digits of F(10, 10<sup>12</sup>).</p>
 =#
 
-submit_answer(nothing; prob_num=432)
+submit_answer(nothing; prob_num=416)
 
 #=
 <h2>Problem 417: Reciprocal cycles II</h2>
@@ -368,7 +368,7 @@ You are given that <span style="font-size:larger;"><span style="font-size:larger
 Find <span style="font-size:larger;"><span style="font-size:larger;">∑</span></span> L(n) for 3 ≤ n ≤ 100 000 000.</p>
 =#
 
-submit_answer(nothing; prob_num=433)
+submit_answer(nothing; prob_num=417)
 
 #=
 <h2>Problem 418: Factorisation triples</h2>
@@ -386,7 +386,7 @@ Find <var>f</var>(43!).
 </p>
 =#
 
-submit_answer(nothing; prob_num=434)
+submit_answer(nothing; prob_num=418)
 
 #=
 <h2>Problem 419: Look and say sequence</h2>
@@ -412,7 +412,7 @@ E.g. for n = 40 the answer would be 31254,20259,11625
 </p>
 =#
 
-submit_answer(nothing; prob_num=435)
+submit_answer(nothing; prob_num=419)
 
 #=
 <h2>Problem 420: 2x2 positive integer matrix</h2>
@@ -443,7 +443,7 @@ Find F(10<sup>7</sup>).
 </p>
 =#
 
-submit_answer(nothing; prob_num=436)
+submit_answer(nothing; prob_num=420)
 
 #=
 <h2>Problem 421: Prime factors of <var>n</var><sup>15</sup>+1</h2>
@@ -460,7 +460,7 @@ Find <span style="font-size:larger;"><span style="font-size:larger;">∑</span><
 </p>
 =#
 
-submit_answer(nothing; prob_num=437)
+submit_answer(nothing; prob_num=421)
 
 #=
 <h2>Problem 422: Sequence of points on a hyperbola</h2>
@@ -481,7 +481,7 @@ submit_answer(nothing; prob_num=437)
 <p>For <var>n</var> = 7, the answer would have been: 806236837.</p>
 =#
 
-submit_answer(nothing; prob_num=438)
+submit_answer(nothing; prob_num=422)
 
 #=
 <h2>Problem 423: Consecutive die throws</h2>
@@ -505,7 +505,7 @@ For example, S(50) mod 1 000 000 007 = 832833871.</p>
 <p> <span style="font-size:smaller;"><sup>1</sup> π denotes the <b>prime-counting function</b>, i.e. π(<var>n</var>) is the number of primes ≤ <var>n</var>.</span></p>
 =#
 
-submit_answer(nothing; prob_num=439)
+submit_answer(nothing; prob_num=423)
 
 #=
 <h2>Problem 424: Kakuro</h2>
@@ -534,7 +534,7 @@ A = Or any one of the upper case letters from A to J to be replaced by its equiv
 <p>Find the sum of the answers for the 200 puzzles.</p>
 =#
 
-submit_answer(nothing; prob_num=440)
+submit_answer(nothing; prob_num=424)
 
 #=
 <h2>Problem 425: Prime connection</h2>
@@ -560,42 +560,4 @@ Find F(10<sup>7</sup>).
 </p>
 =#
 
-submit_answer(nothing; prob_num=441)
-
-#=
-<h2>Problem 426: Box-ball system</h2>
-<p>
-Consider an infinite row of boxes. Some of the boxes contain a ball. For example, an initial configuration of 2 consecutive occupied boxes followed by 2 empty boxes, 2 occupied boxes, 1 empty box, and 2 occupied boxes can be denoted by the sequence (2, 2, 2, 1, 2), in which the number of consecutive occupied and empty boxes appear alternately.
-</p>
-<p>
-A turn consists of moving each ball exactly once according to the following rule: Transfer the leftmost ball which has not been moved to the nearest empty box to its right.
-</p>
-<p>
-After one turn the sequence (2, 2, 2, 1, 2) becomes (2, 2, 1, 2, 3) as can be seen below; note that we begin the new sequence starting at the first occupied box.
-</p>
-
-<div align="center">
-<img src="project/images/p426_baxball1.gif" alt="p426_baxball1.gif" /></div>
-
-<p>
-A system like this is called a <b>Box-Ball System</b> or <b>BBS</b> for short.
-</p>
-<p>
-It can be shown that after a sufficient number of turns, the system evolves to a state where the consecutive numbers of occupied boxes is invariant. In the example below, the consecutive numbers of <b>occupied boxes</b> evolves to [1, 2, 3]; we shall call this the final state.
-</p>
-
-<div align="center">
-<img src="project/images/p426_baxball2.gif" alt="p426_baxball2.gif" /></div>
-
-<p>
-We define the sequence {<var>t</var><sub><var>i</var></sub>}:<br /></p><ul><li><var>s</var><sub>0</sub> = 290797
-</li><li><var>s</var><sub><var>k</var>+1</sub> = <var>s</var><sub><var>k</var></sub><sup>2</sup> mod 50515093
-</li><li><var>t</var><sub><var>k</var></sub> = (<var>s</var><sub><var>k</var></sub> mod 64) + 1
-</li></ul><p>
-Starting from the initial configuration (<var>t</var><sub>0</sub>, <var>t</var><sub>1</sub>, …, <var>t</var><sub>10</sub>), the final state becomes [1, 3, 10, 24, 51, 75].<br />
-Starting from the initial configuration (<var>t</var><sub>0</sub>, <var>t</var><sub>1</sub>, …, <var>t</var><sub>10 000 000</sub>), find the final state.<br />
-Give as your answer the sum of the squares of the elements of the final state. For example, if the final state is [1, 2, 3] then 14 ( = 1<sup>2</sup> + 2<sup>2</sup> + 3<sup>2</sup>) is your answer.
-</p>
-=#
-
-submit_answer(nothing; prob_num=442)
+submit_answer(nothing; prob_num=425)

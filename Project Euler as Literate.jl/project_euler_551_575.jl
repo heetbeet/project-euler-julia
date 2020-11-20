@@ -12,7 +12,7 @@ You are given <var>a</var><sub>10<sup>6</sup></sub> = 31054319.</p>
 <p>Find <var>a</var><sub>10<sup>15</sup></sub>.</p>
 =#
 
-submit_answer(nothing; prob_num=573)
+submit_answer(nothing; prob_num=551)
 
 #=
 <h2>Problem 552: Chinese leftovers II</h2>
@@ -38,7 +38,7 @@ Let S(<var>n</var>) be the sum of all primes up to <var>n</var> that divide at l
 Find S(300000).</p>
 =#
 
-submit_answer(nothing; prob_num=574)
+submit_answer(nothing; prob_num=552)
 
 #=
 <h2>Problem 553: Power sets of power sets</h2>
@@ -66,7 +66,7 @@ You are given <var>C</var>(2,1) = 6, <var>C</var>(3,1) = 111, <var>C</var>(4
 <p>Find <var>C</var>(10<sup>4</sup>,10) mod 1 000 000 007.</p>
 =#
 
-submit_answer(nothing; prob_num=575)
+submit_answer(nothing; prob_num=553)
 
 #=
 <h2>Problem 554: Centaurs on a chess board</h2>
@@ -83,7 +83,7 @@ For example <var>C</var>(1) = 4, <var>C</var>(2) = 25, <var>C</var>(10) = 
 <p>Find $\displaystyle \left( \sum_{i=2}^{90} C(F_i) \right) \text{mod } (10^8+7)$.</p>
 =#
 
-submit_answer(nothing; prob_num=576)
+submit_answer(nothing; prob_num=554)
 
 #=
 <h2>Problem 555: McCarthy 91 function</h2>
@@ -130,7 +130,7 @@ Find $S(10^6, 10^6)$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=577)
+submit_answer(nothing; prob_num=555)
 
 #=
 <h2>Problem 556: Squarefree Gaussian Integers</h2>
@@ -162,7 +162,7 @@ You are given <var>f</var>(10<sup>2</sup>) = 54, <var>f</var>(10<sup>4</sup>)�
 <p>Find <var>f</var>(10<sup>14</sup>).</p>
 =#
 
-submit_answer(nothing; prob_num=578)
+submit_answer(nothing; prob_num=556)
 
 #=
 <h2>Problem 557: Cutting triangles</h2>
@@ -183,7 +183,7 @@ Find S(10000).
 </p>
 =#
 
-submit_answer(nothing; prob_num=579)
+submit_answer(nothing; prob_num=557)
 
 #=
 <h2>Problem 558: Irrational base</h2>
@@ -208,7 +208,7 @@ You are given S(10) = 61 and S(1000) = 19403.</p>
 <p>Find S(5 000 000).</p>
 =#
 
-submit_answer(nothing; prob_num=580)
+submit_answer(nothing; prob_num=558)
 
 #=
 <h2>Problem 559: Permuted Matrices</h2>
@@ -227,7 +227,7 @@ For example, Q(5) = 21879393751 and Q(50) mod 1000000123 = 819573537.
 <p>Find Q(50000) mod 1000000123.</p>
 =#
 
-submit_answer(nothing; prob_num=581)
+submit_answer(nothing; prob_num=559)
 
 #=
 <h2>Problem 560: Coprime Nim</h2>
@@ -241,7 +241,7 @@ You are also given L(10, 5) = 9964, L(10, 10) = 472400303, L(10<sup>3</sup
 <p>Find L(10<sup>7</sup>, 10<sup>7</sup>) mod 1 000 000 007</p>
 =#
 
-submit_answer(nothing; prob_num=582)
+submit_answer(nothing; prob_num=560)
 
 #=
 <h2>Problem 561: Divisor Pairs</h2>
@@ -259,7 +259,7 @@ Evaluate $Q(10^{12})$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=583)
+submit_answer(nothing; prob_num=561)
 
 #=
 <h2>Problem 562: Maximal perimeter</h2>
@@ -274,7 +274,7 @@ You are given T(10) ~ 97.26729 and T(100) ~ 9157.64707.</p>
 <p>Find T(10<sup>7</sup>). Give your answer rounded to the nearest integer.</p>
 =#
 
-submit_answer(nothing; prob_num=584)
+submit_answer(nothing; prob_num=562)
 
 #=
 <h2>Problem 563: Robot Welders</h2>
@@ -289,7 +289,7 @@ submit_answer(nothing; prob_num=584)
 <p>Find $ \sum_{n=2}^{100} M(n)$.</p>
 =#
 
-submit_answer(nothing; prob_num=585)
+submit_answer(nothing; prob_num=563)
 
 #=
 <h2>Problem 564: Maximal polygons</h2>
@@ -305,7 +305,7 @@ For example, $S(3)=0.433013$, $S(4)=1.732051$, $S(5)=4.604767$ and $S(10)=66.955
 <p>Find $S(50)$, rounded to $6$ decimal places.</p>
 =#
 
-submit_answer(nothing; prob_num=586)
+submit_answer(nothing; prob_num=564)
 
 #=
 <h2>Problem 565: Divisibility of sum of divisors</h2>
@@ -328,7 +328,7 @@ Find $S(10^{11} , 2017)$
 </p>
 =#
 
-submit_answer(nothing; prob_num=587)
+submit_answer(nothing; prob_num=565)
 
 #=
 <h2>Problem 566: Cake Icing Puzzle</h2>
@@ -353,7 +353,7 @@ You are also given <var>G</var>(11) = 60, <var>G</var>(14) = 58020 and <var>
 <p>Find <var>G</var>(53).</p>
 =#
 
-submit_answer(nothing; prob_num=588)
+submit_answer(nothing; prob_num=566)
 
 #=
 <h2>Problem 567: Reciprocal games I</h2>
@@ -371,7 +371,7 @@ Both games consist of $n$ turns. Each turn is started by choosing a number $k$ r
 <p>Find S(123456789), rounded to 8 decimal places.</p>
 =#
 
-submit_answer(nothing; prob_num=589)
+submit_answer(nothing; prob_num=567)
 
 #=
 <h2>Problem 568: Reciprocal games II</h2>
@@ -390,7 +390,7 @@ Both games consist of $n$ turns. Each turn is started by choosing a number $k$ r
 (If, for example, we had asked for the 7 most significant digits of $D(6)$, the answer would have been 3828125.)</p>
 =#
 
-submit_answer(nothing; prob_num=590)
+submit_answer(nothing; prob_num=568)
 
 #=
 <h2>Problem 569: Prime Mountain Range</h2>
@@ -408,7 +408,7 @@ Also $\displaystyle \sum_{k=1}^{100} P(k) = 227$.</p>
 <p>Find $\displaystyle \sum_{k=1}^{2500000} P(k)$.</p>
 =#
 
-submit_answer(nothing; prob_num=591)
+submit_answer(nothing; prob_num=569)
 
 #=
 <h2>Problem 570: Snowflakes</h2>
@@ -431,7 +431,7 @@ A(11) = 3027630, B(11) = 19862070, G(11) = 30</p>
 <p>Find $\displaystyle \sum_{n=3}^{10^7}G(n)$.</p>
 =#
 
-submit_answer(nothing; prob_num=592)
+submit_answer(nothing; prob_num=570)
 
 #=
 <h2>Problem 571: Super Pandigital Numbers</h2>
@@ -445,7 +445,7 @@ The sum of the 10 smallest 10-super-pandigital numbers is 20319792309.</p>
 <p>What is the sum of the 10 smallest 12-super-pandigital numbers?</p>
 =#
 
-submit_answer(nothing; prob_num=593)
+submit_answer(nothing; prob_num=571)
 
 #=
 <h2>Problem 572: Idempotent matrices</h2>
@@ -467,7 +467,7 @@ Find C(200).
 </p>
 =#
 
-submit_answer(nothing; prob_num=594)
+submit_answer(nothing; prob_num=572)
 
 #=
 <h2>Problem 573: Unfair race</h2>
@@ -483,7 +483,7 @@ You are given that $E_4=2.21875$, $E_5=2.5104$ and $E_{10}=3.66021568$.</p>
 <p>Find $E_{1000000}$ rounded to 4 digits after the decimal point.</p>
 =#
 
-submit_answer(nothing; prob_num=595)
+submit_answer(nothing; prob_num=573)
 
 #=
 <h2>Problem 574: Verifying Primes</h2>
@@ -504,7 +504,7 @@ Find $S(3800)$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=596)
+submit_answer(nothing; prob_num=574)
 
 #=
 <h2>Problem 575: Wandering Robots</h2>
@@ -536,23 +536,4 @@ submit_answer(nothing; prob_num=596)
 (Give your answer rounded to 12 decimal places)</p>
 =#
 
-submit_answer(nothing; prob_num=597)
-
-#=
-<h2>Problem 576: Irrational jumps</h2>
-<p>
-A bouncing point moves counterclockwise along a circle with circumference $1$ with  jumps of constant length $l&lt;1$, until it hits a gap of length $g&lt;1$, that is placed in a distance $d$ counterclockwise from the starting point. The gap does not include the starting point, that is $g+d&lt;1$.</p>
-
-<p>Let $S(l,g,d)$ be the sum of the length of all jumps, until the point falls into the gap. It can be shown that $S(l,g,d)$ is finite for any irrational jump size $l$, regardless of the values of $g$ and $d$.<br />
-Examples: <br />
-$S(\sqrt{\frac 1 2}, 0.06, 0.7)=0.7071 \dots$, $S(\sqrt{\frac 1 2}, 0.06, 0.3543)=1.4142 \dots$ and <br /> $S(\sqrt{\frac 1 2}, 0.06, 0.2427)=16.2634 \dots$.</p>
-<p>
-Let $M(n, g)$ be the maximum of $ \sum S(\sqrt{\frac 1 p}, g, d)$ for all primes $p \le n$ and any valid value of $d$.<br />
-Examples:<br />
-$M(3, 0.06) =29.5425 \dots$, since $S(\sqrt{\frac 1 2}, 0.06, 0.2427)+S(\sqrt{\frac 1 3}, 0.06, 0.2427)=29.5425 \dots$ is the maximal reachable sum for $g=0.06$. <br />
-$M(10, 0.01)=266.9010 \dots$ </p>
-
-<p>Find $M(100, 0.00002)$, rounded to 4 decimal places.</p>
-=#
-
-submit_answer(nothing; prob_num=598)
+submit_answer(nothing; prob_num=575)

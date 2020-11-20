@@ -16,6 +16,8 @@ dependancies:
 using Glob
 using Markdown
 using Literate
+using UUIDs
+
 
 url = "https://projecteuler.net/"
 output_dir = abspath(tempdir()*"/project_euler-julia-scraper-output")
@@ -119,7 +121,6 @@ function fix_spacer_location()
 end
 
 
-
 pluto_header = """
 ### A Pluto.jl notebook ###
 # v0.12.11
@@ -127,25 +128,12 @@ pluto_header = """
 using Markdown
 using InteractiveUtils
 """
-
-"""
-# ╔═╡ a1771660-2b26-11eb-0bbc-83697e14abc3
-"""
-
-"""
-# ╔═╡ Cell order:
-# ╟─6f130080-2b26-11eb-07ad-95f6d67ff517
-# ╠═9c061cce-2b26-11eb-1a18-678177b327f5
-# ╠═a199e0a0-2b26-11eb-0e73-77ff61d4224b
-# ╟─a1771660-2b26-11eb-0bbc-83697e14abc3
-"""
-
 function convert_to_pluto(pluto_output)
     files = glob("*.html", puzzle_output)
 
     subfiles = []
     for i = 1:25:length(files)
-        push!(subfiles, files[i:min(end,i+25)])
+        push!(subfiles, files[i:min(end,i+25-1)])
     end
 
     function get_uuid()
@@ -189,7 +177,7 @@ function convert_to_literate()
     files = glob("*.html", puzzle_output)
     subfiles = []
     for i = 1:25:length(files)
-        push!(subfiles, files[i:min(end,i+25)])
+        push!(subfiles, files[i:min(end,i+25-1)])
     end
 
     puzzle_nr = 0
@@ -286,7 +274,7 @@ function make_shared_jl()
     txt = header
     for i in split(html, "\n")
         i = strip(i)
-        m = match(r"(\d+)\.\s+(.*)", i)
+        m = match(r"(\d+)\.\s+(\S+)", i)
         if m === nothing continue end
 
         puzzle, answer = match(r"(\d+)\.\s+(.*)", i).captures

@@ -6,7 +6,7 @@ include((@__DIR__)*"/shared.jl");
 <p>Find the smallest integer that can be the length of a cathetus of exactly 47547 different integer sided right-angled triangles.</p>
 =#
 
-submit_answer(nothing; prob_num=183)
+submit_answer(nothing; prob_num=176)
 
 #=
 <h2>Problem 177: Integer angled Quadrilaterals</h2>
@@ -18,7 +18,7 @@ submit_answer(nothing; prob_num=183)
 <p>Note: In your calculations you may assume that a calculated angle is integral if it is within a tolerance of 10<sup>-9</sup> of an integer value.</p>
 =#
 
-submit_answer(nothing; prob_num=184)
+submit_answer(nothing; prob_num=177)
 
 #=
 <h2>Problem 178: Step Numbers</h2>
@@ -30,14 +30,14 @@ A pandigital number  contains every decimal digit from 0 to 9 at least once.<br 
 How many pandigital step numbers less than 10<sup>40</sup> are there?
 =#
 
-submit_answer(nothing; prob_num=185)
+submit_answer(nothing; prob_num=178)
 
 #=
 <h2>Problem 179: Consecutive positive divisors</h2>
 <p>Find the number of integers 1 &lt; n &lt; 10<sup>7</sup>, for which <var>n</var> and <var>n</var> + 1 have the same number of positive divisors. For example, 14 has the positive divisors 1, 2, 7, 14 while 15 has 1, 3, 5, 15.</p>
 =#
 
-submit_answer(nothing; prob_num=186)
+submit_answer(nothing; prob_num=179)
 
 #=
 <h2>Problem 180: Rational zeros of a function of three variables</h2>
@@ -52,7 +52,7 @@ Let <var>t</var> = <var>u</var> / <var>v</var> be the sum of all distinct <var>s
 <p>Find <var>u</var> + <var>v</var>.</p>
 =#
 
-submit_answer(nothing; prob_num=187)
+submit_answer(nothing; prob_num=180)
 
 #=
 <h2>Problem 181: Investigating in how many ways objects of two different colours can be grouped</h2>
@@ -62,7 +62,7 @@ submit_answer(nothing; prob_num=187)
 </tr></table><p>In how many ways can sixty black objects B and forty white objects W be  thus grouped?</p>
 =#
 
-submit_answer(nothing; prob_num=188)
+submit_answer(nothing; prob_num=181)
 
 #=
 <h2>Problem 182: RSA encryption</h2>
@@ -83,7 +83,7 @@ It's important that the number of unconcealed messages is at a minimum.</p>
 Find the sum of all values of <var>e</var>, 1&lt;<var>e</var>&lt;φ(1009,3643) and gcd(<var>e</var>,φ)=1, so that the number of unconcealed messages for this value of <var>e</var> is at a minimum.</p>
 =#
 
-submit_answer(nothing; prob_num=189)
+submit_answer(nothing; prob_num=182)
 
 #=
 <h2>Problem 183: Maximum product of parts</h2>
@@ -105,7 +105,7 @@ Let P be the product of these parts, P = <var>r</var> × <var>r</var> × ... × 
 <p>Find <span style="font-size:larger;"><span style="font-size:larger;">∑</span></span> D(N) for 5 ≤ N ≤ 10000.</p>
 =#
 
-submit_answer(nothing; prob_num=190)
+submit_answer(nothing; prob_num=183)
 
 #=
 <h2>Problem 184: Triangles containing the origin</h2>
@@ -118,7 +118,7 @@ submit_answer(nothing; prob_num=190)
 <p>How many triangles are there containing the origin in the interior and having all three vertices in <var>I</var><sub>105</sub>?</p>
 =#
 
-submit_answer(nothing; prob_num=191)
+submit_answer(nothing; prob_num=184)
 
 #=
 <h2>Problem 185: Number Mind</h2>
@@ -162,7 +162,7 @@ submit_answer(nothing; prob_num=191)
 <p>Find the unique 16-digit secret sequence.</p>
 =#
 
-submit_answer(nothing; prob_num=192)
+submit_answer(nothing; prob_num=185)
 
 #=
 <h2>Problem 186: Connectedness of a network</h2>
@@ -182,7 +182,7 @@ For 56 ≤ k, S<sub>k</sub> = [S<sub>k-24</sub> + S<sub>k-55</sub>] (modulo 1000
 <p>The Prime Minister's phone number is 524287. After how many successful calls, not counting misdials, will 99% of the users (including the PM) be a friend, or a friend of a friend etc., of the Prime Minister?</p>
 =#
 
-submit_answer(nothing; prob_num=193)
+submit_answer(nothing; prob_num=186)
 
 #=
 <h2>Problem 187: Semiprimes</h2>
@@ -194,7 +194,7 @@ submit_answer(nothing; prob_num=193)
 <p>How many composite integers, <var>n</var> &lt; 10<sup>8</sup>, have precisely two, not necessarily distinct, prime factors?</p>
 =#
 
-submit_answer(nothing; prob_num=194)
+submit_answer(nothing; prob_num=187)
 
 #=
 <h2>Problem 188: The hyperexponentiation of a number</h2>
@@ -206,7 +206,7 @@ Thus we have e.g. 3↑↑2 = 3<sup>3</sup> = 27, hence 3↑↑3 = 3<sup>27</sup>
 <p>Find the last 8 digits of 1777↑↑1855.</p>
 =#
 
-submit_answer(nothing; prob_num=195)
+submit_answer(nothing; prob_num=188)
 
 #=
 <h2>Problem 189: Tri-colouring a triangular grid</h2>
@@ -225,7 +225,7 @@ Note: if they only share a vertex, then they are not neighbours.</p>
 <p>How many distinct valid colourings are there for the above configuration?</p>
 =#
 
-submit_answer(nothing; prob_num=196)
+submit_answer(nothing; prob_num=189)
 
 #=
 <h2>Problem 190: Maximising a weighted product</h2>
@@ -236,7 +236,7 @@ submit_answer(nothing; prob_num=196)
 <p>Find Σ[P<sub>m</sub>] for 2 ≤ m ≤ 15.</p>
 =#
 
-submit_answer(nothing; prob_num=197)
+submit_answer(nothing; prob_num=190)
 
 #=
 <h2>Problem 191: Prize Strings</h2>
@@ -255,7 +255,7 @@ LAOO LAOA LAAO</p>
 <p>How many "prize" strings exist over a 30-day period?</p>
 =#
 
-submit_answer(nothing; prob_num=198)
+submit_answer(nothing; prob_num=191)
 
 #=
 <h2>Problem 192: Best Approximations</h2>
@@ -270,7 +270,7 @@ A <b>best approximation</b> to $x$ for the <b>denominator bound</b> $d$ is a rat
 <p>Find the sum of all denominators of the best approximations to $\sqrt n$ for the denominator bound $10^{12}$, where $n$ is not a perfect square and $ 1 &lt; n \le 100000$. </p>
 =#
 
-submit_answer(nothing; prob_num=199)
+submit_answer(nothing; prob_num=192)
 
 #=
 <h2>Problem 193: Squarefree Numbers</h2>
@@ -279,7 +279,7 @@ submit_answer(nothing; prob_num=199)
 <p>How many squarefree numbers are there below 2<sup>50</sup>?</p>
 =#
 
-submit_answer(nothing; prob_num=200)
+submit_answer(nothing; prob_num=193)
 
 #=
 <h2>Problem 194: Coloured Configurations</h2>
@@ -296,7 +296,7 @@ For example, N(1,0,3) = 24, N(0,2,4) = 92928 and N(2,2,3) = 20736.</p>
 <p>Find the last 8 digits of N(25,75,1984).</p>
 =#
 
-submit_answer(nothing; prob_num=201)
+submit_answer(nothing; prob_num=194)
 
 #=
 <h2>Problem 195: Inscribed circles of triangles with one angle of 60 degrees</h2>
@@ -309,7 +309,7 @@ Let <var>r</var> be the radius of the inscribed circle of such a 60-degree trian
 <p>Find T(1053779).</p>
 =#
 
-submit_answer(nothing; prob_num=202)
+submit_answer(nothing; prob_num=195)
 
 #=
 <h2>Problem 196: Prime triplets</h2>
@@ -342,7 +342,7 @@ Then S(8)=60 and S(9)=37.</p>
 <p>Find  S(5678027) + S(7208785).</p>
 =#
 
-submit_answer(nothing; prob_num=203)
+submit_answer(nothing; prob_num=196)
 
 #=
 <h2>Problem 197: Investigating the behaviour of a recursively defined sequence</h2>
@@ -353,7 +353,7 @@ the sequence <var>u<sub>n</sub></var> is defined by <var>u</var><sub>0</sub> = -
 Give your answer with 9 digits after the decimal point.</p>
 =#
 
-submit_answer(nothing; prob_num=204)
+submit_answer(nothing; prob_num=197)
 
 #=
 <h2>Problem 198: Ambiguous Numbers</h2>
@@ -365,7 +365,7 @@ We shall call a real number $x$ <i>ambiguous</i>, if there is at least one denom
 <p>How many ambiguous numbers $x=\frac p q, 0 &lt; x &lt; \frac 1 {100}$, are there whose denominator $q$ does not exceed $10^8$?</p>
 =#
 
-submit_answer(nothing; prob_num=205)
+submit_answer(nothing; prob_num=198)
 
 #=
 <h2>Problem 199: Iterative Circle Packing</h2>
@@ -381,7 +381,7 @@ Give your answer rounded to eight decimal places using the format x.xxxxxxxx .
 </p>
 =#
 
-submit_answer(nothing; prob_num=206)
+submit_answer(nothing; prob_num=199)
 
 #=
 <h2>Problem 200: Find the 200th prime-proof sqube containing the contiguous sub-string "200"</h2>
@@ -395,42 +395,4 @@ For example, 200 = 5<sup>2</sup>2<sup>3</sup> or 120072949 = 23<sup>2</sup>61<su
 <p>Find the 200th prime-proof sqube containing the contiguous sub-string "200".</p>
 =#
 
-submit_answer(nothing; prob_num=207)
-
-#=
-<h2>Problem 201: Subsets with a unique sum</h2>
-<p>For any set A of numbers, let sum(A) be the sum of the elements of A.<br />
-Consider the set B = {1,3,6,8,10,11}.<br /> There are 20 subsets of B containing three elements, and their sums are:</p>
-
-<p style="margin-left:100px;">
-sum({1,3,6}) = 10,<br />
-sum({1,3,8}) = 12,<br />
-sum({1,3,10}) = 14,<br />
-sum({1,3,11}) = 15,<br />
-sum({1,6,8}) = 15,<br />
-sum({1,6,10}) = 17,<br />
-sum({1,6,11}) = 18,<br />
-sum({1,8,10}) = 19,<br />
-sum({1,8,11}) = 20,<br />
-sum({1,10,11}) = 22,<br />
-sum({3,6,8}) = 17,<br />
-sum({3,6,10}) = 19,<br />
-sum({3,6,11}) = 20,<br />
-sum({3,8,10}) = 21,<br />
-sum({3,8,11}) = 22,<br />
-sum({3,10,11}) = 24,<br />
-sum({6,8,10}) = 24,<br />
-sum({6,8,11}) = 25,<br />
-sum({6,10,11}) = 27,<br />
-sum({8,10,11}) = 29.</p>
-
-<p>Some of these sums occur more than once, others are unique.<br />
-For a set A, let U(A,k) be the set of unique sums of k-element subsets of A, in our example we find U(B,3) = {10,12,14,18,21,25,27,29} and sum(U(B,3)) = 156.</p>
-
-<p>Now consider the 100-element set S = {1<sup>2</sup>, 2<sup>2</sup>, ... , 100<sup>2</sup>}.<br />
-S has 100891344545564193334812497256 50-element subsets.</p>
-
-<p>Determine the sum of all integers which are the sum of exactly one of the 50-element subsets of S, i.e. find sum(U(S,50)).</p>
-=#
-
-submit_answer(nothing; prob_num=208)
+submit_answer(nothing; prob_num=200)

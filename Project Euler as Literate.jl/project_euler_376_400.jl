@@ -43,7 +43,7 @@ How many are there for <var>N</var> = 30 ?
 </p>
 =#
 
-submit_answer(nothing; prob_num=391)
+submit_answer(nothing; prob_num=376)
 
 #=
 <h2>Problem 377: Sum of digits, experience 13</h2>
@@ -61,7 +61,7 @@ Give the last 9 digits as your answer.
 </p>
 =#
 
-submit_answer(nothing; prob_num=392)
+submit_answer(nothing; prob_num=377)
 
 #=
 <h2>Problem 378: Triangle Triples</h2>
@@ -77,7 +77,7 @@ $Tr(20) = 14$, $Tr(100) = 5772$, and $Tr(1000) = 11174776$.</p>
 Give the last 18 digits of your answer.</p>
 =#
 
-submit_answer(nothing; prob_num=393)
+submit_answer(nothing; prob_num=378)
 
 #=
 <h2>Problem 379: Least common multiple count</h2>
@@ -96,7 +96,7 @@ Find <var>g</var>(10<sup>12</sup>).
 </p>
 =#
 
-submit_answer(nothing; prob_num=394)
+submit_answer(nothing; prob_num=379)
 
 #=
 <h2>Problem 380: Amazing Mazes!</h2>
@@ -119,7 +119,7 @@ E.g. if the answer is 1234567891011 then the answer format would be 1.2346e12.
 </p>
 =#
 
-submit_answer(nothing; prob_num=395)
+submit_answer(nothing; prob_num=380)
 
 #=
 <h2>Problem 381: (prime-k) factorial</h2>
@@ -139,7 +139,7 @@ Find <span style="font-size:larger;"><span style="font-size:larger;">∑</span><
 </p>
 =#
 
-submit_answer(nothing; prob_num=396)
+submit_answer(nothing; prob_num=381)
 
 #=
 <h2>Problem 382: Generating polygons</h2>
@@ -171,7 +171,7 @@ Find the last 9 digits of f(10<sup>18</sup>).
 </p>
 =#
 
-submit_answer(nothing; prob_num=397)
+submit_answer(nothing; prob_num=382)
 
 #=
 <h2>Problem 383: Divisibility comparison between factorials</h2>
@@ -190,7 +190,7 @@ Find T<sub>5</sub>(10<sup>18</sup>).
 </p>
 =#
 
-submit_answer(nothing; prob_num=398)
+submit_answer(nothing; prob_num=383)
 
 #=
 <h2>Problem 384: Rudin-Shapiro sequence</h2>
@@ -221,7 +221,7 @@ submit_answer(nothing; prob_num=398)
 <p>Find $\sum$ GF(t) for 2≤t≤45.</p>
 =#
 
-submit_answer(nothing; prob_num=399)
+submit_answer(nothing; prob_num=384)
 
 #=
 <h2>Problem 385: Ellipses inside triangles</h2>
@@ -252,7 +252,7 @@ Find A(1 000 000 000).
 </p>
 =#
 
-submit_answer(nothing; prob_num=400)
+submit_answer(nothing; prob_num=385)
 
 #=
 <h2>Problem 386: Maximum length of an antichain</h2>
@@ -269,7 +269,7 @@ submit_answer(nothing; prob_num=400)
 <p>Find <span style="font-size:larger;"><span style="font-size:larger;">∑</span></span> <var>N</var>(<var>n</var>) for 1 ≤ <var>n</var> ≤ 10<sup>8</sup></p>
 =#
 
-submit_answer(nothing; prob_num=401)
+submit_answer(nothing; prob_num=386)
 
 #=
 <h2>Problem 387: Harshad Numbers</h2>
@@ -292,7 +292,7 @@ submit_answer(nothing; prob_num=401)
 <p>Find the sum of the strong, right truncatable Harshad primes less than 10<sup>14</sup>.</p>
 =#
 
-submit_answer(nothing; prob_num=402)
+submit_answer(nothing; prob_num=387)
 
 #=
 <h2>Problem 388: Distinct Lines</h2>
@@ -310,7 +310,7 @@ Find D(10<sup>10</sup>). Give as your answer the first nine digits followed by t
 </p>
 =#
 
-submit_answer(nothing; prob_num=403)
+submit_answer(nothing; prob_num=388)
 
 #=
 <h2>Problem 389: Platonic Dice</h2>
@@ -320,7 +320,7 @@ Find the variance of <var>I</var>, and give your answer rounded to 4 decimal pla
 </p>
 =#
 
-submit_answer(nothing; prob_num=404)
+submit_answer(nothing; prob_num=389)
 
 #=
 <h2>Problem 390: Triangles with non rational sides and integral area</h2>
@@ -336,7 +336,7 @@ It can be shown that this triangle has area $9$.</p>
 <p>Find $S(10^{10})$.</p>
 =#
 
-submit_answer(nothing; prob_num=405)
+submit_answer(nothing; prob_num=390)
 
 #=
 <h2>Problem 391: Hopping Game</h2>
@@ -360,7 +360,7 @@ etc.</p>
 <p>Find $\sum{M(n)^3}$ for $1 \le n \le 1000$.</p>
 =#
 
-submit_answer(nothing; prob_num=406)
+submit_answer(nothing; prob_num=391)
 
 #=
 <h2>Problem 392: Enmeshed unit circle</h2>
@@ -385,7 +385,7 @@ Give as your answer the area occupied by the red cells rounded to 10 digits behi
 </p>
 =#
 
-submit_answer(nothing; prob_num=407)
+submit_answer(nothing; prob_num=392)
 
 #=
 <h2>Problem 393: Migrating ants</h2>
@@ -400,7 +400,7 @@ Find  <var>f</var>(10).
 </p>
 =#
 
-submit_answer(nothing; prob_num=408)
+submit_answer(nothing; prob_num=393)
 
 #=
 <h2>Problem 394: Eating pie</h2>
@@ -425,7 +425,7 @@ Find E(40) rounded to 10 decimal places behind the decimal point.
 </p>
 =#
 
-submit_answer(nothing; prob_num=409)
+submit_answer(nothing; prob_num=394)
 
 #=
 <h2>Problem 395: Pythagorean tree</h2>
@@ -452,7 +452,7 @@ Find the smallest area possible for such a bounding rectangle, and give your ans
 </p>
 =#
 
-submit_answer(nothing; prob_num=410)
+submit_answer(nothing; prob_num=395)
 
 #=
 <h2>Problem 396: Weak Goodstein sequence</h2>
@@ -485,7 +485,7 @@ Find the last 9 digits of <span style="font-size:larger;"><span style="font-size
 </p>
 =#
 
-submit_answer(nothing; prob_num=411)
+submit_answer(nothing; prob_num=396)
 
 #=
 <h2>Problem 397: Triangle on parabola</h2>
@@ -501,7 +501,7 @@ Find F(10<sup>6</sup>, 10<sup>9</sup>).
 </p>
 =#
 
-submit_answer(nothing; prob_num=412)
+submit_answer(nothing; prob_num=397)
 
 #=
 <h2>Problem 398: Cutting rope</h2>
@@ -519,7 +519,7 @@ Give your answer rounded to 5 decimal places behind the decimal point.
 </p>
 =#
 
-submit_answer(nothing; prob_num=413)
+submit_answer(nothing; prob_num=398)
 
 #=
 <h2>Problem 399: Squarefree Fibonacci Numbers</h2>
@@ -550,7 +550,7 @@ If it happens that the conjecture is false, then the accepted answer to this pro
 </p>
 =#
 
-submit_answer(nothing; prob_num=414)
+submit_answer(nothing; prob_num=399)
 
 #=
 <h2>Problem 400: Fibonacci tree game</h2>
@@ -580,24 +580,4 @@ Find <var>f</var>(10000). Give the last 18 digits of your answer.
 </p>
 =#
 
-submit_answer(nothing; prob_num=415)
-
-#=
-<h2>Problem 401: Sum of squares of divisors</h2>
-<p>
-The divisors of 6 are 1,2,3 and 6.<br />
-The sum of the squares of these numbers is 1+4+9+36=50.
-</p>
-<p>
-Let sigma2(n) represent the sum of the squares of the divisors of n.
-Thus sigma2(6)=50.
-</p>
-Let SIGMA2 represent the summatory function of sigma2, that is SIGMA2(n)=<span style="font-size:larger;"><span style="font-size:larger;">∑</span></span> sigma2(i) for i=1 to n.<br />
-The first 6 values of SIGMA2 are: 1,6,16,37,63 and 113.
-
-<p>
-Find SIGMA2(10<sup>15</sup>) modulo 10<sup>9</sup>. 
-</p>
-=#
-
-submit_answer(nothing; prob_num=416)
+submit_answer(nothing; prob_num=400)

@@ -4,10 +4,10 @@
 using Markdown
 using InteractiveUtils
 
-# ╔═╡ 4586d492-2b34-11eb-168a-9dc48e368345
+# ╔═╡ 22d85d50-2b5d-11eb-395f-b378b9562e8f
 include((@__DIR__)*"/shared.jl");
 
-# ╔═╡ 4586d492-2b34-11eb-1034-099450f73c45
+# ╔═╡ 22d85d50-2b5d-11eb-25a6-d7c22c69d216
 html"""
 <h2>Problem 76: Counting summations</h2>
 <p>It is possible to write five as a sum in exactly six different ways:</p>
@@ -20,12 +20,12 @@ html"""
 <p>How many different ways can one hundred be written as a sum of at least two positive integers?</p>
 """
 
-# ╔═╡ 4586d492-2b34-11eb-2e41-1199d4f721bb
+# ╔═╡ 22d85d50-2b5d-11eb-3e38-23ceca7da45f
 begin
-    submit_answer(nothing; prob_num=79)
+    submit_answer(nothing; prob_num=76)
 end
 
-# ╔═╡ 4586d492-2b34-11eb-3251-bbecfe088731
+# ╔═╡ 22d85d50-2b5d-11eb-2ac7-a5b03e3bfb20
 html"""
 <h2>Problem 77: Prime summations</h2>
 <p>It is possible to write ten as the sum of primes in exactly five different ways:</p>
@@ -37,12 +37,12 @@ html"""
 <p>What is the first value which can be written as the sum of primes in over five thousand different ways?</p>
 """
 
-# ╔═╡ 4586d492-2b34-11eb-1871-436f7d90e24a
+# ╔═╡ 22d85d50-2b5d-11eb-3a11-8503dce849dc
 begin
-    submit_answer(nothing; prob_num=80)
+    submit_answer(nothing; prob_num=77)
 end
 
-# ╔═╡ 4586fba0-2b34-11eb-305f-0d8714e51959
+# ╔═╡ 22d85d50-2b5d-11eb-05e5-bf77d28faec5
 html"""
 <h2>Problem 78: Coin partitions</h2>
 <p>Let p(<i>n</i>) represent the number of different ways in which <i>n</i> coins can be separated into piles. For example, five coins can be separated into piles in exactly seven different ways, so p(5)=7.</p>
@@ -58,12 +58,12 @@ O   O   O   O   O
 <p>Find the least value of <i>n</i> for which p(<i>n</i>) is divisible by one million.</p>
 """
 
-# ╔═╡ 4586fba0-2b34-11eb-0733-092c90f19116
+# ╔═╡ 22d85d50-2b5d-11eb-216a-5f036b7d9104
 begin
-    submit_answer(nothing; prob_num=81)
+    submit_answer(nothing; prob_num=78)
 end
 
-# ╔═╡ 4586fba0-2b34-11eb-0172-c7290380876a
+# ╔═╡ 22d85d50-2b5d-11eb-08c3-45921d818d85
 html"""
 <h2>Problem 79: Passcode derivation</h2>
 <p>A common security method used for online banking is to ask the user for three random characters from a passcode. For example, if the passcode was 531278, they may ask for the 2nd, 3rd, and 5th characters; the expected reply would be: 317.</p>
@@ -71,12 +71,12 @@ html"""
 <p>Given that the three characters are always asked for in order, analyse the file so as to determine the shortest possible secret passcode of unknown length.</p>
 """
 
-# ╔═╡ 4586fba0-2b34-11eb-38a3-039a8aac81fd
+# ╔═╡ 22d85d50-2b5d-11eb-1d59-a332133f8255
 begin
-    submit_answer(nothing; prob_num=82)
+    submit_answer(nothing; prob_num=79)
 end
 
-# ╔═╡ 4586fba0-2b34-11eb-3eb5-99e44275b742
+# ╔═╡ 22d85d50-2b5d-11eb-2390-1dbcf0ce2cfa
 html"""
 <h2>Problem 80: Square root digital expansion</h2>
 <p>It is well known that if the square root of a natural number is not an integer, then it is irrational. The decimal expansion of such square roots is infinite without any repeating pattern at all.</p>
@@ -84,12 +84,12 @@ html"""
 <p>For the first one hundred natural numbers, find the total of the digital sums of the first one hundred decimal digits for all the irrational square roots.</p>
 """
 
-# ╔═╡ 4586fba0-2b34-11eb-0ff6-9155f98afc69
+# ╔═╡ 22d85d50-2b5d-11eb-1759-6d05d9cc81c6
 begin
-    submit_answer(nothing; prob_num=83)
+    submit_answer(nothing; prob_num=80)
 end
 
-# ╔═╡ 4586fba0-2b34-11eb-0028-316d360162eb
+# ╔═╡ 22d85d50-2b5d-11eb-3f9d-07190b42e303
 html"""
 <h2>Problem 81: Path sum: two ways</h2>
 <p>In the 5 by 5 matrix below, the minimal path sum from the top left to the bottom right, by <b>only moving to the right and down</b>, is indicated in bold red and is equal to 2427.</p>
@@ -107,12 +107,12 @@ $$
 <p>Find the minimal path sum from the top left to the bottom right by only moving right and down in <a href="project/resources/p081_matrix.txt">matrix.txt</a> (right click and "Save Link/Target As..."), a 31K text file containing an 80 by 80 matrix.</p>
 """
 
-# ╔═╡ 4586fba0-2b34-11eb-0794-61d5590ff491
+# ╔═╡ 22d85d50-2b5d-11eb-1366-83ddbe9e525b
 begin
-    submit_answer(nothing; prob_num=84)
+    submit_answer(nothing; prob_num=81)
 end
 
-# ╔═╡ 4586fba0-2b34-11eb-0381-df67c6eb615a
+# ╔═╡ 22d85d50-2b5d-11eb-2ab7-b5e950b2d66a
 html"""
 <h2>Problem 82: Path sum: three ways</h2>
 <p class="small_notice">NOTE: This problem is a more challenging version of <a href="https://projecteuler.net/problem=81">Problem 81</a>.</p>
@@ -131,12 +131,12 @@ $$
 <p>Find the minimal path sum from the left column to the right column in <a href="project/resources/p082_matrix.txt">matrix.txt</a> (right click and "Save Link/Target As..."), a 31K text file containing an 80 by 80 matrix.</p>
 """
 
-# ╔═╡ 4586fba0-2b34-11eb-187a-eb5a56d68e87
+# ╔═╡ 22d85d50-2b5d-11eb-135a-775b2e2392a8
 begin
-    submit_answer(nothing; prob_num=85)
+    submit_answer(nothing; prob_num=82)
 end
 
-# ╔═╡ 4586fba0-2b34-11eb-0758-f1f23e86d19b
+# ╔═╡ 22d85d50-2b5d-11eb-31dc-4f4cc74db907
 html"""
 <h2>Problem 83: Path sum: four ways</h2>
 <p class="small_notice">NOTE: This problem is a significantly more challenging version of <a href="https://projecteuler.net/problem=81">Problem 81</a>.</p>
@@ -155,12 +155,12 @@ $$
 <p>Find the minimal path sum from the top left to the bottom right by moving left, right, up, and down in <a href="project/resources/p083_matrix.txt">matrix.txt</a> (right click and "Save Link/Target As..."), a 31K text file containing an 80 by 80 matrix.</p>
 """
 
-# ╔═╡ 4586fba0-2b34-11eb-3c82-8d1e96e7402e
+# ╔═╡ 22d85d50-2b5d-11eb-301b-c1a0e5f3325c
 begin
-    submit_answer(nothing; prob_num=86)
+    submit_answer(nothing; prob_num=83)
 end
 
-# ╔═╡ 4586fba0-2b34-11eb-1885-7f8194ef1a71
+# ╔═╡ 22d85d50-2b5d-11eb-0cc0-213a4613c85e
 html"""
 <h2>Problem 84: Monopoly odds</h2>
 <p>In the game, <i>Monopoly</i>, the standard board is set up in the following way:</p>
@@ -192,12 +192,12 @@ html"""
 <p>If, instead of using two 6-sided dice, two 4-sided dice are used, find the six-digit modal string.</p>
 """
 
-# ╔═╡ 4586fba0-2b34-11eb-3cca-3d23c7567cdb
+# ╔═╡ 22d85d50-2b5d-11eb-107b-df2fcf5ff767
 begin
-    submit_answer(nothing; prob_num=87)
+    submit_answer(nothing; prob_num=84)
 end
 
-# ╔═╡ 4586fba0-2b34-11eb-195a-dff4628218e9
+# ╔═╡ 22d85d50-2b5d-11eb-32bc-25fd056f32aa
 html"""
 <h2>Problem 85: Counting rectangles</h2>
 <p>By counting carefully it can be seen that a rectangular grid measuring 3 by 2 contains eighteen rectangles:</p>
@@ -206,12 +206,12 @@ html"""
 <p>Although there exists no rectangular grid that contains exactly two million rectangles, find the area of the grid with the nearest solution.</p>
 """
 
-# ╔═╡ 4586fba0-2b34-11eb-03bf-0b0f1ed11e0c
+# ╔═╡ 22d85d50-2b5d-11eb-31b1-ffeba88afa72
 begin
-    submit_answer(nothing; prob_num=88)
+    submit_answer(nothing; prob_num=85)
 end
 
-# ╔═╡ 4586fba0-2b34-11eb-1e88-b10d227d1d2b
+# ╔═╡ 22d85d50-2b5d-11eb-2a38-89d467470a71
 html"""
 <h2>Problem 86: Cuboid route</h2>
 <p>A spider, S, sits in one corner of a cuboid room, measuring 6 by 5 by 3, and a fly, F, sits in the opposite corner. By travelling on the surfaces of the room the shortest "straight line" distance from S to F is 10 and the path is shown on the diagram.</p>
@@ -222,12 +222,12 @@ html"""
 <p>Find the least value of M such that the number of solutions first exceeds one million.</p>
 """
 
-# ╔═╡ 4586fba0-2b34-11eb-16d2-b7202315f8b8
+# ╔═╡ 22d85d50-2b5d-11eb-1ad0-0b8c9f259ae5
 begin
-    submit_answer(nothing; prob_num=89)
+    submit_answer(nothing; prob_num=86)
 end
 
-# ╔═╡ 4586fba0-2b34-11eb-2096-551515ebcbf7
+# ╔═╡ 22d85d50-2b5d-11eb-12ec-3d883777fdb6
 html"""
 <h2>Problem 87: Prime power triples</h2>
 <p>The smallest number expressible as the sum of a prime square, prime cube, and prime fourth power is 28. In fact, there are exactly four numbers below fifty that can be expressed in such a way:</p>
@@ -238,12 +238,12 @@ html"""
 <p>How many numbers below fifty million can be expressed as the sum of a prime square, prime cube, and prime fourth power?</p>
 """
 
-# ╔═╡ 4586fba0-2b34-11eb-0df2-f96faaba81e0
+# ╔═╡ 22d85d50-2b5d-11eb-00c3-17383368357b
 begin
-    submit_answer(nothing; prob_num=90)
+    submit_answer(nothing; prob_num=87)
 end
 
-# ╔═╡ 4586fba0-2b34-11eb-2dc7-e58db8a0493d
+# ╔═╡ 22d85d50-2b5d-11eb-1926-85ca553c7513
 html"""
 <h2>Problem 88: Product-sum numbers</h2>
 <p>A natural number, N, that can be written as the sum and product of a given set of at least two natural numbers, {<i>a</i><sub>1</sub>, <i>a</i><sub>2</sub>, ... , <i>a</i><sub><i>k</i></sub>} is called a product-sum number: N = <i>a</i><sub>1</sub> + <i>a</i><sub>2</sub> + ... + <i>a</i><sub><i>k</i></sub> = <i>a</i><sub>1</sub> × <i>a</i><sub>2</sub> × ... × <i>a</i><sub><i>k</i></sub>.</p>
@@ -255,12 +255,12 @@ html"""
 <p>What is the sum of all the minimal product-sum numbers for 2≤<i>k</i>≤12000?</p>
 """
 
-# ╔═╡ 4586fba0-2b34-11eb-15e0-1532be3594bf
+# ╔═╡ 22d85d50-2b5d-11eb-08d1-7fc531a5800f
 begin
-    submit_answer(nothing; prob_num=91)
+    submit_answer(nothing; prob_num=88)
 end
 
-# ╔═╡ 4586fba0-2b34-11eb-0c63-8d8c402a2120
+# ╔═╡ 22d88460-2b5d-11eb-184c-ad49b271fae6
 html"""
 <h2>Problem 89: Roman numerals</h2>
 <p>For a number written in Roman numerals to be considered valid there are basic rules which must be followed. Even though the rules allow some numbers to be expressed in more than one way there is always a "best" way of writing a particular number.</p>
@@ -277,12 +277,12 @@ XVI</p>
 <p class="smaller">Note: You can assume that all the Roman numerals in the file contain no more than four consecutive identical units.</p>
 """
 
-# ╔═╡ 4586fba0-2b34-11eb-3e6e-f90ba85d4aa4
+# ╔═╡ 22d88460-2b5d-11eb-3acc-87223a7344f9
 begin
-    submit_answer(nothing; prob_num=92)
+    submit_answer(nothing; prob_num=89)
 end
 
-# ╔═╡ 4586fba0-2b34-11eb-0fac-057b1179d9cd
+# ╔═╡ 22d88460-2b5d-11eb-3728-77d4d233a288
 html"""
 <h2>Problem 90: Cube digit pairs</h2>
 <p>Each of the six faces on a cube has a different digit (0 to 9) written on it; the same is done to a second cube. By placing the two cubes side-by-side in different positions we can form a variety of 2-digit numbers.</p>
@@ -308,12 +308,12 @@ html"""
 <p>How many distinct arrangements of the two cubes allow for all of the square numbers to be displayed?</p>
 """
 
-# ╔═╡ 4586fba0-2b34-11eb-05dc-37ad9dbf7bee
+# ╔═╡ 22d88460-2b5d-11eb-3666-9b405756f2b9
 begin
-    submit_answer(nothing; prob_num=93)
+    submit_answer(nothing; prob_num=90)
 end
 
-# ╔═╡ 4586fba0-2b34-11eb-22e2-610ec08c0aad
+# ╔═╡ 22d88460-2b5d-11eb-3701-8bc7fe3b3fa2
 html"""
 <h2>Problem 91: Right triangles with integer coordinates</h2>
 <p>The points P (<i>x</i><sub>1</sub>, <i>y</i><sub>1</sub>) and Q (<i>x</i><sub>2</sub>, <i>y</i><sub>2</sub>) are plotted at integer co-ordinates and are joined to the origin, O(0,0), to form ΔOPQ.</p>
@@ -329,12 +329,12 @@ html"""
 <p>Given that 0 ≤ <i>x</i><sub>1</sub>, <i>y</i><sub>1</sub>, <i>x</i><sub>2</sub>, <i>y</i><sub>2</sub> ≤ 50, how many right triangles can be formed?</p>
 """
 
-# ╔═╡ 4586fba0-2b34-11eb-0522-4fe3a27ba5b7
+# ╔═╡ 22d88460-2b5d-11eb-145f-858a4cddffa9
 begin
-    submit_answer(nothing; prob_num=94)
+    submit_answer(nothing; prob_num=91)
 end
 
-# ╔═╡ 4586fba0-2b34-11eb-3c63-1555d0526c76
+# ╔═╡ 22d88460-2b5d-11eb-3f2b-9b96907938f7
 html"""
 <h2>Problem 92: Square digit chains</h2>
 <p>A number chain is created by continuously adding the square of the digits in a number to form a new number until it has been seen before.</p>
@@ -345,12 +345,12 @@ html"""
 <p>How many starting numbers below ten million will arrive at 89?</p>
 """
 
-# ╔═╡ 4586fba0-2b34-11eb-247e-4d2207ffe12e
+# ╔═╡ 22d88460-2b5d-11eb-2b09-6151444ed754
 begin
-    submit_answer(nothing; prob_num=95)
+    submit_answer(nothing; prob_num=92)
 end
 
-# ╔═╡ 4586fba0-2b34-11eb-35a7-b5e9b3c08727
+# ╔═╡ 22d88460-2b5d-11eb-36f3-6b6d150dd4a6
 html"""
 <h2>Problem 93: Arithmetic expressions</h2>
 <p>By using each of the digits from the set, {1, 2, 3, 4}, exactly once, and making use of the four arithmetic operations (+, −, *, /) and brackets/parentheses, it is possible to form different positive integer targets.</p>
@@ -364,12 +364,12 @@ html"""
 <p>Find the set of four distinct digits, <i>a</i> &lt; <i>b</i> &lt; <i>c</i> &lt; <i>d</i>, for which the longest set of consecutive positive integers, 1 to <i>n</i>, can be obtained, giving your answer as a string: <i>abcd</i>.</p>
 """
 
-# ╔═╡ 4586fba0-2b34-11eb-3b76-6f23e6ac2198
+# ╔═╡ 22d88460-2b5d-11eb-3d23-65c0c12517da
 begin
-    submit_answer(nothing; prob_num=96)
+    submit_answer(nothing; prob_num=93)
 end
 
-# ╔═╡ 4586fba0-2b34-11eb-2f68-4705433797ea
+# ╔═╡ 22d88460-2b5d-11eb-08de-55336e57dbfb
 html"""
 <h2>Problem 94: Almost equilateral triangles</h2>
 <p>It is easily proved that no equilateral triangle exists with integral length sides and integral area. However, the <i>almost equilateral triangle</i> 5-5-6 has an area of 12 square units.</p>
@@ -377,12 +377,12 @@ html"""
 <p>Find the sum of the perimeters of all <i>almost equilateral triangles</i> with integral side lengths and area and whose perimeters do not exceed one billion (1,000,000,000).</p>
 """
 
-# ╔═╡ 4586fba0-2b34-11eb-16e5-d5d694c1f6bd
+# ╔═╡ 22d88460-2b5d-11eb-3d4b-71b00427ba56
 begin
-    submit_answer(nothing; prob_num=97)
+    submit_answer(nothing; prob_num=94)
 end
 
-# ╔═╡ 4586fba0-2b34-11eb-2fa2-dd79f31a21e5
+# ╔═╡ 22d88460-2b5d-11eb-11ef-c9d6d1de11fa
 html"""
 <h2>Problem 95: Amicable chains</h2>
 <p>The proper divisors of a number are all the divisors excluding the number itself. For example, the proper divisors of 28 are 1, 2, 4, 7, and 14. As the sum of these divisors is equal to 28, we call it a perfect number.</p>
@@ -393,12 +393,12 @@ html"""
 <p>Find the smallest member of the longest amicable chain with no element exceeding one million.</p>
 """
 
-# ╔═╡ 4586fba0-2b34-11eb-162e-61c4d1246ca1
+# ╔═╡ 22d88460-2b5d-11eb-27e4-f9687eb41a18
 begin
-    submit_answer(nothing; prob_num=98)
+    submit_answer(nothing; prob_num=95)
 end
 
-# ╔═╡ 4586fba0-2b34-11eb-3270-07ff8cee9d8f
+# ╔═╡ 22d88460-2b5d-11eb-0904-c585cd0453ec
 html"""
 <h2>Problem 96: Su Doku</h2>
 <p>Su Doku (Japanese meaning <i>number place</i>) is the name given to a popular puzzle concept. Its origin is unclear, but credit must be attributed to Leonhard Euler who invented a similar, and much more difficult, puzzle idea called Latin Squares. The objective of Su Doku puzzles, however, is to replace the blanks (or zeros) in a 9 by 9 grid in such that each row, column, and 3 by 3 box contains each of the digits 1 to 9. Below is an example of a typical starting puzzle grid and its solution grid.</p>
@@ -410,12 +410,12 @@ html"""
 <p>By solving all fifty puzzles find the sum of the 3-digit numbers found in the top left corner of each solution grid; for example, 483 is the 3-digit number found in the top left corner of the solution grid above.</p>
 """
 
-# ╔═╡ 4586fba0-2b34-11eb-24b3-ef73d123a83b
+# ╔═╡ 22d88460-2b5d-11eb-07b9-af1440b37cd8
 begin
-    submit_answer(nothing; prob_num=99)
+    submit_answer(nothing; prob_num=96)
 end
 
-# ╔═╡ 4586fba0-2b34-11eb-026b-47b880df625a
+# ╔═╡ 22d88460-2b5d-11eb-146d-9f635e20312e
 html"""
 <h2>Problem 97: Large non-Mersenne prime</h2>
 <p>The first known prime found to exceed one million digits was discovered in 1999, and is a Mersenne prime of the form 2<sup>6972593</sup>−1; it contains exactly 2,098,960 digits. Subsequently other Mersenne primes, of the form 2<sup><i>p</i></sup>−1, have been found which contain more digits.</p>
@@ -423,12 +423,12 @@ html"""
 <p>Find the last ten digits of this prime number.</p>
 """
 
-# ╔═╡ 4586fba0-2b34-11eb-10fe-1f970c6a61a4
+# ╔═╡ 22d88460-2b5d-11eb-0715-23a310edd602
 begin
-    submit_answer(nothing; prob_num=100)
+    submit_answer(nothing; prob_num=97)
 end
 
-# ╔═╡ 4586fba0-2b34-11eb-2ad3-6f1c1e369689
+# ╔═╡ 22d88460-2b5d-11eb-2677-57e806ca3b2f
 html"""
 <h2>Problem 98: Anagramic squares</h2>
 <p>By replacing each of the letters in the word CARE with 1, 2, 9, and 6 respectively, we form a square number: 1296 = 36<sup>2</sup>. What is remarkable is that, by using the same digital substitutions, the anagram, RACE, also forms a square number: 9216 = 96<sup>2</sup>. We shall call CARE (and RACE) a square anagram word pair and specify further that leading zeroes are not permitted, neither may a different letter have the same digital value as another letter.</p>
@@ -437,12 +437,12 @@ html"""
 <p class="smaller">NOTE: All anagrams formed must be contained in the given text file.</p>
 """
 
-# ╔═╡ 4586fba0-2b34-11eb-017c-d9e30d2de037
+# ╔═╡ 22d88460-2b5d-11eb-081b-ade8aacd1e66
 begin
-    submit_answer(nothing; prob_num=101)
+    submit_answer(nothing; prob_num=98)
 end
 
-# ╔═╡ 4586fba0-2b34-11eb-2436-89866e7c5b1b
+# ╔═╡ 22d88460-2b5d-11eb-3a5d-11d684ba8cfe
 html"""
 <h2>Problem 99: Largest exponential</h2>
 <p>Comparing two numbers written in index form like 2<sup>11</sup> and 3<sup>7</sup> is not difficult, as any calculator would confirm that 2<sup>11</sup> = 2048 &lt; 3<sup>7</sup> = 2187.</p>
@@ -451,12 +451,12 @@ html"""
 <p class="smaller">NOTE: The first two lines in the file represent the numbers in the example given above.</p>
 """
 
-# ╔═╡ 4586fba0-2b34-11eb-0da0-c10046b78a43
+# ╔═╡ 22d88460-2b5d-11eb-0303-07834e6e128b
 begin
-    submit_answer(nothing; prob_num=102)
+    submit_answer(nothing; prob_num=99)
 end
 
-# ╔═╡ 458722b0-2b34-11eb-2156-bb4f4db32715
+# ╔═╡ 22d8ab70-2b5d-11eb-199f-1f5febe896fc
 html"""
 <h2>Problem 100: Arranged probability</h2>
 <p>If a box contains twenty-one coloured discs, composed of fifteen blue discs and six red discs, and two discs were taken at random, it can be seen that the probability of taking two blue discs, P(BB) = (15/21)×(14/20) = 1/2.</p>
@@ -464,252 +464,213 @@ html"""
 <p>By finding the first arrangement to contain over 10<sup>12</sup> = 1,000,000,000,000 discs in total, determine the number of blue discs that the box would contain.</p>
 """
 
-# ╔═╡ 458722b0-2b34-11eb-09fc-07508d4b9fd6
+# ╔═╡ 22d8ab70-2b5d-11eb-067b-73ebd9d5f93e
 begin
-    submit_answer(nothing; prob_num=103)
-end
-
-# ╔═╡ 458722b0-2b34-11eb-1133-f96203033837
-html"""
-<h2>Problem 101: Optimum polynomial</h2>
-<p>If we are presented with the first <var>k</var> terms of a sequence it is impossible to say with certainty the value of the next term, as there are infinitely many polynomial functions that can model the sequence.</p>
-<p>As an example, let us consider the sequence of cube numbers. This is defined by the generating function, <br /><var>u</var><sub><var>n</var></sub> = <var>n</var><sup>3</sup>: 1, 8, 27, 64, 125, 216, ...</p>
-<p>Suppose we were only given the first two terms of this sequence. Working on the principle that "simple is best" we should assume a linear relationship and predict the next term to be 15 (common difference 7). Even if we were presented with the first three terms, by the same principle of simplicity, a quadratic relationship should be assumed.</p>
-<p>We shall define OP(<var>k</var>, <var>n</var>) to be the <var>n</var><sup>th</sup> term of the optimum polynomial generating function for the first <var>k</var> terms of a sequence. It should be clear that OP(<var>k</var>, <var>n</var>) will accurately generate the terms of the sequence for <var>n</var> ≤ <var>k</var>, and potentially the <i>first incorrect term</i> (FIT) will be OP(<var>k</var>, <var>k</var>+1); in which case we shall call it a <i>bad OP</i> (BOP).</p>
-<p>As a basis, if we were only given the first term of sequence, it would be most sensible to assume constancy; that is, for <var>n</var> ≥ 2, OP(1, <var>n</var>) = <var>u</var><sub>1</sub>.</p>
-<p>Hence we obtain the following OPs for the cubic sequence:</p>
-<div class="margin_left">
-<table><tr><td>OP(1, <var>n</var>) = 1</td>
-<td>1, <span style="color:#ff0000;"><b>1</b></span>, 1, 1, ...</td>
-</tr><tr><td>OP(2, <var>n</var>) = 7<var>n</var>−6</td>
-<td>1, 8, <span style="color:#ff0000;"><b>15</b></span>, ...</td>
-</tr><tr><td>OP(3, <var>n</var>) = 6<var>n</var><sup>2</sup>−11<var>n</var>+6     </td>
-<td>1, 8, 27, <span style="color:#ff0000;"><b>58</b></span>, ...</td>
-</tr><tr><td>OP(4, <var>n</var>) = <var>n</var><sup>3</sup></td>
-<td>1, 8, 27, 64, 125, ...</td>
-</tr></table></div>
-<p>Clearly no BOPs exist for <var>k</var> ≥ 4.</p>
-<p>By considering the sum of FITs generated by the BOPs (indicated in <span style="color:#ff0000;"><b>red</b></span> above), we obtain 1 + 15 + 58 = 74.</p>
-<p>Consider the following tenth degree polynomial generating function:</p>
-<p class="center"><var>u</var><sub><var>n</var></sub> = 1 − <var>n</var> + <var>n</var><sup>2</sup> − <var>n</var><sup>3</sup> + <var>n</var><sup>4</sup> − <var>n</var><sup>5</sup> + <var>n</var><sup>6</sup> − <var>n</var><sup>7</sup> + <var>n</var><sup>8</sup> − <var>n</var><sup>9</sup> + <var>n</var><sup>10</sup></p>
-<p>Find the sum of FITs for the BOPs.</p>
-"""
-
-# ╔═╡ 458722b0-2b34-11eb-3a90-813af4820c60
-begin
-    submit_answer(nothing; prob_num=104)
+    submit_answer(nothing; prob_num=100)
 end
 
 # ╔═╡ Cell order:
-# ╠═45843c80-2b34-11eb-2369-c713b7a63e7a
-# ╟─45843c80-2b34-11eb-32d3-71c637d415f0
-# ╠═45843c80-2b34-11eb-061b-c7b5d3693455
-# ╟─45846390-2b34-11eb-3ffa-d3e332c1f6d0
-# ╠═45846390-2b34-11eb-0fd5-7b7b44d24a3c
-# ╟─45846390-2b34-11eb-0d0c-1355f63cdee9
-# ╠═45846390-2b34-11eb-35ab-3545e5deaaef
-# ╟─45846390-2b34-11eb-1872-fb6ed450ef38
-# ╠═45846390-2b34-11eb-04de-19b476d08d11
-# ╟─45846390-2b34-11eb-2354-8fdce7f4714e
-# ╠═45846390-2b34-11eb-1c2d-4d74e28a9f9a
-# ╟─45846390-2b34-11eb-3bab-6533fe7ce16c
-# ╠═45846390-2b34-11eb-243e-2fe4591e61d4
-# ╟─45846390-2b34-11eb-3016-e37a3b931d5f
-# ╠═45846390-2b34-11eb-32b9-87f9b15c5cf6
-# ╟─45846390-2b34-11eb-0895-5dd2d03b70f8
-# ╠═45846390-2b34-11eb-1fb2-a18e29cb0a08
-# ╟─45846390-2b34-11eb-1952-0f3925ebb491
-# ╠═45846390-2b34-11eb-1f56-7b231cc4c1b5
-# ╟─45846390-2b34-11eb-14a1-21e9029185f8
-# ╠═45846390-2b34-11eb-1dae-b7869c3d2f9f
-# ╟─45846390-2b34-11eb-0c05-2dd46ce2bf58
-# ╠═45846390-2b34-11eb-0b38-6d1740762f8b
-# ╟─45846390-2b34-11eb-24ba-0b45f28cb981
-# ╠═45846390-2b34-11eb-1942-41b493b7a5bc
-# ╟─45846390-2b34-11eb-1dbd-03877f8ddd08
-# ╠═45846390-2b34-11eb-3039-c15bbad163c2
-# ╟─45846390-2b34-11eb-3239-4949be8f9d30
-# ╠═45846390-2b34-11eb-3f62-db97efc1f945
-# ╟─45846390-2b34-11eb-2ed7-f5b1644dd1be
-# ╠═45846390-2b34-11eb-2b36-df378cce205d
-# ╟─45846390-2b34-11eb-3ae9-6512c44d2847
-# ╠═45846390-2b34-11eb-2175-19d546b2ad2b
-# ╟─45846390-2b34-11eb-179a-859f8f79aada
-# ╠═45846390-2b34-11eb-2648-b9ab18c44ca7
-# ╟─45846390-2b34-11eb-0fc6-010fcf78cff5
-# ╠═45846390-2b34-11eb-2827-1511f84c72d3
-# ╟─45846390-2b34-11eb-127b-c98d3c3bde08
-# ╠═45846390-2b34-11eb-31c4-8badeb42f33b
-# ╟─45846390-2b34-11eb-17a5-3974e6454ce5
-# ╠═45846390-2b34-11eb-223b-27f6f10bec0b
-# ╟─45848aa0-2b34-11eb-394f-594c9fd716fb
-# ╠═45848aa0-2b34-11eb-3c37-c5d123ee2f27
-# ╟─45848aa0-2b34-11eb-0702-8d5cdc29ebf3
-# ╠═45848aa0-2b34-11eb-260f-eb26082aa5ca
-# ╟─45848aa0-2b34-11eb-2fb2-1de59b157503
-# ╠═45848aa0-2b34-11eb-2a84-c581844b06ac
-# ╟─45848aa0-2b34-11eb-1033-75aa4e7f9e44
-# ╠═45848aa0-2b34-11eb-29cd-6fcbba0713ff
-# ╟─45848aa0-2b34-11eb-1cd9-830acf5e5fcf
-# ╠═45848aa0-2b34-11eb-3043-ab658f85c94d
-# ╟─45848aa0-2b34-11eb-3e1d-0f5d3d148e42
-# ╠═45848aa0-2b34-11eb-3c32-734d71c1fadc
-# ╠═4584b1b0-2b34-11eb-3d73-794c51f4dcc0
-# ╟─4584b1b0-2b34-11eb-2ecd-e9706728c72e
-# ╠═4584b1b0-2b34-11eb-1bdb-8baeb5a52b60
-# ╟─4584b1b0-2b34-11eb-3379-198501c2205c
-# ╠═4584b1b0-2b34-11eb-1cf8-c30c61b77c3a
-# ╟─4584b1b0-2b34-11eb-00c1-277681afb6b4
-# ╠═4584b1b0-2b34-11eb-259d-3d9bab0abd74
-# ╟─4584b1b0-2b34-11eb-3696-335f6ed40fc0
-# ╠═4584b1b0-2b34-11eb-305a-49281fe95b03
-# ╟─4584b1b0-2b34-11eb-29a7-4d904e6f40dc
-# ╠═4584b1b0-2b34-11eb-232c-dd5820138cb1
-# ╟─4584d8c0-2b34-11eb-1857-33cbf335ee1f
-# ╠═4584d8c0-2b34-11eb-1cc1-33dbad53b168
-# ╟─4584d8c0-2b34-11eb-2c30-85585d54fb35
-# ╠═4584d8c0-2b34-11eb-27a2-1ffe81481057
-# ╟─4584d8c0-2b34-11eb-2961-5fad152a99e2
-# ╠═4584d8c0-2b34-11eb-37d4-a7287e0f9cc4
-# ╟─4584d8c0-2b34-11eb-0c39-79b5ca1d770c
-# ╠═4584d8c0-2b34-11eb-04d6-fbac2c1a540e
-# ╟─4584d8c0-2b34-11eb-0390-315120b085fd
-# ╠═4584d8c0-2b34-11eb-108f-bfe5cb24b7c8
-# ╟─4584d8c0-2b34-11eb-0499-a35a34352249
-# ╠═4584d8c0-2b34-11eb-11aa-4522b36abfd8
-# ╟─4584d8c0-2b34-11eb-0a25-83fc388d5dc3
-# ╠═4584d8c0-2b34-11eb-1693-c121d9f6d810
-# ╟─4584d8c0-2b34-11eb-2c8a-d9327be1e156
-# ╠═4584d8c0-2b34-11eb-001f-39a92cb43cda
-# ╟─4584d8c0-2b34-11eb-0548-fded48c67d42
-# ╠═4584d8c0-2b34-11eb-3cf1-c53ca73b90c0
-# ╟─4584d8c0-2b34-11eb-1981-9d89b05e70bf
-# ╠═4584d8c0-2b34-11eb-09ac-8db37b56c058
-# ╟─4584d8c0-2b34-11eb-0a5d-5b32a5918f03
-# ╠═4584d8c0-2b34-11eb-115c-9b231b996eb8
-# ╟─4584d8c0-2b34-11eb-1aa0-6546d5d2c48c
-# ╠═4584d8c0-2b34-11eb-049e-15d150e76bc9
-# ╟─4584d8c0-2b34-11eb-2b2a-5b1ff01958ab
-# ╠═4584d8c0-2b34-11eb-1474-034a27af722a
-# ╟─4584d8c0-2b34-11eb-3cee-ff4009b50573
-# ╠═4584d8c0-2b34-11eb-18a4-9d6696c1b4a4
-# ╟─4584d8c0-2b34-11eb-1847-81471b85e942
-# ╠═4584d8c0-2b34-11eb-12fb-dd8e9b5403d2
-# ╟─4584d8c0-2b34-11eb-0721-75da6b335ea7
-# ╠═4584d8c0-2b34-11eb-3139-bfc6ca38a29c
-# ╟─4584d8c0-2b34-11eb-1b93-f572c7b160bf
-# ╠═4584d8c0-2b34-11eb-0461-2f5325205d5f
-# ╟─4584d8c0-2b34-11eb-0e95-6d4f2736d8b9
-# ╠═4584d8c0-2b34-11eb-3e99-e384ea5c74f4
-# ╟─4584d8c0-2b34-11eb-2e0c-4d3774cf5ae3
-# ╠═4584d8c0-2b34-11eb-3155-fd9587bc317c
-# ╟─4584d8c0-2b34-11eb-059e-bdab7b27adb4
-# ╠═4584d8c0-2b34-11eb-281d-85f98ce6b4fb
-# ╟─4584d8c0-2b34-11eb-0722-75ddc3f3d25f
-# ╠═4584d8c0-2b34-11eb-2c78-1f7e09a10517
-# ╠═45865f60-2b34-11eb-22dd-4d63a3d739fa
-# ╟─45868670-2b34-11eb-195c-c57121a0669a
-# ╠═45868670-2b34-11eb-03cd-13db0bb65d06
-# ╟─45868670-2b34-11eb-1b6e-27336c120538
-# ╠═45868670-2b34-11eb-3321-ed7759f52640
-# ╟─45868670-2b34-11eb-0b77-ab42079645b0
-# ╠═45868670-2b34-11eb-2d4f-13afa2ea9024
-# ╟─45868670-2b34-11eb-305e-21ec71b47b83
-# ╠═45868670-2b34-11eb-391e-ef5f4b17166e
-# ╟─45868670-2b34-11eb-3581-5dc283d7cd52
-# ╠═45868670-2b34-11eb-0b08-17817b613c55
-# ╟─45868670-2b34-11eb-2376-e16927b95c62
-# ╠═45868670-2b34-11eb-2484-d156e73d6149
-# ╟─45868670-2b34-11eb-0faf-23350d52f291
-# ╠═45868670-2b34-11eb-2f22-79b3e9911a17
-# ╟─45868670-2b34-11eb-304c-cfdd57d86c36
-# ╠═45868670-2b34-11eb-18bf-57a2f4f57854
-# ╟─45868670-2b34-11eb-015c-4b15130da0ca
-# ╠═45868670-2b34-11eb-148e-3d0f4d5d6d9b
-# ╟─45868670-2b34-11eb-061f-cfe12c3f0ada
-# ╠═45868670-2b34-11eb-33fa-55bfa5f06326
-# ╟─45868670-2b34-11eb-38d3-d15762063938
-# ╠═45868670-2b34-11eb-2f52-577e5a0b0c94
-# ╟─45868670-2b34-11eb-02fb-e9354bed71b7
-# ╠═45868670-2b34-11eb-1411-25b119f22c3d
-# ╟─45868670-2b34-11eb-2ac3-57b0cefe05bf
-# ╠═45868670-2b34-11eb-2db3-8f29173836da
-# ╟─45868670-2b34-11eb-3124-c9b5ab614b0e
-# ╠═45868670-2b34-11eb-19b7-f34abda96ed2
-# ╟─45868670-2b34-11eb-013f-a16e7f8d4e17
-# ╠═45868670-2b34-11eb-07b6-79143107e56e
-# ╟─45868670-2b34-11eb-0105-4d2b5e9f15c8
-# ╠═45868670-2b34-11eb-0169-ffa6140879c1
-# ╟─45868670-2b34-11eb-38a5-57f553e511e0
-# ╠═45868670-2b34-11eb-06a7-e12c66b467b9
-# ╟─45868670-2b34-11eb-2f3b-c3c935d8be4f
-# ╠═45868670-2b34-11eb-30a4-cd5f9bf43613
-# ╟─45868670-2b34-11eb-3764-f5761a06a25f
-# ╠═45868670-2b34-11eb-07d2-9fe9a8371a5d
-# ╟─45868670-2b34-11eb-138b-89faa6b79190
-# ╠═45868670-2b34-11eb-0e8a-992f8b8cd01a
-# ╟─4586ad80-2b34-11eb-1252-a1390f3bc3ed
-# ╠═4586ad80-2b34-11eb-32c7-61eb0a91a1f0
-# ╟─4586ad80-2b34-11eb-0681-49dff9f16864
-# ╠═4586ad80-2b34-11eb-0f09-dd4d5ef31591
-# ╟─4586ad80-2b34-11eb-21f6-2baa9c4b2ebf
-# ╠═4586ad80-2b34-11eb-3c6d-2da6b94fa467
-# ╟─4586ad80-2b34-11eb-1cd4-1378eaf5cad6
-# ╠═4586ad80-2b34-11eb-1caf-a51d23c55259
-# ╟─4586ad80-2b34-11eb-1b03-81275be040ae
-# ╠═4586ad80-2b34-11eb-0c95-059743358c76
-# ╟─4586ad80-2b34-11eb-34f7-917aca7769cd
-# ╠═4586ad80-2b34-11eb-243c-f9083b34abde
-# ╠═4586d492-2b34-11eb-168a-9dc48e368345
-# ╟─4586d492-2b34-11eb-1034-099450f73c45
-# ╠═4586d492-2b34-11eb-2e41-1199d4f721bb
-# ╟─4586d492-2b34-11eb-3251-bbecfe088731
-# ╠═4586d492-2b34-11eb-1871-436f7d90e24a
-# ╟─4586fba0-2b34-11eb-305f-0d8714e51959
-# ╠═4586fba0-2b34-11eb-0733-092c90f19116
-# ╟─4586fba0-2b34-11eb-0172-c7290380876a
-# ╠═4586fba0-2b34-11eb-38a3-039a8aac81fd
-# ╟─4586fba0-2b34-11eb-3eb5-99e44275b742
-# ╠═4586fba0-2b34-11eb-0ff6-9155f98afc69
-# ╟─4586fba0-2b34-11eb-0028-316d360162eb
-# ╠═4586fba0-2b34-11eb-0794-61d5590ff491
-# ╟─4586fba0-2b34-11eb-0381-df67c6eb615a
-# ╠═4586fba0-2b34-11eb-187a-eb5a56d68e87
-# ╟─4586fba0-2b34-11eb-0758-f1f23e86d19b
-# ╠═4586fba0-2b34-11eb-3c82-8d1e96e7402e
-# ╟─4586fba0-2b34-11eb-1885-7f8194ef1a71
-# ╠═4586fba0-2b34-11eb-3cca-3d23c7567cdb
-# ╟─4586fba0-2b34-11eb-195a-dff4628218e9
-# ╠═4586fba0-2b34-11eb-03bf-0b0f1ed11e0c
-# ╟─4586fba0-2b34-11eb-1e88-b10d227d1d2b
-# ╠═4586fba0-2b34-11eb-16d2-b7202315f8b8
-# ╟─4586fba0-2b34-11eb-2096-551515ebcbf7
-# ╠═4586fba0-2b34-11eb-0df2-f96faaba81e0
-# ╟─4586fba0-2b34-11eb-2dc7-e58db8a0493d
-# ╠═4586fba0-2b34-11eb-15e0-1532be3594bf
-# ╟─4586fba0-2b34-11eb-0c63-8d8c402a2120
-# ╠═4586fba0-2b34-11eb-3e6e-f90ba85d4aa4
-# ╟─4586fba0-2b34-11eb-0fac-057b1179d9cd
-# ╠═4586fba0-2b34-11eb-05dc-37ad9dbf7bee
-# ╟─4586fba0-2b34-11eb-22e2-610ec08c0aad
-# ╠═4586fba0-2b34-11eb-0522-4fe3a27ba5b7
-# ╟─4586fba0-2b34-11eb-3c63-1555d0526c76
-# ╠═4586fba0-2b34-11eb-247e-4d2207ffe12e
-# ╟─4586fba0-2b34-11eb-35a7-b5e9b3c08727
-# ╠═4586fba0-2b34-11eb-3b76-6f23e6ac2198
-# ╟─4586fba0-2b34-11eb-2f68-4705433797ea
-# ╠═4586fba0-2b34-11eb-16e5-d5d694c1f6bd
-# ╟─4586fba0-2b34-11eb-2fa2-dd79f31a21e5
-# ╠═4586fba0-2b34-11eb-162e-61c4d1246ca1
-# ╟─4586fba0-2b34-11eb-3270-07ff8cee9d8f
-# ╠═4586fba0-2b34-11eb-24b3-ef73d123a83b
-# ╟─4586fba0-2b34-11eb-026b-47b880df625a
-# ╠═4586fba0-2b34-11eb-10fe-1f970c6a61a4
-# ╟─4586fba0-2b34-11eb-2ad3-6f1c1e369689
-# ╠═4586fba0-2b34-11eb-017c-d9e30d2de037
-# ╟─4586fba0-2b34-11eb-2436-89866e7c5b1b
-# ╠═4586fba0-2b34-11eb-0da0-c10046b78a43
-# ╟─458722b0-2b34-11eb-2156-bb4f4db32715
-# ╠═458722b0-2b34-11eb-09fc-07508d4b9fd6
-# ╟─458722b0-2b34-11eb-1133-f96203033837
-# ╠═458722b0-2b34-11eb-3a90-813af4820c60
+# ╠═22d63a70-2b5d-11eb-2e8b-6196c236bb71
+# ╟─22d63a70-2b5d-11eb-1913-ab2b23661965
+# ╠═22d63a70-2b5d-11eb-0198-5d9ac07245bf
+# ╟─22d63a70-2b5d-11eb-2d5f-1ffbf1a3b055
+# ╠═22d63a70-2b5d-11eb-3902-6bb8565913a8
+# ╟─22d63a70-2b5d-11eb-3ec5-1fdc1c354ee6
+# ╠═22d63a70-2b5d-11eb-2c9c-d5b39f9c1433
+# ╟─22d63a70-2b5d-11eb-03d1-458e51340ac1
+# ╠═22d63a70-2b5d-11eb-24f1-35a3c5a2eca3
+# ╟─22d63a70-2b5d-11eb-37d4-4506a74fe1cd
+# ╠═22d63a70-2b5d-11eb-3742-378d98971561
+# ╟─22d63a70-2b5d-11eb-322f-870a60d45ebd
+# ╠═22d63a70-2b5d-11eb-0de3-fde56aea3ece
+# ╟─22d63a70-2b5d-11eb-14df-1592b95f5ec3
+# ╠═22d63a70-2b5d-11eb-2600-93c4c715c39f
+# ╟─22d63a70-2b5d-11eb-10bf-6b21e93c1e04
+# ╠═22d63a70-2b5d-11eb-36dd-23b7e6296e0b
+# ╟─22d63a70-2b5d-11eb-27d9-f3beecfbb997
+# ╠═22d63a70-2b5d-11eb-1404-0f40d76c150b
+# ╟─22d63a70-2b5d-11eb-1b96-a9e051b9d357
+# ╠═22d63a70-2b5d-11eb-1655-c13d647bdddb
+# ╟─22d63a70-2b5d-11eb-2170-21b6cb46ff99
+# ╠═22d63a70-2b5d-11eb-2551-153c259280a1
+# ╟─22d66180-2b5d-11eb-2a1e-071a3f4af3f1
+# ╠═22d66180-2b5d-11eb-28f0-119daeb4e6a7
+# ╟─22d66180-2b5d-11eb-364d-a988509f2cdf
+# ╠═22d66180-2b5d-11eb-3bc9-071156392d00
+# ╟─22d66180-2b5d-11eb-22b2-81ee1b00fc1c
+# ╠═22d66180-2b5d-11eb-0899-23156623ac08
+# ╟─22d66180-2b5d-11eb-3dc4-33a3df504ca7
+# ╠═22d66180-2b5d-11eb-31da-8b0c39df7978
+# ╟─22d66180-2b5d-11eb-3e4f-c3e0bb17306e
+# ╠═22d66180-2b5d-11eb-33a6-352555a4aad9
+# ╟─22d66180-2b5d-11eb-31f5-83848d79f423
+# ╠═22d66180-2b5d-11eb-201f-f17a35a144d7
+# ╟─22d66180-2b5d-11eb-3a1a-f3959830cc8e
+# ╠═22d66180-2b5d-11eb-25ed-bdf6de2fccd2
+# ╟─22d66180-2b5d-11eb-0a15-934c213e0f22
+# ╠═22d66180-2b5d-11eb-0bd9-4b1ef9fe15b9
+# ╟─22d66180-2b5d-11eb-37cc-b1292c6669cc
+# ╠═22d66180-2b5d-11eb-0c01-1bcfe2f6a159
+# ╟─22d66180-2b5d-11eb-29cf-dbe72444dfda
+# ╠═22d66180-2b5d-11eb-3b38-8978884b05e9
+# ╟─22d66180-2b5d-11eb-2c2e-e1919d6036a9
+# ╠═22d66180-2b5d-11eb-22c0-4ddd0999aa85
+# ╟─22d66180-2b5d-11eb-2821-99663d0c2665
+# ╠═22d66180-2b5d-11eb-2148-8d9b03ddd307
+# ╟─22d66180-2b5d-11eb-0308-0570fec6a43c
+# ╠═22d66180-2b5d-11eb-272a-c1448f148b65
+# ╟─22d66180-2b5d-11eb-15db-8b916e041535
+# ╠═22d66180-2b5d-11eb-0a8d-05c85b95d392
+# ╠═22d6afa0-2b5d-11eb-0272-0962421e9959
+# ╟─22d6afa0-2b5d-11eb-260b-0f0de64ed159
+# ╠═22d6afa0-2b5d-11eb-2411-57e979080520
+# ╟─22d6afa0-2b5d-11eb-29e6-e73353fecc00
+# ╠═22d6afa0-2b5d-11eb-32bc-a5f693a49c7e
+# ╟─22d6afa0-2b5d-11eb-3c6a-b5d9709205cd
+# ╠═22d6afa0-2b5d-11eb-1e3d-45725d492bb0
+# ╟─22d6afa0-2b5d-11eb-0be3-15b20a834d15
+# ╠═22d6afa0-2b5d-11eb-0808-5bc161cbe348
+# ╟─22d6afa0-2b5d-11eb-0a1f-d3610f3f580b
+# ╠═22d6afa0-2b5d-11eb-1297-b5c34a2ddc57
+# ╟─22d6afa0-2b5d-11eb-2daf-8bea4c059c13
+# ╠═22d6afa0-2b5d-11eb-0173-39ce32ca6718
+# ╟─22d6afa0-2b5d-11eb-2da4-ad2c5e67b437
+# ╠═22d6afa0-2b5d-11eb-22a8-710b480a831a
+# ╟─22d6afa0-2b5d-11eb-380e-65b543e5f52d
+# ╠═22d6afa0-2b5d-11eb-1663-3509fd716957
+# ╟─22d6afa0-2b5d-11eb-1d51-b79f72c2a285
+# ╠═22d6afa0-2b5d-11eb-0792-6dac2475b581
+# ╟─22d6d6b0-2b5d-11eb-1e82-29c01274408f
+# ╠═22d6d6b0-2b5d-11eb-34dd-4132d6d9ad28
+# ╟─22d6d6b0-2b5d-11eb-061b-353f778d93d3
+# ╠═22d6d6b0-2b5d-11eb-0522-4b51fd545bdd
+# ╟─22d6d6b0-2b5d-11eb-0318-7962338df662
+# ╠═22d6d6b0-2b5d-11eb-04c4-f7d79194d579
+# ╟─22d6d6b0-2b5d-11eb-35eb-b16ddd3fbb95
+# ╠═22d6d6b0-2b5d-11eb-28cb-abe50c40952d
+# ╟─22d6d6b0-2b5d-11eb-0afe-cb7b61785ec5
+# ╠═22d6d6b0-2b5d-11eb-1f19-81201198f701
+# ╟─22d6d6b0-2b5d-11eb-28fa-39ea046d3184
+# ╠═22d6d6b0-2b5d-11eb-34f7-8f1b02c8455d
+# ╟─22d6d6b0-2b5d-11eb-19c4-9bc20280aa09
+# ╠═22d6d6b0-2b5d-11eb-1872-0d5c3a61ac32
+# ╟─22d6d6b0-2b5d-11eb-1a6c-e9982826eca8
+# ╠═22d6d6b0-2b5d-11eb-1dd1-89e3d9af45b5
+# ╟─22d6d6b0-2b5d-11eb-1162-ad1958551780
+# ╠═22d6d6b0-2b5d-11eb-37b4-ed0f5f8da844
+# ╟─22d6d6b0-2b5d-11eb-3c9a-cd964c677a8a
+# ╠═22d6d6b0-2b5d-11eb-1534-cf69a58a258b
+# ╟─22d6d6b0-2b5d-11eb-031a-ab6d5c72efee
+# ╠═22d6d6b0-2b5d-11eb-3446-db53d7c85482
+# ╟─22d6d6b0-2b5d-11eb-2fb7-512dd9c6c02d
+# ╠═22d6d6b0-2b5d-11eb-3f9a-6d6edae23019
+# ╟─22d6d6b0-2b5d-11eb-39e0-4558f23ba553
+# ╠═22d6d6b0-2b5d-11eb-19d8-85454cdb8be0
+# ╟─22d6d6b0-2b5d-11eb-31ee-fb7d90f35834
+# ╠═22d6d6b0-2b5d-11eb-3b8e-979de0ee226b
+# ╟─22d6fdc2-2b5d-11eb-073e-394d7042e914
+# ╠═22d6fdc2-2b5d-11eb-2c39-657173080699
+# ╟─22d6fdc2-2b5d-11eb-1915-5367ccf405b8
+# ╠═22d6fdc2-2b5d-11eb-3994-c3745f13a3bf
+# ╠═22d74be0-2b5d-11eb-2b08-bbc84c05432a
+# ╟─22d74be0-2b5d-11eb-3127-fba5802a7eac
+# ╠═22d74be0-2b5d-11eb-1971-3b1f407589a4
+# ╟─22d772ee-2b5d-11eb-2fc5-1fcff93afe36
+# ╠═22d772ee-2b5d-11eb-3190-ef808230bb83
+# ╟─22d772ee-2b5d-11eb-1dc8-bb7caa325b54
+# ╠═22d772ee-2b5d-11eb-373e-abae5fd00727
+# ╟─22d772ee-2b5d-11eb-044a-a795552eb729
+# ╠═22d772ee-2b5d-11eb-2a5c-81ae0cdf493b
+# ╟─22d772ee-2b5d-11eb-1c62-49edee1d8b63
+# ╠═22d772ee-2b5d-11eb-1fe3-b7cb9ec93970
+# ╟─22d772ee-2b5d-11eb-3d0e-13080802ca02
+# ╠═22d772ee-2b5d-11eb-1727-2f1cda3aa831
+# ╟─22d772ee-2b5d-11eb-25ee-ebeda2e0dd11
+# ╠═22d772ee-2b5d-11eb-107f-e10031dcd71f
+# ╟─22d772ee-2b5d-11eb-314a-d7abea3a9843
+# ╠═22d772ee-2b5d-11eb-0cff-270d6b6fb4f4
+# ╟─22d772ee-2b5d-11eb-2b83-2f6fd882fd5c
+# ╠═22d772ee-2b5d-11eb-1619-a12325227235
+# ╟─22d772ee-2b5d-11eb-0612-83c713223dfe
+# ╠═22d772ee-2b5d-11eb-19af-adfc8acc72e9
+# ╟─22d772ee-2b5d-11eb-3ec2-f910f528c500
+# ╠═22d772ee-2b5d-11eb-277d-c96e72b7d6df
+# ╟─22d772ee-2b5d-11eb-023f-11f5dacabddb
+# ╠═22d772ee-2b5d-11eb-0ab0-b908af06c318
+# ╟─22d79a00-2b5d-11eb-2cf1-991d5951761a
+# ╠═22d79a00-2b5d-11eb-0a11-7b7a25922faf
+# ╟─22d79a00-2b5d-11eb-0f00-f162c0ae8387
+# ╠═22d79a00-2b5d-11eb-2053-e31c419aff9e
+# ╟─22d79a00-2b5d-11eb-18bb-2783dd485a6c
+# ╠═22d79a00-2b5d-11eb-0b32-33c05881c7dd
+# ╟─22d79a00-2b5d-11eb-28e3-636c0a8bf7a6
+# ╠═22d79a00-2b5d-11eb-3442-d973c8e57e86
+# ╟─22d79a00-2b5d-11eb-39c4-a501c25e4750
+# ╠═22d79a00-2b5d-11eb-33e2-536700ebfc1b
+# ╟─22d79a00-2b5d-11eb-2ba7-ad0dcd47aa3b
+# ╠═22d79a00-2b5d-11eb-0691-5b2f606c8c89
+# ╟─22d79a00-2b5d-11eb-06ad-9dc3dfd40d6c
+# ╠═22d79a00-2b5d-11eb-36b4-8f798afb9ae2
+# ╟─22d79a00-2b5d-11eb-1ae9-632576c75728
+# ╠═22d79a00-2b5d-11eb-06bd-c30f043137fa
+# ╟─22d79a00-2b5d-11eb-28ad-f9bb288b42ce
+# ╠═22d79a00-2b5d-11eb-1b78-5b956e542b91
+# ╟─22d79a00-2b5d-11eb-0a96-7d8f4658c2b3
+# ╠═22d79a00-2b5d-11eb-0753-bf4c0dfb4e11
+# ╟─22d79a00-2b5d-11eb-052e-4f3eb6b439de
+# ╠═22d79a00-2b5d-11eb-2170-e30f1c155d51
+# ╟─22d79a00-2b5d-11eb-3102-0bdb596e1c64
+# ╠═22d79a00-2b5d-11eb-02e6-0507fe3fd1fe
+# ╟─22d7c110-2b5d-11eb-2b65-b9d2819c69ea
+# ╠═22d7c110-2b5d-11eb-2eab-3d8cce0f645a
+# ╠═22d85d50-2b5d-11eb-395f-b378b9562e8f
+# ╟─22d85d50-2b5d-11eb-25a6-d7c22c69d216
+# ╠═22d85d50-2b5d-11eb-3e38-23ceca7da45f
+# ╟─22d85d50-2b5d-11eb-2ac7-a5b03e3bfb20
+# ╠═22d85d50-2b5d-11eb-3a11-8503dce849dc
+# ╟─22d85d50-2b5d-11eb-05e5-bf77d28faec5
+# ╠═22d85d50-2b5d-11eb-216a-5f036b7d9104
+# ╟─22d85d50-2b5d-11eb-08c3-45921d818d85
+# ╠═22d85d50-2b5d-11eb-1d59-a332133f8255
+# ╟─22d85d50-2b5d-11eb-2390-1dbcf0ce2cfa
+# ╠═22d85d50-2b5d-11eb-1759-6d05d9cc81c6
+# ╟─22d85d50-2b5d-11eb-3f9d-07190b42e303
+# ╠═22d85d50-2b5d-11eb-1366-83ddbe9e525b
+# ╟─22d85d50-2b5d-11eb-2ab7-b5e950b2d66a
+# ╠═22d85d50-2b5d-11eb-135a-775b2e2392a8
+# ╟─22d85d50-2b5d-11eb-31dc-4f4cc74db907
+# ╠═22d85d50-2b5d-11eb-301b-c1a0e5f3325c
+# ╟─22d85d50-2b5d-11eb-0cc0-213a4613c85e
+# ╠═22d85d50-2b5d-11eb-107b-df2fcf5ff767
+# ╟─22d85d50-2b5d-11eb-32bc-25fd056f32aa
+# ╠═22d85d50-2b5d-11eb-31b1-ffeba88afa72
+# ╟─22d85d50-2b5d-11eb-2a38-89d467470a71
+# ╠═22d85d50-2b5d-11eb-1ad0-0b8c9f259ae5
+# ╟─22d85d50-2b5d-11eb-12ec-3d883777fdb6
+# ╠═22d85d50-2b5d-11eb-00c3-17383368357b
+# ╟─22d85d50-2b5d-11eb-1926-85ca553c7513
+# ╠═22d85d50-2b5d-11eb-08d1-7fc531a5800f
+# ╟─22d88460-2b5d-11eb-184c-ad49b271fae6
+# ╠═22d88460-2b5d-11eb-3acc-87223a7344f9
+# ╟─22d88460-2b5d-11eb-3728-77d4d233a288
+# ╠═22d88460-2b5d-11eb-3666-9b405756f2b9
+# ╟─22d88460-2b5d-11eb-3701-8bc7fe3b3fa2
+# ╠═22d88460-2b5d-11eb-145f-858a4cddffa9
+# ╟─22d88460-2b5d-11eb-3f2b-9b96907938f7
+# ╠═22d88460-2b5d-11eb-2b09-6151444ed754
+# ╟─22d88460-2b5d-11eb-36f3-6b6d150dd4a6
+# ╠═22d88460-2b5d-11eb-3d23-65c0c12517da
+# ╟─22d88460-2b5d-11eb-08de-55336e57dbfb
+# ╠═22d88460-2b5d-11eb-3d4b-71b00427ba56
+# ╟─22d88460-2b5d-11eb-11ef-c9d6d1de11fa
+# ╠═22d88460-2b5d-11eb-27e4-f9687eb41a18
+# ╟─22d88460-2b5d-11eb-0904-c585cd0453ec
+# ╠═22d88460-2b5d-11eb-07b9-af1440b37cd8
+# ╟─22d88460-2b5d-11eb-146d-9f635e20312e
+# ╠═22d88460-2b5d-11eb-0715-23a310edd602
+# ╟─22d88460-2b5d-11eb-2677-57e806ca3b2f
+# ╠═22d88460-2b5d-11eb-081b-ade8aacd1e66
+# ╟─22d88460-2b5d-11eb-3a5d-11d684ba8cfe
+# ╠═22d88460-2b5d-11eb-0303-07834e6e128b
+# ╟─22d8ab70-2b5d-11eb-199f-1f5febe896fc
+# ╠═22d8ab70-2b5d-11eb-067b-73ebd9d5f93e

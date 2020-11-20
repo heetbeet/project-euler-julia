@@ -36,7 +36,7 @@ S has 100891344545564193334812497256 50-element subsets.</p>
 <p>Determine the sum of all integers which are the sum of exactly one of the 50-element subsets of S, i.e. find sum(U(S,50)).</p>
 =#
 
-submit_answer(nothing; prob_num=209)
+submit_answer(nothing; prob_num=201)
 
 #=
 <h2>Problem 202: Laserbeam</h2>
@@ -52,7 +52,7 @@ submit_answer(nothing; prob_num=209)
 <p>In how many ways can a laser beam enter at vertex C, bounce off 12017639147 surfaces, then exit through the same vertex?</p>
 =#
 
-submit_answer(nothing; prob_num=210)
+submit_answer(nothing; prob_num=202)
 
 #=
 <h2>Problem 203: Squarefree Binomial Coefficients</h2>
@@ -72,7 +72,7 @@ The sum of the distinct squarefree numbers in the first eight rows is 105.</p>
 <p>Find the sum of the distinct squarefree numbers in the first 51 rows of Pascal's triangle.</p>
 =#
 
-submit_answer(nothing; prob_num=211)
+submit_answer(nothing; prob_num=203)
 
 #=
 <h2>Problem 204: Generalised Hamming Numbers</h2>
@@ -86,7 +86,7 @@ Hence the Hamming numbers are the generalised Hamming numbers of type 5.</p>
 <p>How many generalised Hamming numbers of type 100 are there which don't exceed 10<sup>9</sup>?</p>
 =#
 
-submit_answer(nothing; prob_num=212)
+submit_answer(nothing; prob_num=204)
 
 #=
 <h2>Problem 205: Dice Game</h2>
@@ -98,14 +98,14 @@ Colin has six six-sided (cubic) dice, each with faces numbered 1, 2, 3, 4, 5, 6.
 <p>What is the probability that Pyramidal Pete beats Cubic Colin? Give your answer rounded to seven decimal places in the form 0.abcdefg</p>
 =#
 
-submit_answer(nothing; prob_num=213)
+submit_answer(nothing; prob_num=205)
 
 #=
 <h2>Problem 206: Concealed Square</h2>
 <p>Find the unique positive integer whose square has the form 1_2_3_4_5_6_7_8_9_0,<br /> where each “_” is a single digit.</p>
 =#
 
-submit_answer(nothing; prob_num=214)
+submit_answer(nothing; prob_num=206)
 
 #=
 <h2>Problem 207: Integer partition equations</h2>
@@ -133,7 +133,7 @@ Thus P(6) = 1/2.</p>
 <p>Find the smallest <var>m</var> for which P(<var>m</var>) &lt; 1/12345</p>
 =#
 
-submit_answer(nothing; prob_num=215)
+submit_answer(nothing; prob_num=207)
 
 #=
 <h2>Problem 208: Robot Walks</h2>
@@ -148,7 +148,7 @@ submit_answer(nothing; prob_num=215)
 </p>
 =#
 
-submit_answer(nothing; prob_num=216)
+submit_answer(nothing; prob_num=208)
 
 #=
 <h2>Problem 209: Circular Logic</h2>
@@ -174,7 +174,7 @@ submit_answer(nothing; prob_num=216)
 </p>
 =#
 
-submit_answer(nothing; prob_num=217)
+submit_answer(nothing; prob_num=209)
 
 #=
 <h2>Problem 210: Obtuse Angled Triangles</h2>
@@ -187,7 +187,7 @@ What is N(1,000,000,000)?
 </p>
 =#
 
-submit_answer(nothing; prob_num=218)
+submit_answer(nothing; prob_num=210)
 
 #=
 <h2>Problem 211: Divisor Square Sum</h2>
@@ -196,7 +196,7 @@ submit_answer(nothing; prob_num=218)
 <p>Find the sum of all <var>n</var>, 0 &lt; <var>n</var> &lt; 64,000,000 such that σ<sub>2</sub>(<var>n</var>) is a perfect square.</p>
 =#
 
-submit_answer(nothing; prob_num=219)
+submit_answer(nothing; prob_num=211)
 
 #=
 <h2>Problem 212: Combined Volume of Cuboids</h2>
@@ -217,7 +217,7 @@ submit_answer(nothing; prob_num=219)
 <p>What is the combined volume of all 50000 cuboids, C<sub>1</sub>,...,C<sub>50000</sub> ?</p>
 =#
 
-submit_answer(nothing; prob_num=220)
+submit_answer(nothing; prob_num=212)
 
 #=
 <h2>Problem 213: Flea Circus</h2>
@@ -227,7 +227,7 @@ When a bell is rung, each flea jumps to an adjacent square at random (usually 4 
 <p>What is the expected number of unoccupied squares after 50 rings of the bell? Give your answer rounded to six decimal places.</p>
 =#
 
-submit_answer(nothing; prob_num=221)
+submit_answer(nothing; prob_num=213)
 
 #=
 <h2>Problem 214: Totient Chains</h2>
@@ -253,7 +253,7 @@ Here is a listing of all chains with length 4:</p>
 <p>What is the sum of all primes less than 40000000 which generate a chain of length 25?</p>
 =#
 
-submit_answer(nothing; prob_num=222)
+submit_answer(nothing; prob_num=214)
 
 #=
 <h2>Problem 215: Crack-free Walls</h2>
@@ -269,7 +269,7 @@ submit_answer(nothing; prob_num=222)
 <p>Calculate W(32,10).</p>
 =#
 
-submit_answer(nothing; prob_num=223)
+submit_answer(nothing; prob_num=215)
 
 #=
 <h2>Problem 216: Investigating the primality of numbers of the form 2<var>n</var><sup>2</sup>-1</h2>
@@ -281,7 +281,7 @@ For <var>n</var> ≤ 10000 there are 2202 numbers <var>t</var>(<var>n</var>)  th
 <p>How many numbers <var>t</var>(<var>n</var>) are prime for <var>n</var> ≤ 50,000,000 ?</p>
 =#
 
-submit_answer(nothing; prob_num=224)
+submit_answer(nothing; prob_num=216)
 
 #=
 <h2>Problem 217: Balanced Numbers</h2>
@@ -293,7 +293,7 @@ Thus: T(1) = 45, T(2) = 540 and T(5) = 334795890. </p>
 <p>Find T(47) mod 3<sup>15</sup></p>
 =#
 
-submit_answer(nothing; prob_num=225)
+submit_answer(nothing; prob_num=217)
 
 #=
 <h2>Problem 218: Perfect right-angled triangles</h2>
@@ -314,7 +314,7 @@ Also c is a perfect square.</p>
 <p>How many perfect right-angled triangles with c≤10<sup>16</sup> exist that are not super-perfect?</p>
 =#
 
-submit_answer(nothing; prob_num=226)
+submit_answer(nothing; prob_num=218)
 
 #=
 <h2>Problem 219: Skew-cost coding</h2>
@@ -333,7 +333,7 @@ In short, we write Cost(6) = 35.</p>
 <p>What is Cost(10<sup>9</sup>) ?</p>
 =#
 
-submit_answer(nothing; prob_num=227)
+submit_answer(nothing; prob_num=219)
 
 #=
 <h2>Problem 220: Heighway Dragon</h2>
@@ -355,7 +355,7 @@ submit_answer(nothing; prob_num=227)
 Give your answer in the form <i>x</i>,<i>y</i> with no spaces.</p>
 =#
 
-submit_answer(nothing; prob_num=228)
+submit_answer(nothing; prob_num=220)
 
 #=
 <h2>Problem 221: Alexandrian Integers</h2>
@@ -371,7 +371,7 @@ In fact, 630 is the 6<sup>th</sup> Alexandrian integer,  the first 6 Alexandrian
 <p>Find the 150000<sup>th</sup> Alexandrian integer.</p>
 =#
 
-submit_answer(nothing; prob_num=229)
+submit_answer(nothing; prob_num=221)
 
 #=
 <h2>Problem 222: Sphere Packing</h2>
@@ -380,7 +380,7 @@ submit_answer(nothing; prob_num=229)
 <p>Give your answer in micrometres (10<sup>-6</sup> m) rounded to the nearest integer.</p>
 =#
 
-submit_answer(nothing; prob_num=230)
+submit_answer(nothing; prob_num=222)
 
 #=
 <h2>Problem 223: Almost right-angled triangles I</h2>
@@ -389,7 +389,7 @@ submit_answer(nothing; prob_num=230)
 <p>How many barely acute triangles are there with perimeter ≤ 25,000,000?</p>
 =#
 
-submit_answer(nothing; prob_num=231)
+submit_answer(nothing; prob_num=223)
 
 #=
 <h2>Problem 224: Almost right-angled triangles II</h2>
@@ -398,7 +398,7 @@ submit_answer(nothing; prob_num=231)
 <p>How many barely obtuse triangles are there with perimeter ≤ 75,000,000?</p>
 =#
 
-submit_answer(nothing; prob_num=232)
+submit_answer(nothing; prob_num=224)
 
 #=
 <h2>Problem 225: Tribonacci non-divisors</h2>
@@ -412,20 +412,4 @@ It can be shown that 27 does not divide any terms of this sequence.<br />In fact
 Find the 124<sup>th</sup> odd number that does not divide any terms of the above sequence.</p>
 =#
 
-submit_answer(nothing; prob_num=233)
-
-#=
-<h2>Problem 226: A Scoop of Blancmange</h2>
-<p>The <i>blancmange curve</i> is the set of points $(x, y)$ such that $0 \le x \le 1$ and $y = \sum \limits_{n = 0}^{\infty} {\dfrac{s(2^n x)}{2^n}}$, where $s(x)$ is the distance from $x$ to the nearest integer.</p>
-
-<p>The area under the blancmange curve is equal to ½, shown in pink in the diagram below.</p>
-
-<div class="center">
-<img src="project/images/p226_scoop2.gif" class="dark_img" alt="blancmange curve" /></div>
-
-<p>Let <var>C</var> be the circle with centre $\left ( \frac{1}{4}, \frac{1}{2} \right )$ and radius $\frac{1}{4}$, shown in black in the diagram.</p>
-
-<p>What area under the blancmange curve is enclosed by <var>C</var>?<br />Give your answer rounded to eight decimal places in the form <i>0.abcdefgh</i></p>
-=#
-
-submit_answer(nothing; prob_num=234)
+submit_answer(nothing; prob_num=225)

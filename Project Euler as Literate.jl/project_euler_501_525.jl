@@ -9,7 +9,7 @@ You are given <var>f</var>(100) = 10, <var>f</var>(1000) = 180 and <var>f</v
 Find <var>f</var>(10<sup>12</sup>).</p>
 =#
 
-submit_answer(nothing; prob_num=521)
+submit_answer(nothing; prob_num=501)
 
 #=
 <h2>Problem 502: Counting Castles</h2>
@@ -35,7 +35,7 @@ submit_answer(nothing; prob_num=521)
 <p>Find (F(10<sup>12</sup>,100) + F(10000,10000) + F(100,10<sup>12</sup>)) mod 1 000 000 007.</p>
 =#
 
-submit_answer(nothing; prob_num=522)
+submit_answer(nothing; prob_num=502)
 
 #=
 <h2>Problem 503: Compromise or persist</h2>
@@ -55,7 +55,7 @@ submit_answer(nothing; prob_num=522)
 <p>Find F(10<sup>6</sup>). Give your answer rounded to 10 decimal places behind the decimal point.</p>
 =#
 
-submit_answer(nothing; prob_num=523)
+submit_answer(nothing; prob_num=503)
 
 #=
 <h2>Problem 504: Square on the Inside</h2>
@@ -68,7 +68,7 @@ submit_answer(nothing; prob_num=523)
 <p>How many quadrilaterals <var>ABCD</var> strictly contain a square number of lattice points for <var>m</var> = 100?</p>
 =#
 
-submit_answer(nothing; prob_num=524)
+submit_answer(nothing; prob_num=504)
 
 #=
 <h2>Problem 505: Bidirectional Recurrence</h2>
@@ -79,7 +79,7 @@ submit_answer(nothing; prob_num=524)
 Find $A(10^{12})$.
 =#
 
-submit_answer(nothing; prob_num=525)
+submit_answer(nothing; prob_num=505)
 
 #=
 <h2>Problem 506: Clock sequence</h2>
@@ -93,7 +93,7 @@ submit_answer(nothing; prob_num=525)
 <p>Find <var>S</var>(10<sup>14</sup>) mod 123454321.</p>
 =#
 
-submit_answer(nothing; prob_num=526)
+submit_answer(nothing; prob_num=506)
 
 #=
 <h2>Problem 507: Shortest Lattice Vector</h2>
@@ -119,7 +119,7 @@ Find $\sum_{n=1}^{20000000} S(n)$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=527)
+submit_answer(nothing; prob_num=507)
 
 #=
 <h2>Problem 508: Integers in base i-1</h2>
@@ -144,7 +144,7 @@ Define <var>B</var>(<var>L</var>) as the sum of <var>f</var>(<var>a</var>+<var>b
 Find <var>B</var>(10<sup>15</sup>) mod 1 000 000 007.
 =#
 
-submit_answer(nothing; prob_num=528)
+submit_answer(nothing; prob_num=508)
 
 #=
 <h2>Problem 509: Divisor Nim</h2>
@@ -163,7 +163,7 @@ Find <var>S</var>(123456787654321) modulo 1234567890.
 </p>
 =#
 
-submit_answer(nothing; prob_num=529)
+submit_answer(nothing; prob_num=509)
 
 #=
 <h2>Problem 510: Tangent Circles</h2>
@@ -176,7 +176,7 @@ You are also given <var>S</var>(100) = 3072.</p>
 <p>Find <var>S</var>(10<sup>9</sup>).</p>
 =#
 
-submit_answer(nothing; prob_num=530)
+submit_answer(nothing; prob_num=510)
 
 #=
 <h2>Problem 511: Sequences with nice divisibility properties</h2>
@@ -202,7 +202,7 @@ submit_answer(nothing; prob_num=530)
 <p>Find the last nine digits of <var>Seq</var>(1234567898765,4321).</p>
 =#
 
-submit_answer(nothing; prob_num=531)
+submit_answer(nothing; prob_num=511)
 
 #=
 <h2>Problem 512: Sums of totients of powers</h2>
@@ -216,7 +216,7 @@ Find $g(5 \times 10^8)$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=532)
+submit_answer(nothing; prob_num=512)
 
 #=
 <h2>Problem 513: Integral median</h2>
@@ -230,7 +230,7 @@ Find F(100000).
 </p>
 =#
 
-submit_answer(nothing; prob_num=533)
+submit_answer(nothing; prob_num=513)
 
 #=
 <h2>Problem 514: Geoboard Shapes</h2>
@@ -249,7 +249,7 @@ submit_answer(nothing; prob_num=533)
 <p>Calculate E(100) rounded to five decimal places.</p>
 =#
 
-submit_answer(nothing; prob_num=534)
+submit_answer(nothing; prob_num=514)
 
 #=
 <h2>Problem 515: Dissonant Numbers</h2>
@@ -262,7 +262,7 @@ Let <var>D</var>(<var>a</var>,<var>b</var>,<var>k</var>) = $\sum$(<var>d</var>(<
 <li><var>D</var>(10<sup>6</sup>,10<sup>3</sup>,10<sup>3</sup>) = 38162302</li></ul><p>Find <var>D</var>(10<sup>9</sup>,10<sup>5</sup>,10<sup>5</sup>).</p>
 =#
 
-submit_answer(nothing; prob_num=535)
+submit_answer(nothing; prob_num=515)
 
 #=
 <h2>Problem 516: 5-smooth totients</h2>
@@ -277,7 +277,7 @@ Find S(10<sup>12</sup>). Give your answer modulo 2<sup>32</sup>.
 </p>
 =#
 
-submit_answer(nothing; prob_num=536)
+submit_answer(nothing; prob_num=516)
 
 #=
 <h2>Problem 517: A real recursion</h2>
@@ -294,7 +294,7 @@ Give your answer modulo 1000000007.
 </p>
 =#
 
-submit_answer(nothing; prob_num=537)
+submit_answer(nothing; prob_num=517)
 
 #=
 <h2>Problem 518: Prime triples and geometric sequences</h2>
@@ -310,7 +310,7 @@ submit_answer(nothing; prob_num=537)
 <p>Find S(10<sup>8</sup>).</p>
 =#
 
-submit_answer(nothing; prob_num=538)
+submit_answer(nothing; prob_num=518)
 
 #=
 <h2>Problem 519: Tricoloured Coin Fountains</h2>
@@ -323,7 +323,7 @@ submit_answer(nothing; prob_num=538)
 <p>Find the last 9 digits of <var>T</var>(20000).</p>
 =#
 
-submit_answer(nothing; prob_num=539)
+submit_answer(nothing; prob_num=519)
 
 #=
 <h2>Problem 520: Simbers</h2>
@@ -338,7 +338,7 @@ submit_answer(nothing; prob_num=539)
 <p>Find (<span style="font-size:larger;"><span style="font-size:larger;">∑</span></span><sub>1≤<var>u</var>≤39</sub> Q(2<sup><var>u</var></sup>)) mod 1 000 000 123.</p>
 =#
 
-submit_answer(nothing; prob_num=540)
+submit_answer(nothing; prob_num=520)
 
 #=
 <h2>Problem 521: Smallest prime factor</h2>
@@ -354,7 +354,7 @@ Find S(10<sup>12</sup>) mod 10<sup>9</sup>.
 </p>
 =#
 
-submit_answer(nothing; prob_num=541)
+submit_answer(nothing; prob_num=521)
 
 #=
 <h2>Problem 522: Hilbert's Blackout</h2>
@@ -377,7 +377,7 @@ submit_answer(nothing; prob_num=541)
 <p>Find F(12344321) mod 135707531.</p>
 =#
 
-submit_answer(nothing; prob_num=542)
+submit_answer(nothing; prob_num=522)
 
 #=
 <h2>Problem 523: First Sort I</h2>
@@ -403,7 +403,7 @@ You are given <var>E</var>(4) = 3.25 and <var>E</var>(10) = 115.725.</p>
 <p>Find <var>E</var>(30). Give your answer rounded to two digits after the decimal point.</p>
 =#
 
-submit_answer(nothing; prob_num=543)
+submit_answer(nothing; prob_num=523)
 
 #=
 <h2>Problem 524: First Sort II</h2>
@@ -462,7 +462,7 @@ submit_answer(nothing; prob_num=543)
 <p>Find <var>R</var>(12<sup>12</sup>).</p>
 =#
 
-submit_answer(nothing; prob_num=544)
+submit_answer(nothing; prob_num=524)
 
 #=
 <h2>Problem 525: Rolling Ellipse</h2>
@@ -483,20 +483,4 @@ $F(a,b) =  2 \pi \text{ } max(a,b)$</p>
 <p>Find <var>C</var>(1, 4) + <var>C</var>(3, 4). Give your answer rounded to 8 digits behind the decimal point in the form <i>ab.cdefghij</i>.</p>
 =#
 
-submit_answer(nothing; prob_num=545)
-
-#=
-<h2>Problem 526: Largest prime factors of consecutive numbers</h2>
-<p>Let <var>f</var>(<var>n</var>) be the largest prime factor of <var>n</var>.</p>
-<p>Let <var>g</var>(<var>n</var>) = <var>f</var>(<var>n</var>) + <var>f</var>(<var>n</var>+1) + <var>f</var>(<var>n</var>+2) + <var>f</var>(<var>n</var>+3) + <var>f</var>(<var>n</var>+4) + <var>f</var>(<var>n</var>+5) + <var>f</var>(<var>n</var>+6) + <var>f</var>(<var>n</var>+7) + <var>f</var>(<var>n</var>+8), the sum of the largest prime factor of each of nine consecutive numbers starting with <var>n</var>.</p>
-<p>Let <var>h</var>(<var>n</var>) be the maximum value of <var>g</var>(<var>k</var>) for 2 ≤ <var>k</var> ≤ <var>n</var>.</p>
-<p>You are given:</p>
-<ul><li><var>f</var>(100) = 5</li>
-<li><var>f</var>(101) = 101</li>
-<li><var>g</var>(100) = 409</li>
-<li><var>h</var>(100) = 417</li>
-<li><var>h</var>(10<sup>9</sup>) = 4896292593</li></ul>
-<p>Find <var>h</var>(10<sup>16</sup>).</p>
-=#
-
-submit_answer(nothing; prob_num=546)
+submit_answer(nothing; prob_num=525)

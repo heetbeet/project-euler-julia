@@ -8,7 +8,7 @@ include((@__DIR__)*"/shared.jl");
 <p>Find <var>S</var>(1803) rounded to 5 decimal places behind the decimal point.</p>
 =#
 
-submit_answer(nothing; prob_num=495)
+submit_answer(nothing; prob_num=476)
 
 #=
 <h2>Problem 477: Number Sequence Game</h2>
@@ -29,7 +29,7 @@ If <var>N</var> = 4 and <var>S</var> = {1, 2, 10, 3}, then each player maximizes
 <p>Find <var>F</var>(10<sup>8</sup>).</p>
 =#
 
-submit_answer(nothing; prob_num=496)
+submit_answer(nothing; prob_num=477)
 
 #=
 <h2>Problem 478: Mixtures</h2>
@@ -56,7 +56,7 @@ We can verify that E(1) = 103, E(2) = 520447, E(10) mod 11<sup>8</sup> = 82608
 Find E(10 000 000) mod 11<sup>8</sup>.</p>
 =#
 
-submit_answer(nothing; prob_num=497)
+submit_answer(nothing; prob_num=478)
 
 #=
 <h2>Problem 479: Roots on the Rise</h2>
@@ -72,7 +72,7 @@ $\frac 1 x = (\frac k x)^2(k+x^2)-k x$.</p>
 <p>Find $S(10^6)$ modulo $1\,000\,000\,007$.</p>
 =#
 
-submit_answer(nothing; prob_num=498)
+submit_answer(nothing; prob_num=479)
 
 #=
 <h2>Problem 480: The Last Question</h2>
@@ -117,7 +117,7 @@ We can see that <var>P</var>(<var>w</var>) and <var>W</var>(<var>p</var>) are in
 Give your answer using lowercase characters (no punctuation or space).</p>
 =#
 
-submit_answer(nothing; prob_num=499)
+submit_answer(nothing; prob_num=480)
 
 #=
 <h2>Problem 481: Chef Showdown</h2>
@@ -134,7 +134,7 @@ submit_answer(nothing; prob_num=499)
 <p>Find E(14) rounded to 8 decimal places.</p>
 =#
 
-submit_answer(nothing; prob_num=500)
+submit_answer(nothing; prob_num=481)
 
 #=
 <h2>Problem 482: The incenter of a triangle</h2>
@@ -153,7 +153,7 @@ Find S(10<sup>7</sup>).
 </p>
 =#
 
-submit_answer(nothing; prob_num=501)
+submit_answer(nothing; prob_num=482)
 
 #=
 <h2>Problem 483: Repeated permutation</h2>
@@ -179,7 +179,7 @@ Find g(350) and write the answer in scientific notation rounded to 10 significan
 </p>
 =#
 
-submit_answer(nothing; prob_num=502)
+submit_answer(nothing; prob_num=483)
 
 #=
 <h2>Problem 484: Arithmetic Derivative</h2>
@@ -193,7 +193,7 @@ submit_answer(nothing; prob_num=502)
 <p><span style="font-size:smaller;">Note: <strong>gcd</strong>(<var>x</var>,<var>y</var>) denotes the greatest common divisor of <var>x</var> and <var>y</var>.</span></p>
 =#
 
-submit_answer(nothing; prob_num=503)
+submit_answer(nothing; prob_num=484)
 
 #=
 <h2>Problem 485: Maximum number of divisors</h2>
@@ -210,7 +210,7 @@ Find S(100 000 000,100 000).
 </p>
 =#
 
-submit_answer(nothing; prob_num=504)
+submit_answer(nothing; prob_num=485)
 
 #=
 <h2>Problem 486: Palindrome-containing strings</h2>
@@ -229,7 +229,7 @@ F<sub>5</sub>(6) = 42 and F<sub>5</sub>(11) = 3844.</p>
 <p>Find D(10<sup>18</sup>).</p>
 =#
 
-submit_answer(nothing; prob_num=505)
+submit_answer(nothing; prob_num=486)
 
 #=
 <h2>Problem 487: Sums of power sums</h2>
@@ -242,7 +242,7 @@ submit_answer(nothing; prob_num=505)
 <p>What is <span style="font-size:larger;"><span style="font-size:larger;">∑</span></span> (S<sub>10000</sub>(10<sup>12</sup>) mod p) over all primes <var>p</var> between 2 ⋅ 10<sup>9</sup> and 2 ⋅ 10<sup>9</sup> + 2000?</p>
 =#
 
-submit_answer(nothing; prob_num=506)
+submit_answer(nothing; prob_num=487)
 
 #=
 <h2>Problem 488: Unbalanced Nim</h2>
@@ -270,7 +270,7 @@ We can also verify that F(128) = 496062.</p>
 <p>Find the last 9 digits of F(10<sup>18</sup>).</p>
 =#
 
-submit_answer(nothing; prob_num=507)
+submit_answer(nothing; prob_num=488)
 
 #=
 <h2>Problem 489: Common factors between two sequences</h2>
@@ -281,7 +281,7 @@ You are given <var>H</var>(5, 5) = 128878 and <var>H</var>(10, 10) = 32936544.
 </p><p>Find <var>H</var>(18, 1900).</p>
 =#
 
-submit_answer(nothing; prob_num=508)
+submit_answer(nothing; prob_num=489)
 
 #=
 <h2>Problem 490: Jumping frog</h2>
@@ -317,7 +317,7 @@ S(1 000 000) mod 10<sup>9</sup> = 363486179</p>
 <p>Find S(10<sup>14</sup>) mod 10<sup>9</sup>.</p>
 =#
 
-submit_answer(nothing; prob_num=509)
+submit_answer(nothing; prob_num=490)
 
 #=
 <h2>Problem 491: Double pandigital number divisible by 11</h2>
@@ -326,7 +326,7 @@ submit_answer(nothing; prob_num=509)
 <p>How many double pandigital numbers are divisible by 11?</p>
 =#
 
-submit_answer(nothing; prob_num=510)
+submit_answer(nothing; prob_num=491)
 
 #=
 <h2>Problem 492: Exploding sequence</h2>
@@ -354,7 +354,7 @@ B(10<sup>9</sup>, 10<sup>3</sup>, 10<sup>15</sup>) = 20731563854
 <p>Find B(10<sup>9</sup>, 10<sup>7</sup>, 10<sup>15</sup>).</p>
 =#
 
-submit_answer(nothing; prob_num=511)
+submit_answer(nothing; prob_num=492)
 
 #=
 <h2>Problem 493: Under The Rainbow</h2>
@@ -363,7 +363,7 @@ submit_answer(nothing; prob_num=511)
 <p>Give your answer with nine digits after the decimal point (a.bcdefghij).</p>
 =#
 
-submit_answer(nothing; prob_num=512)
+submit_answer(nothing; prob_num=493)
 
 #=
 <h2>Problem 494: Collatz prefix families</h2>
@@ -389,7 +389,7 @@ Find f(90).
 </p>
 =#
 
-submit_answer(nothing; prob_num=513)
+submit_answer(nothing; prob_num=494)
 
 #=
 <h2>Problem 495: Writing n as the product of k distinct positive integers</h2>
@@ -407,7 +407,7 @@ submit_answer(nothing; prob_num=513)
 <p>Find <var>W</var>(10000!,30) modulo 1 000 000 007.</p>
 =#
 
-submit_answer(nothing; prob_num=514)
+submit_answer(nothing; prob_num=495)
 
 #=
 <h2>Problem 496: Incenter and circumcenter of triangle</h2>
@@ -422,7 +422,7 @@ Let D be the intersection between the line AI and the circumcircle of ABC (A ≠
 <p>Find F(10<sup>9</sup>).</p>
 =#
 
-submit_answer(nothing; prob_num=515)
+submit_answer(nothing; prob_num=496)
 
 #=
 <h2>Problem 497: Drunken Tower of Hanoi</h2>
@@ -448,7 +448,7 @@ submit_answer(nothing; prob_num=515)
 <p>Find the last nine digits of ∑<sub>1≤<var>n</var>≤10000</sub> E(<var>n</var>,10<sup><var>n</var></sup>,3<sup><var>n</var></sup>,6<sup><var>n</var></sup>,9<sup><var>n</var></sup>).</p>
 =#
 
-submit_answer(nothing; prob_num=516)
+submit_answer(nothing; prob_num=497)
 
 #=
 <h2>Problem 498: Remainder of polynomial division</h2>
@@ -462,7 +462,7 @@ We can verify that C(6, 3, 1) = 24 and C(100, 10, 4) = 227197811615775.</p>
 <p>Find C(10<sup>13</sup>, 10<sup>12</sup>, 10<sup>4</sup>) mod 999999937.</p>
 =#
 
-submit_answer(nothing; prob_num=517)
+submit_answer(nothing; prob_num=498)
 
 #=
 <h2>Problem 499: St. Petersburg Lottery</h2>
@@ -476,7 +476,7 @@ For example <var>p</var><sub>2</sub>(2) ≈ 0.2522, <var>p</var><sub>2</sub>(5
 <p>Find <var>p</var><sub>15</sub>(10<sup>9</sup>) and give your answer rounded to 7 decimal places behind the decimal point in the form 0.abcdefg.</p>
 =#
 
-submit_answer(nothing; prob_num=518)
+submit_answer(nothing; prob_num=499)
 
 #=
 <h2>Problem 500: Problem 500!!!</h2>
@@ -489,15 +489,4 @@ Give your answer modulo 500500507.
 </p>
 =#
 
-submit_answer(nothing; prob_num=519)
-
-#=
-<h2>Problem 501: Eight Divisors</h2>
-<p>The eight divisors of 24 are 1, 2, 3, 4, 6, 8, 12 and 24.
-The ten numbers not exceeding 100 having exactly eight divisors are 24, 30, 40, 42, 54, 56, 66, 70, 78 and 88.
-Let <var>f</var>(<var>n</var>) be the count of numbers not exceeding <var>n</var> with exactly eight divisors.<br />
-You are given <var>f</var>(100) = 10, <var>f</var>(1000) = 180 and <var>f</var>(10<sup>6</sup>) = 224427.<br />
-Find <var>f</var>(10<sup>12</sup>).</p>
-=#
-
-submit_answer(nothing; prob_num=520)
+submit_answer(nothing; prob_num=500)

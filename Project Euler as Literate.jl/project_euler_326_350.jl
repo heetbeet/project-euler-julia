@@ -25,7 +25,7 @@ Find <var>f</var>(10<sup>12</sup>,10<sup>6</sup>).
 </p>
 =#
 
-submit_answer(nothing; prob_num=339)
+submit_answer(nothing; prob_num=326)
 
 #=
 <h2>Problem 327: Rooms of Doom</h2>
@@ -53,7 +53,7 @@ submit_answer(nothing; prob_num=339)
 <p>Find <span style="font-size:larger;"><span style="font-size:larger;">∑</span></span> M(<var>C</var>,30) for 3 ≤ <var>C</var> ≤ 40.</p>
 =#
 
-submit_answer(nothing; prob_num=340)
+submit_answer(nothing; prob_num=327)
 
 #=
 <h2>Problem 328: Lowest-cost Search</h2>
@@ -82,7 +82,7 @@ Similarly, C(100) = 400 and $\sum \limits_{n = 1}^{100} {C(n)} = 17575$.</p>
 <p>Find $\sum \limits_{n = 1}^{200000} {C(n)}$ .</p>
 =#
 
-submit_answer(nothing; prob_num=341)
+submit_answer(nothing; prob_num=328)
 
 #=
 <h2>Problem 329: Prime Frog</h2>
@@ -100,7 +100,7 @@ Given that the frog's starting position is random with the same probability for 
 Give your answer as a fraction p/q in reduced form.
 =#
 
-submit_answer(nothing; prob_num=342)
+submit_answer(nothing; prob_num=329)
 
 #=
 <h2>Problem 330: Euler's Number</h2>
@@ -125,7 +125,7 @@ $a(2) = \dfrac{2e - 3}{1!} + \dfrac{e - 1}{2!} + \dfrac{1}{3!} + \cdots = \dfrac
 <p>Find $A(10^9) + B(10^9)$ and give your answer mod 77 777 777.</p>
 =#
 
-submit_answer(nothing; prob_num=343)
+submit_answer(nothing; prob_num=330)
 
 #=
 <h2>Problem 331: Cross flips</h2>
@@ -149,7 +149,7 @@ We have shown that T(5)=3. You are also given that T(10)=29 and T(1 000)=395253.
 <p>Find $\sum \limits_{i = 3}^{31} {T(2^i - i)}$.</p>
 =#
 
-submit_answer(nothing; prob_num=344)
+submit_answer(nothing; prob_num=331)
 
 #=
 <h2>Problem 332: Spherical triangles</h2>
@@ -169,7 +169,7 @@ Let A(<var>r</var>) be the area of the smallest spherical triangle in T(<var>r</
 <p>Find $\sum \limits_{r = 1}^{50} {A(r)}$. Give your answer rounded to six decimal places.</p>
 =#
 
-submit_answer(nothing; prob_num=345)
+submit_answer(nothing; prob_num=332)
 
 #=
 <h2>Problem 333: Special partitions</h2>
@@ -191,7 +191,7 @@ submit_answer(nothing; prob_num=345)
 <p>Find the sum of the primes <var>q</var> &lt;1000000 such that P(<var>q</var>)=1.</p>
 =#
 
-submit_answer(nothing; prob_num=346)
+submit_answer(nothing; prob_num=333)
 
 #=
 <h2>Problem 334: Spilling the beans</h2>
@@ -226,7 +226,7 @@ If we start with $b_1$ and $b_2$ beans in two adjacent bowls, $3419100$ moves wo
 <p>Consider now $1500$ adjacent bowls containing $b_1, b_2, \ldots, b_{1500}$ beans respectively, all other bowls being empty. Find how many moves it takes before the game ends.</p>
 =#
 
-submit_answer(nothing; prob_num=347)
+submit_answer(nothing; prob_num=334)
 
 #=
 <h2>Problem 335: Gathering the beans</h2>
@@ -241,7 +241,7 @@ submit_answer(nothing; prob_num=347)
 <p>Find $\displaystyle \sum_{k=0}^{10^{18}} M(2^k + 1)$. Give your answer modulo 7<sup>9</sup>.</p>
 =#
 
-submit_answer(nothing; prob_num=348)
+submit_answer(nothing; prob_num=335)
 
 #=
 <h2>Problem 336: Maximix Arrangements</h2>
@@ -261,7 +261,7 @@ Some arrangements, such as ADCB, can be solved easily: the carriages are separat
 <p>Find the 2011<sup>th</sup> lexicographic maximix arrangement for eleven carriages.</p>
 =#
 
-submit_answer(nothing; prob_num=349)
+submit_answer(nothing; prob_num=336)
 
 #=
 <h2>Problem 337: Totient Stairstep Sequences</h2>
@@ -277,7 +277,7 @@ We can verify that S(100) = 482073668 and S(10 000) mod 10<sup>8</sup> = 7380830
 <p><sup>1</sup> φ denotes <b>Euler's totient function</b>.</p>
 =#
 
-submit_answer(nothing; prob_num=350)
+submit_answer(nothing; prob_num=337)
 
 #=
 <h2>Problem 338: Cutting Rectangular Grid Paper</h2>
@@ -301,7 +301,7 @@ We can verify that G(10) = 55, G(10<sup>3</sup>) = 971745 and G(10<sup>5</sup>) 
 <p>Find G(10<sup>12</sup>). Give your answer modulo 10<sup>8</sup>.</p>
 =#
 
-submit_answer(nothing; prob_num=351)
+submit_answer(nothing; prob_num=338)
 
 #=
 <h2>Problem 339: Peredur fab Efrawg</h2>
@@ -319,7 +319,7 @@ Find E(10 000) and give your answer rounded to 6 places behind the decimal point
 </p>
 =#
 
-submit_answer(nothing; prob_num=352)
+submit_answer(nothing; prob_num=339)
 
 #=
 <h2>Problem 340: Crazy Function</h2>
@@ -338,7 +338,7 @@ Find the last 9 digits of S(21<sup>7</sup>, 7<sup>21</sup>, 12<sup>7</sup>).
 </p>
 =#
 
-submit_answer(nothing; prob_num=353)
+submit_answer(nothing; prob_num=340)
 
 #=
 <h2>Problem 341: Golomb's self-describing sequence</h2>
@@ -359,7 +359,7 @@ You are also given that $\sum G(n^3) = 153506976$ for $1 \le n \lt 10^3$.</p>
 <p>Find $\sum G(n^3)$ for $1 \le n \lt 10^6$.</p>
 =#
 
-submit_answer(nothing; prob_num=354)
+submit_answer(nothing; prob_num=341)
 
 #=
 <h2>Problem 342: The totient of a square is a cube</h2>
@@ -376,7 +376,7 @@ Find the sum of all numbers n, 1 &lt; n &lt; 10<sup>10</sup> such that φ(n<sup>
 </p>
 =#
 
-submit_answer(nothing; prob_num=355)
+submit_answer(nothing; prob_num=342)
 
 #=
 <h2>Problem 343: Fractional Sequences</h2>
@@ -405,7 +405,7 @@ Find <span style="font-size:larger;"><span style="font-size:larger;">∑</span><
 </p>
 =#
 
-submit_answer(nothing; prob_num=356)
+submit_answer(nothing; prob_num=343)
 
 #=
 <h2>Problem 344: Silver dollar game</h2>
@@ -433,7 +433,7 @@ submit_answer(nothing; prob_num=356)
 </p>
 =#
 
-submit_answer(nothing; prob_num=357)
+submit_answer(nothing; prob_num=344)
 
 #=
 <h2>Problem 345: Matrix Sum</h2>
@@ -467,7 +467,7 @@ Find the Matrix Sum of:<br /></p>
 813 883 451 509 615  77 281 613 459 205 380 274 302  35 805<br /></p>
 =#
 
-submit_answer(nothing; prob_num=358)
+submit_answer(nothing; prob_num=345)
 
 #=
 <h2>Problem 346: Strong Repunits</h2>
@@ -480,7 +480,7 @@ We shall call a positive integer with this property a strong repunit. It can be 
 Find the sum of all strong repunits below 10<sup>12</sup>.
 =#
 
-submit_answer(nothing; prob_num=359)
+submit_answer(nothing; prob_num=346)
 
 #=
 <h2>Problem 347: Largest integer divisible by two primes</h2>
@@ -503,7 +503,7 @@ Find S(10 000 000).
 </p>
 =#
 
-submit_answer(nothing; prob_num=360)
+submit_answer(nothing; prob_num=347)
 
 #=
 <h2>Problem 348: Sum of a square and a cube</h2>
@@ -519,7 +519,7 @@ For example, 5229225 is a palindromic number and it can be expressed in exactly 
 <p>Find the sum of the five smallest such palindromic numbers.</p>
 =#
 
-submit_answer(nothing; prob_num=361)
+submit_answer(nothing; prob_num=348)
 
 #=
 <h2>Problem 349: Langton's ant</h2>
@@ -533,7 +533,7 @@ Starting with a grid that is entirely white, how many squares are black after 10
 </p>
 =#
 
-submit_answer(nothing; prob_num=362)
+submit_answer(nothing; prob_num=349)
 
 #=
 <h2>Problem 350: Constraining the least greatest and the greatest least</h2>
@@ -554,31 +554,4 @@ Find f(10<sup>6</sup>, 10<sup>12</sup>, 10<sup>18</sup>) mod 101<sup>4</sup>.
 </p>
 =#
 
-submit_answer(nothing; prob_num=363)
-
-#=
-<h2>Problem 351: Hexagonal orchards</h2>
-<p>A <i>hexagonal orchard</i> of order <var>n</var> is a triangular lattice made up of points within a regular hexagon with side <var>n</var>. The following is an example of a hexagonal orchard of order 5:
-</p>
-
-<div align="center">
-<img src="project/images/p351_hexorchard.png" class="dark_img" alt="p351_hexorchard.png" /><br /></div>
-
-<p>
-Highlighted in green are the points which are hidden from the center by a point closer to it. It can be seen that for a hexagonal orchard of order 5, 30 points are hidden from the center.
-</p>
-
-<p>
-Let H(<var>n</var>) be the number of points hidden from the center in a hexagonal orchard of order <var>n</var>.
-</p>
-
-<p>
-H(5) = 30. H(10) = 138. H(1 000) = 1177848.
-</p>
-
-<p>
-Find H(100 000 000).
-</p>
-=#
-
-submit_answer(nothing; prob_num=364)
+submit_answer(nothing; prob_num=350)

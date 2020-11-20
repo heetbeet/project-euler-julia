@@ -28,7 +28,7 @@ $A=\begin{pmatrix}
 <p>Find $c(20)$, and give your answer modulo $1\,001\,001\,011$.</p>
 =#
 
-submit_answer(nothing; prob_num=651)
+submit_answer(nothing; prob_num=626)
 
 #=
 <h2>Problem 627: Counting products</h2>
@@ -41,7 +41,7 @@ For example, $F(9, 2) = 36$ and $F(30,2)=308$.</p>
 <p>Find $F(30, 10001)\text{ mod }1\,000\,000\,007$.</p>
 =#
 
-submit_answer(nothing; prob_num=652)
+submit_answer(nothing; prob_num=627)
 
 #=
 <h2>Problem 628: Open chess positions</h2>
@@ -66,7 +66,7 @@ You are also given $f(5)=70$.</p>
 <p>Find $f(10^8)$ modulo $1\,008\,691\,207$.</p>
 =#
 
-submit_answer(nothing; prob_num=653)
+submit_answer(nothing; prob_num=628)
 
 #=
 <h2>Problem 629: Scatterstone Nim</h2>
@@ -85,7 +85,7 @@ submit_answer(nothing; prob_num=653)
 <p>Find $g(200)$ mod $(10^9 + 7)$.</p>
 =#
 
-submit_answer(nothing; prob_num=654)
+submit_answer(nothing; prob_num=629)
 
 #=
 <h2>Problem 630: Crossed lines</h2>
@@ -114,7 +114,7 @@ Find $S(L_{2500})$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=655)
+submit_answer(nothing; prob_num=630)
 
 #=
 <h2>Problem 631: Constrained Permutations</h2>
@@ -133,7 +133,7 @@ submit_answer(nothing; prob_num=655)
 <p>Find $f(10^{18}, 40)$ modulo $1\,000\,000\,007$.</p>
 =#
 
-submit_answer(nothing; prob_num=656)
+submit_answer(nothing; prob_num=631)
 
 #=
 <h2>Problem 632: Square prime factors</h2>
@@ -169,7 +169,7 @@ N=10^8 &amp; 60792694 &amp; 33539196 &amp; 5329747 &amp; 329028 &amp; 9257 &amp;
 <p>Find the product of all non-zero $C_k(10^{16})$. Give the result reduced modulo $1\,000\,000\,007$.</p>
 =#
 
-submit_answer(nothing; prob_num=657)
+submit_answer(nothing; prob_num=632)
 
 #=
 <h2>Problem 633: Square prime factors II</h2>
@@ -205,7 +205,7 @@ c_k^{\infty} &amp; \frac{6}{\pi^2} &amp; 3.3539\times 10^{-1} &amp; 5.3293\times
 Find $c_{7}^{\infty}$. Give the result in scientific notation rounded to 5 significant digits, using a $e$ to separate mantissa and exponent. E.g. if the answer were $0.000123456789$, then the answer format would be $1.2346e\text{-}4$.
 =#
 
-submit_answer(nothing; prob_num=658)
+submit_answer(nothing; prob_num=633)
 
 #=
 <h2>Problem 634: Numbers of the form $a^2b^3$</h2>
@@ -222,7 +222,7 @@ Find $F(9\times 10^{18})$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=659)
+submit_answer(nothing; prob_num=634)
 
 #=
 <h2>Problem 635: Subset sums</h2>
@@ -242,7 +242,7 @@ Find $S_2(10^8)+S_3(10^8)$. Give your answer modulo $1\,000\,000\,009$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=660)
+submit_answer(nothing; prob_num=635)
 
 #=
 <h2>Problem 636: Restricted Factorisations</h2>
@@ -263,7 +263,7 @@ and $F(1\,000!) \bmod 1\,000\,000\,007=6\,364\,496$.</p>
 <p>Find $F(1\,000\,000!) \bmod 1\,000\,000\,007$.</p>
 =#
 
-submit_answer(nothing; prob_num=661)
+submit_answer(nothing; prob_num=636)
 
 #=
 <h2>Problem 637: Flexible digit sum</h2>
@@ -287,7 +287,7 @@ Find $g(10^7,10,3)$
 </p>
 =#
 
-submit_answer(nothing; prob_num=662)
+submit_answer(nothing; prob_num=637)
 
 #=
 <h2>Problem 638: Weighted lattice paths</h2>
@@ -319,7 +319,7 @@ You are given that
 Calculate $\displaystyle\sum_{k=1}^7 C(10^k+k, 10^k+k,k)$ . Give your answer modulo $1\,000\,000\,007$
 =#
 
-submit_answer(nothing; prob_num=663)
+submit_answer(nothing; prob_num=638)
 
 #=
 <h2>Problem 639: Summing a multiplicative function</h2>
@@ -334,7 +334,7 @@ For example, $S_1(10)=41$, $S_1(100)=3512$, $S_2(100)=208090$, $S_1(10000)=35252
 <p>Find $\displaystyle \sum_{k=1}^{50} S_k(10^{12}) \bmod 1\,000\,000\,007$.</p>
 =#
 
-submit_answer(nothing; prob_num=664)
+submit_answer(nothing; prob_num=639)
 
 #=
 <h2>Problem 640: Shut the Box</h2>
@@ -349,7 +349,7 @@ submit_answer(nothing; prob_num=664)
 <p>Assuming that Bob plays with an optimal strategy, what is the expected number of turns taken until he wins? Give your answer rounded to 6 places after the decimal point.</p>
 =#
 
-submit_answer(nothing; prob_num=665)
+submit_answer(nothing; prob_num=640)
 
 #=
 <h2>Problem 641: A Long Row of Dice</h2>
@@ -362,7 +362,7 @@ submit_answer(nothing; prob_num=665)
 <p>Find $f(10^{36})$.</p>
 =#
 
-submit_answer(nothing; prob_num=666)
+submit_answer(nothing; prob_num=641)
 
 #=
 <h2>Problem 642: Sum of largest prime factors</h2>
@@ -372,7 +372,7 @@ For example $F(10)=32$, $F(100)=1915$ and $F(10000)=10118280$.</p>
 Find $F(201820182018)$. Give your answer modulus $10^9$.</p>
 =#
 
-submit_answer(nothing; prob_num=667)
+submit_answer(nothing; prob_num=642)
 
 #=
 <h2>Problem 643: 2-Friendly</h2>
@@ -383,7 +383,7 @@ submit_answer(nothing; prob_num=667)
 <p>Find $f(10^{11})$ modulo $1\,000\,000\,007$.</p>
 =#
 
-submit_answer(nothing; prob_num=668)
+submit_answer(nothing; prob_num=643)
 
 #=
 <h2>Problem 644: Squares on the line</h2>
@@ -409,7 +409,7 @@ You are given $f(2,10)=2.61969775$, being reached for $L= 7.82842712$, and $f(10
 Find $f(200,500)$, rounded to 8 digits after the decimal point.</p>
 =#
 
-submit_answer(nothing; prob_num=669)
+submit_answer(nothing; prob_num=644)
 
 #=
 <h2>Problem 645: Every Day is a Holiday</h2>
@@ -423,7 +423,7 @@ submit_answer(nothing; prob_num=669)
 <p>Find $E(10000)$. Give your answer rounded to 4 digits after the decimal point.</p>
 =#
 
-submit_answer(nothing; prob_num=670)
+submit_answer(nothing; prob_num=645)
 
 #=
 <h2>Problem 646: Bounded Divisors</h2>
@@ -444,7 +444,7 @@ Find $S(70!,10^{20}, 10^{60})$ and give your answer modulo $1\,000\,000\,007$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=671)
+submit_answer(nothing; prob_num=646)
 
 #=
 <h2>Problem 647: Linear Transformations of Polygonal Numbers</h2>
@@ -465,7 +465,7 @@ Find $\sum_{k} F_k(10^{12})$ where the sum is over all odd $k = 3,5,7,\ldots$
 </p>
 =#
 
-submit_answer(nothing; prob_num=672)
+submit_answer(nothing; prob_num=647)
 
 #=
 <h2>Problem 648: Skipping Squares</h2>
@@ -482,7 +482,7 @@ submit_answer(nothing; prob_num=672)
 <p>Find $F(1000)$, and give your answer modulo $10^9$.</p>
 =#
 
-submit_answer(nothing; prob_num=673)
+submit_answer(nothing; prob_num=648)
 
 #=
 <h2>Problem 649: Low-Prime Chessboard Nim</h2>
@@ -501,7 +501,7 @@ Alice and Bob are taking turns playing a game consisting of $c$ different coins 
 <p>What are the last $9$ digits of $M(10\,000\,019, 100)$?</p>
 =#
 
-submit_answer(nothing; prob_num=674)
+submit_answer(nothing; prob_num=649)
 
 #=
 <h2>Problem 650: Divisors of Binomial Product</h2>
@@ -523,21 +523,4 @@ Find $S(20\,000)$ mod $1\,000\,000\,007$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=675)
-
-#=
-<h2>Problem 651: Patterned Cylinders</h2>
-<p>An infinitely long cylinder has its curved surface fully covered with different coloured but otherwise identical rectangular stickers, without overlapping. The stickers are aligned with the cylinder, so two of their edges are parallel with the cylinder's axis, with four stickers meeting at each corner.</p>
-
-<p>Let $a&gt;0$ and suppose that the colouring is periodic along the cylinder, with the pattern repeating every $a$ stickers. (The period is allowed to be any divisor of $a$.) Let $b$ be the number of stickers that fit round the circumference of the cylinder.</p>
-
-<p>Let $f(m, a, b)$ be the number of different such periodic patterns that use <i>exactly</i> $m$ distinct colours of stickers. Translations along the axis, reflections in any plane, rotations in any axis, (or combinations of such operations) applied to a pattern are to be counted as the same as the original pattern.</p>
-
-<p>You are given that $f(2, 2, 3) = 11$, $f(3, 2, 3) = 56$, and $f(2, 3, 4) = 156$.
-Furthermore, $f(8, 13, 21) \equiv 49718354 \pmod{1\,000\,000\,007}$,
-and $f(13, 144, 233) \equiv 907081451 \pmod{1\,000\,000\,007}$.</p>
-
-<p>Find $\sum_{i=4}^{40} f(i, F_{i-1}, F_i) \bmod 1\,000\,000\,007$, where $F_i$ are the Fibonacci numbers starting at $F_0=0$, $F_1=1$.</p>
-=#
-
-submit_answer(nothing; prob_num=676)
+submit_answer(nothing; prob_num=650)

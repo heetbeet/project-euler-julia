@@ -20,7 +20,7 @@ Find $E(7, 7)$, rounded to 8 decimal places.
 </p>
 =#
 
-submit_answer(nothing; prob_num=729)
+submit_answer(nothing; prob_num=701)
 
 #=
 <h2>Problem 702: Jumping Flea</h2>
@@ -43,7 +43,7 @@ submit_answer(nothing; prob_num=729)
 <p>Find $S(123456789)$.</p>
 =#
 
-submit_answer(nothing; prob_num=730)
+submit_answer(nothing; prob_num=702)
 
 #=
 <h2>Problem 703: Circular Logic II</h2>
@@ -59,7 +59,7 @@ You are given that $S(3) = 35$ and $S(4) = 2118$.</p>
 <p>Find $S(20)$. Give your answer modulo $1\,001\,001\,011$.</p>
 =#
 
-submit_answer(nothing; prob_num=731)
+submit_answer(nothing; prob_num=703)
 
 #=
 <h2>Problem 704: Factors of Two in Binomial Coefficients</h2>
@@ -76,7 +76,7 @@ Find $S(10^{16})$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=732)
+submit_answer(nothing; prob_num=704)
 
 #=
 <h2>Problem 705: Total Inversion Count of Divided Sequences</h2>
@@ -102,7 +102,7 @@ Find $F(10^8)$. Give your answer modulo $1\,000\,000\,007$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=733)
+submit_answer(nothing; prob_num=705)
 
 #=
 <h2>Problem 706: 3-Like Numbers</h2>
@@ -120,7 +120,7 @@ Find $F(10^5)$. Give your answer modulo $1\,000\,000\,007$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=734)
+submit_answer(nothing; prob_num=706)
 
 #=
 <h2>Problem 707: Lights Out</h2>
@@ -146,7 +146,7 @@ Find $S(199,199)$. Give your answer modulo $1\,000\,000\,007$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=735)
+submit_answer(nothing; prob_num=707)
 
 #=
 <h2>Problem 708: Twos are all you need</h2>
@@ -159,7 +159,7 @@ submit_answer(nothing; prob_num=735)
 <p>Find $S(10^{14})$.</p>
 =#
 
-submit_answer(nothing; prob_num=736)
+submit_answer(nothing; prob_num=708)
 
 #=
 <h2>Problem 709: Even Stevens</h2>
@@ -180,7 +180,7 @@ submit_answer(nothing; prob_num=736)
 <p>Find $f(24\,680)$ giving your answer modulo $1\,020\,202\,009$.</p>
 =#
 
-submit_answer(nothing; prob_num=737)
+submit_answer(nothing; prob_num=709)
 
 #=
 <h2>Problem 710: One Million Members</h2>
@@ -201,7 +201,7 @@ $$(1, 1, 2, 1, 1), (1, 2, 2, 1), (2, 1, 1, 2), (2, 2, 2)$$
 <p>However, your challenge to the "ultimatest" question of life, the universe, and everything is to find the least value of $n \gt 42$ such that $t(n)$ is divisible by one million.</p>
 =#
 
-submit_answer(nothing; prob_num=738)
+submit_answer(nothing; prob_num=710)
 
 #=
 <h2>Problem 711: Binary Blackboard</h2>
@@ -217,7 +217,7 @@ You are also given that $S(12) = 54532$ and $S(1234) \equiv 690421393 \pmod{1\,0
 <p>Find $S(12\,345\,678)$. Give your answer modulo $1\,000\,000\,007$.</p>
 =#
 
-submit_answer(nothing; prob_num=739)
+submit_answer(nothing; prob_num=711)
 
 #=
 <h2>Problem 712: Exponent Difference</h2>
@@ -235,7 +235,7 @@ Find $S(10^{12})$. Give your answer modulo $1\,000\,000\,007$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=740)
+submit_answer(nothing; prob_num=712)
 
 #=
 <h2>Problem 713: Turán's water heating system</h2>
@@ -257,7 +257,7 @@ Find $L(10^7)$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=741)
+submit_answer(nothing; prob_num=713)
 
 #=
 <h2>Problem 714: Duodigits</h2>
@@ -270,7 +270,7 @@ Let $\displaystyle D(k)=\sum_{n=1}^k d(n)$. You are given $D(110)=11\,047$, $D(1
 Find $D(50\,000)$. Give your answer in scientific notation rounded to 13 significant digits (12 after the decimal point). If, for example, we had asked for $D(500)$ instead, the answer format would have been 2.957098800000e7.</p>
 =#
 
-submit_answer(nothing; prob_num=742)
+submit_answer(nothing; prob_num=714)
 
 #=
 <h2>Problem 715: Sextuplet Norms</h2>
@@ -288,7 +288,7 @@ where $\varphi(n)$ is Euler's totient function.</p>
 <p>Find $G(10^{12})\bmod 1\,000\,000\,007$.</p>
 =#
 
-submit_answer(nothing; prob_num=743)
+submit_answer(nothing; prob_num=715)
 
 #=
 <h2>Problem 716: Grid Graphs</h2>
@@ -323,7 +323,7 @@ Find $C(10\,000,20\,000)$ giving your answer modulo $1\,000\,000\,007$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=744)
+submit_answer(nothing; prob_num=716)
 
 #=
 <h2>Problem 717: Summation of a Modular Formula</h2>
@@ -338,7 +338,7 @@ You are given $G(100) = 474$ and $G(10^4) = 2819236$.</p>
 <p>Find $G(10^7)$</p>
 =#
 
-submit_answer(nothing; prob_num=745)
+submit_answer(nothing; prob_num=717)
 
 #=
 <h2>Problem 718: Unreachable Numbers</h2>
@@ -353,7 +353,7 @@ $a,b,c,p&gt;0$.</p>
 <p>Find $G(6)$. Give your answer modulo $1\,000\,000\,007$.</p>
 =#
 
-submit_answer(nothing; prob_num=746)
+submit_answer(nothing; prob_num=718)
 
 #=
 <h2>Problem 719: Number Splitting</h2>
@@ -374,7 +374,7 @@ Find $T(10^{12})$
 </p>
 =#
 
-submit_answer(nothing; prob_num=747)
+submit_answer(nothing; prob_num=719)
 
 #=
 <h2>Problem 720: Unpredictable Permutations</h2>
@@ -407,7 +407,7 @@ Find $S(2^{25})$. Give your answer modulo $1\,000\,000\,007$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=748)
+submit_answer(nothing; prob_num=720)
 
 #=
 <h2>Problem 721: High powers of irrational numbers</h2>
@@ -423,7 +423,7 @@ Find $G(5\,000\,000).$ Give your answer modulo $999\,999\,937$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=749)
+submit_answer(nothing; prob_num=721)
 
 #=
 <h2>Problem 722: Slowly converging series</h2>
@@ -445,7 +445,7 @@ All the above values are given in scientific notation rounded to twelve digits a
 Give the answer in scientific notation rounded to twelve digits after the decimal point.</p>
 =#
 
-submit_answer(nothing; prob_num=750)
+submit_answer(nothing; prob_num=722)
 
 #=
 <h2>Problem 723: Pythagorean Quadrilaterals</h2>
@@ -470,7 +470,7 @@ Let $\displaystyle S(n)=\sum_{d \vert n} f(\sqrt d)$. For example, $S(325)=S(5^2
 Find $S(1411033124176203125)=S(5^6 \cdot 13^3 \cdot 17^2 \cdot 29 \cdot 37 \cdot 41 \cdot 53 \cdot 61)$.</p>
 =#
 
-submit_answer(nothing; prob_num=751)
+submit_answer(nothing; prob_num=723)
 
 #=
 <h2>Problem 724: Drone Delivery</h2>
@@ -489,4 +489,4 @@ For example, $E(2) = \frac{7}{2}$, $E(5) = \frac{12019}{720}$, and $E(100) \appr
 <p>Find $E(10^8)$. Give your answer rounded to the nearest integer.</p>
 =#
 
-submit_answer(nothing; prob_num=752)
+submit_answer(nothing; prob_num=724)

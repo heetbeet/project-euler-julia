@@ -19,7 +19,7 @@ include((@__DIR__)*"/shared.jl");
 <p>Give your answer rounded to six decimal places using the format x.xxxxxx .</p>
 =#
 
-submit_answer(nothing; prob_num=157)
+submit_answer(nothing; prob_num=151)
 
 #=
 <h2>Problem 152: Writing 1/2 as a sum of inverse squares</h2>
@@ -32,7 +32,7 @@ submit_answer(nothing; prob_num=157)
 <p>How many ways are there to write the number 1/2 as a sum of inverse squares using distinct integers between 2 and 80 inclusive?</p>
 =#
 
-submit_answer(nothing; prob_num=158)
+submit_answer(nothing; prob_num=152)
 
 #=
 <h2>Problem 153: Investigating Gaussian Integers</h2>
@@ -82,7 +82,7 @@ divisors</td></tr><tr><td>1</td><td>1</td><td>1</td>
 <p>What is $\sum \limits_{n = 1}^{10^8} {s(n)}$?</p>
 =#
 
-submit_answer(nothing; prob_num=159)
+submit_answer(nothing; prob_num=153)
 
 #=
 <h2>Problem 154: Exploring Pascal's pyramid</h2>
@@ -96,7 +96,7 @@ submit_answer(nothing; prob_num=159)
 <p>How many coefficients in the expansion of (<var>x + y + z</var>)<sup>200000</sup> are multiples of 10<sup>12</sup>?</p>
 =#
 
-submit_answer(nothing; prob_num=160)
+submit_answer(nothing; prob_num=154)
 
 #=
 <h2>Problem 155: Counting Capacitor Circuits</h2>
@@ -112,7 +112,7 @@ The capacitors can be connected in series or in parallel to form sub-units, whic
 whereas when connecting them in series, the overall capacitance is given by: $\dfrac{1}{C_T} = \dfrac{1}{C_1} + \dfrac{1}{C_2} + ...$</p>
 =#
 
-submit_answer(nothing; prob_num=161)
+submit_answer(nothing; prob_num=155)
 
 #=
 <h2>Problem 156: Counting Digits</h2>
@@ -151,7 +151,7 @@ You are given that <var>s</var>(1)=22786974071.</p>
  for more than one value of <var>d</var> this value of <var>n</var> is counted again for every value of <var>d</var> for which <var>f</var>(<var>n,d</var>)=<var>n</var>.</p>
 =#
 
-submit_answer(nothing; prob_num=162)
+submit_answer(nothing; prob_num=156)
 
 #=
 <h2>Problem 157: Solving the diophantine equation <sup>1</sup>/<sub><var>a</var></sub>+<sup>1</sup>/<sub><var>b</var></sub>= <sup><var>p</var></sup>/<sub>10<sup><var>n</var></sup></sub> </h2>
@@ -180,7 +180,7 @@ For <var>n</var>=1 this equation has 20 solutions that are listed below:</p>
 </tr></table><p>How many solutions has this equation for 1 ≤ <var>n</var> ≤ 9?</p>
 =#
 
-submit_answer(nothing; prob_num=163)
+submit_answer(nothing; prob_num=157)
 
 #=
 <h2>Problem 158: Exploring strings for which only one character comes lexicographically after its neighbour to the left</h2>
@@ -194,7 +194,7 @@ For every <var>n</var>, p(<var>n</var>) is the number of strings of length <var>
 <p>What is the maximum value of p(<var>n</var>)?</p>
 =#
 
-submit_answer(nothing; prob_num=164)
+submit_answer(nothing; prob_num=158)
 
 #=
 <h2>Problem 159: Digital root sums of factorisations</h2>
@@ -226,7 +226,7 @@ The function mdrs(<var>n</var>) gives the maximum Digital Root Sum of <var>n</va
 Find <span style="font-size:larger;"><span style="font-size:larger;">∑</span></span> mdrs(<var>n</var>) for 1 &lt; <var>n</var> &lt; 1,000,000.</p>
 =#
 
-submit_answer(nothing; prob_num=165)
+submit_answer(nothing; prob_num=159)
 
 #=
 <h2>Problem 160: Factorial trailing digits</h2>
@@ -238,7 +238,7 @@ For example,</p>
 <p>Find f(1,000,000,000,000)</p>
 =#
 
-submit_answer(nothing; prob_num=166)
+submit_answer(nothing; prob_num=160)
 
 #=
 <h2>Problem 161: Triominoes</h2>
@@ -259,7 +259,7 @@ If we consider tilings that can be obtained by reflection or rotation from anoth
 <p>In how many ways can a 9 by 12 grid be tiled in this way by triominoes?</p>
 =#
 
-submit_answer(nothing; prob_num=167)
+submit_answer(nothing; prob_num=161)
 
 #=
 <h2>Problem 162: Hexadecimal numbers</h2>
@@ -273,7 +273,7 @@ Give your answer as a hexadecimal number.</p>
 <p>(A,B,C,D,E and F in upper case, without any leading or trailing code that marks the number as hexadecimal and without leading zeroes , e.g. 1A3F and not: 1a3f and not 0x1a3f and not $1A3F and not #1A3F and not 0000001A3F)</p>
 =#
 
-submit_answer(nothing; prob_num=168)
+submit_answer(nothing; prob_num=162)
 
 #=
 <h2>Problem 163: Cross-hatched triangles</h2>
@@ -287,14 +287,14 @@ T(2) = 104</p>
 <p>Find T(36).</p>
 =#
 
-submit_answer(nothing; prob_num=169)
+submit_answer(nothing; prob_num=163)
 
 #=
 <h2>Problem 164: Numbers for which no three consecutive digits have a sum greater than a given value</h2>
 <p>How many 20 digit numbers <var>n</var> (without any leading zero) exist such that no three consecutive digits of <var>n</var> have a sum greater than 9?</p>
 =#
 
-submit_answer(nothing; prob_num=170)
+submit_answer(nothing; prob_num=164)
 
 #=
 <h2>Problem 165: Intersections</h2>
@@ -318,7 +318,7 @@ t<sub>n</sub> = s<sub>n</sub> (modulo 500)</p>
 <p>How many distinct true intersection points are found among the 5000 line segments?</p>
 =#
 
-submit_answer(nothing; prob_num=171)
+submit_answer(nothing; prob_num=165)
 
 #=
 <h2>Problem 166: Criss Cross</h2>
@@ -337,7 +337,7 @@ submit_answer(nothing; prob_num=171)
 <p>In how many ways can you fill a 4x4 grid with the digits d, 0 ≤ d ≤ 9 so that each row, each column, and both diagonals have the same sum?</p>
 =#
 
-submit_answer(nothing; prob_num=172)
+submit_answer(nothing; prob_num=166)
 
 #=
 <h2>Problem 167: Investigating Ulam sequences</h2>
@@ -349,7 +349,7 @@ U(a,b)<sub>k</sub> is the smallest integer greater than U(a,b)<sub>(k-1)</sub> w
 <p>Find <span style="font-size:larger;"><span style="font-size:larger;">∑</span></span> U(2,2<var>n</var>+1)<sub><var>k</var></sub> for 2 ≤ <var>n</var> ≤10, where <var>k</var> = 10<sup>11</sup>.</p>
 =#
 
-submit_answer(nothing; prob_num=173)
+submit_answer(nothing; prob_num=167)
 
 #=
 <h2>Problem 168: Number Rotations</h2>
@@ -359,7 +359,7 @@ This demonstrates an unusual property of 142857: it is a divisor of its right-ro
 <p>Find the last 5 digits of the sum of all integers <var>n</var>, 10 &lt; <var>n</var> &lt; 10<sup>100</sup>, that have this property.</p>
 =#
 
-submit_answer(nothing; prob_num=174)
+submit_answer(nothing; prob_num=168)
 
 #=
 <h2>Problem 169: Exploring the number of different ways a number can be expressed as a sum of powers of 2</h2>
@@ -372,7 +372,7 @@ submit_answer(nothing; prob_num=174)
 <p>What is f(10<sup>25</sup>)?</p>
 =#
 
-submit_answer(nothing; prob_num=175)
+submit_answer(nothing; prob_num=169)
 
 #=
 <h2>Problem 170: Find the largest 0 to 9 pandigital that can be formed by concatenating products</h2>
@@ -388,7 +388,7 @@ submit_answer(nothing; prob_num=175)
 <p>What is the largest 0 to 9 pandigital 10-digit concatenated product of an integer with two or more other integers, such that the concatenation of the input numbers is also a 0 to 9 pandigital 10-digit number?</p>
 =#
 
-submit_answer(nothing; prob_num=176)
+submit_answer(nothing; prob_num=170)
 
 #=
 <h2>Problem 171: Finding numbers for which the sum of the squares of the digits is a square</h2>
@@ -399,14 +399,14 @@ f(442) = 4<sup>2</sup> + 4<sup>2</sup> + 2<sup>2</sup> = 16 + 16 + 4 = 36</p>
 <p>Find the last nine digits of the sum of all <var>n</var>, 0 &lt; <var>n</var> &lt; 10<sup>20</sup>, such that f(<var>n</var>) is a perfect square.</p>
 =#
 
-submit_answer(nothing; prob_num=177)
+submit_answer(nothing; prob_num=171)
 
 #=
 <h2>Problem 172: Investigating numbers with few repeated digits</h2>
 <p>How many 18-digit numbers <var>n</var> (without leading zeros) are there such that no digit occurs more than three times in <var>n</var>?</p>
 =#
 
-submit_answer(nothing; prob_num=178)
+submit_answer(nothing; prob_num=172)
 
 #=
 <h2>Problem 173: Using up to one million tiles how many different "hollow" square laminae can be formed?</h2>
@@ -417,7 +417,7 @@ submit_answer(nothing; prob_num=178)
 <p>Using up to one million tiles how many different square laminae can be formed?</p>
 =#
 
-submit_answer(nothing; prob_num=179)
+submit_answer(nothing; prob_num=173)
 
 #=
 <h2>Problem 174: Counting the number of "hollow" square laminae that can form one, two, three, ... distinct arrangements</h2>
@@ -430,7 +430,7 @@ submit_answer(nothing; prob_num=179)
 <p>What is <span style="font-size:larger;"><span style="font-size:larger;">∑</span></span> N(<var>n</var>) for 1 ≤ <var>n</var> ≤ 10?</p>
 =#
 
-submit_answer(nothing; prob_num=180)
+submit_answer(nothing; prob_num=174)
 
 #=
 <h2>Problem 175: Fractions involving the number of different ways a number can be expressed as a sum of powers of 2</h2>
@@ -446,12 +446,4 @@ Find the Shortened Binary Expansion of the smallest <var>n</var> for which<br />
 Give your answer as comma separated integers, without any whitespaces.
 =#
 
-submit_answer(nothing; prob_num=181)
-
-#=
-<h2>Problem 176: Right-angled triangles that share a cathetus</h2>
-<p>The four right-angled triangles with sides (9,12,15), (12,16,20), (5,12,13) and (12,35,37) all have one of the shorter sides (catheti) equal to 12. It can be shown that no other integer sided right-angled triangle exists with one of the catheti equal to 12.</p>
-<p>Find the smallest integer that can be the length of a cathetus of exactly 47547 different integer sided right-angled triangles.</p>
-=#
-
-submit_answer(nothing; prob_num=182)
+submit_answer(nothing; prob_num=175)

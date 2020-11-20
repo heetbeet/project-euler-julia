@@ -8,7 +8,7 @@ How many primitive integer sided triangles exist with a perimeter not exceeding 
 </p>
 =#
 
-submit_answer(nothing; prob_num=287)
+submit_answer(nothing; prob_num=276)
 
 #=
 <h2>Problem 277: A Modified Collatz sequence</h2>
@@ -41,7 +41,7 @@ What is the smallest $a_1 &gt; 10^{15}$ that begins with the sequence "UDDDUdddD
 </p>
 =#
 
-submit_answer(nothing; prob_num=288)
+submit_answer(nothing; prob_num=277)
 
 #=
 <h2>Problem 278: Linear Combinations of Semiprimes</h2>
@@ -61,7 +61,7 @@ Find $\displaystyle \sum f( p\, q,p \, r, q \, r)$, where $p$, $q$ and $r$ are p
 </p>
 =#
 
-submit_answer(nothing; prob_num=289)
+submit_answer(nothing; prob_num=278)
 
 #=
 <h2>Problem 279: Triangles with integral sides and an integral angle </h2>
@@ -70,7 +70,7 @@ How many triangles are there with integral sides, at least one integral angle (m
 </p>
 =#
 
-submit_answer(nothing; prob_num=290)
+submit_answer(nothing; prob_num=279)
 
 #=
 <h2>Problem 280: Ant and seeds</h2>
@@ -82,7 +82,7 @@ submit_answer(nothing; prob_num=290)
 Give your answer rounded to 6 decimal places.</p>
 =#
 
-submit_answer(nothing; prob_num=291)
+submit_answer(nothing; prob_num=280)
 
 #=
 <h2>Problem 281: Pizza Toppings</h2>
@@ -97,7 +97,7 @@ submit_answer(nothing; prob_num=291)
 <p>Find the sum of all <var>f</var>(<var>m</var>,<var>n</var>) such that <var>f</var>(<var>m</var>,<var>n</var>) ≤ 10<sup>15</sup>.</p>
 =#
 
-submit_answer(nothing; prob_num=292)
+submit_answer(nothing; prob_num=281)
 
 #=
 <h2>Problem 282: The Ackermann function</h2>
@@ -119,7 +119,7 @@ For example $A(1,0) = 2$, $A(2,2) = 7$ and $A(3,4) = 125$.
 Find $\displaystyle\sum_{n=0}^6 A(n,n)$ and give your answer mod $14^8$.</p>
 =#
 
-submit_answer(nothing; prob_num=293)
+submit_answer(nothing; prob_num=282)
 
 #=
 <h2>Problem 283: Integer sided triangles for which the  area/perimeter ratio is integral</h2>
@@ -134,7 +134,7 @@ Find the sum of the perimeters of all integer sided triangles for which the area
 </p>
 =#
 
-submit_answer(nothing; prob_num=294)
+submit_answer(nothing; prob_num=283)
 
 #=
 <h2>Problem 284: Steady Squares</h2>
@@ -148,7 +148,7 @@ submit_answer(nothing; prob_num=294)
 1 ≤ n ≤ 10000 (decimal) and give your answer in the base 14 system using lower case letters where necessary.</p>
 =#
 
-submit_answer(nothing; prob_num=295)
+submit_answer(nothing; prob_num=284)
 
 #=
 <h2>Problem 285: Pythagorean odds</h2>
@@ -164,7 +164,7 @@ This is equal to <var>k</var>, so he scores 6 points.</p>
 <p>If he plays 10<sup>5</sup> turns with <var>k</var> = 1, <var>k</var> = 2, <var>k</var> = 3, ..., <var>k</var> = 10<sup>5</sup>, what is the expected value of his total score, rounded to five decimal places?</p>
 =#
 
-submit_answer(nothing; prob_num=296)
+submit_answer(nothing; prob_num=285)
 
 #=
 <h2>Problem 286: Scoring probabilities</h2>
@@ -175,7 +175,7 @@ submit_answer(nothing; prob_num=296)
 <p>Find <var>q</var> and give your answer rounded to 10 decimal places.</p>
 =#
 
-submit_answer(nothing; prob_num=297)
+submit_answer(nothing; prob_num=286)
 
 #=
 <h2>Problem 287: Quadtree encoding (a simple compression algorithm)</h2>
@@ -199,7 +199,7 @@ the next bits contains the description of the top left, top right, bottom left a
 <li>otherwise the pixel is white.</li></ul><p>What is the length of the minimal sequence describing <var>D</var><sub>24</sub> ?</p>
 =#
 
-submit_answer(nothing; prob_num=298)
+submit_answer(nothing; prob_num=287)
 
 #=
 <h2>Problem 288: An enormous factorial</h2>
@@ -222,7 +222,7 @@ You are given that NF(3,10000) mod 3<sup>20</sup>=624955285.
 Find NF(61,10<sup>7</sup>) mod 61<sup>10</sup></p>
 =#
 
-submit_answer(nothing; prob_num=299)
+submit_answer(nothing; prob_num=288)
 
 #=
 <h2>Problem 289: Eulerian Cycles</h2>
@@ -243,7 +243,7 @@ For example, L(1,2) = 2, L(2,2) = 37 and L(3,3) = 104290.</p>
 <p>Find L(6,10) mod 10<sup>10</sup>.</p>
 =#
 
-submit_answer(nothing; prob_num=300)
+submit_answer(nothing; prob_num=289)
 
 #=
 <h2>Problem 290: Digital Signature</h2>
@@ -252,7 +252,7 @@ How many integers 0 ≤ <var>n</var> &lt; 10<sup>18</sup> have the property that
 </p>
 =#
 
-submit_answer(nothing; prob_num=301)
+submit_answer(nothing; prob_num=290)
 
 #=
 <h2>Problem 291: Panaitopol Primes</h2>
@@ -263,7 +263,7 @@ Find how many Panaitopol primes are less than 5×10<sup>15</sup>.
 </p>
 =#
 
-submit_answer(nothing; prob_num=302)
+submit_answer(nothing; prob_num=291)
 
 #=
 <h2>Problem 292: Pythagorean Polygons</h2>
@@ -277,7 +277,7 @@ Pythagorean polygons should be considered distinct as long as none is a translat
 Find P(120).</p>
 =#
 
-submit_answer(nothing; prob_num=303)
+submit_answer(nothing; prob_num=292)
 
 #=
 <h2>Problem 293: Pseudo-Fortunate Numbers</h2>
@@ -298,7 +298,7 @@ Find the sum of all distinct pseudo-Fortunate numbers for admissible numbers N l
 </p>
 =#
 
-submit_answer(nothing; prob_num=304)
+submit_answer(nothing; prob_num=293)
 
 #=
 <h2>Problem 294: Sum of digits - experience #23</h2>
@@ -318,7 +318,7 @@ Find S(11<sup>12</sup>) and give your answer mod 10<sup>9</sup>.
 </p>
 =#
 
-submit_answer(nothing; prob_num=305)
+submit_answer(nothing; prob_num=294)
 
 #=
 <h2>Problem 295: Lenticular holes</h2>
@@ -348,7 +348,7 @@ Find L(100 000).
 </p>
 =#
 
-submit_answer(nothing; prob_num=306)
+submit_answer(nothing; prob_num=295)
 
 #=
 <h2>Problem 296: Angular Bisector and Tangent</h2>
@@ -362,7 +362,7 @@ How many triangles <var>ABC</var> with a perimeter not exceeding 100 000 exist s
 </p>
 =#
 
-submit_answer(nothing; prob_num=307)
+submit_answer(nothing; prob_num=296)
 
 #=
 <h2>Problem 297: Zeckendorf Representation</h2>
@@ -379,7 +379,7 @@ Also, for 0&lt;<var>n</var>&lt;10<sup>6</sup>, <span style="font-size:larger;"><
 <p>Find <span style="font-size:larger;"><span style="font-size:larger;">∑</span></span> <var>z</var>(<var>n</var>) for 0&lt;<var>n</var>&lt;10<sup>17</sup>.</p>
 =#
 
-submit_answer(nothing; prob_num=308)
+submit_answer(nothing; prob_num=297)
 
 #=
 <h2>Problem 298: Selective Amnesia</h2>
@@ -460,7 +460,7 @@ Robin's strategy is to remove the number that's been in the memory the longest t
 <p>Denoting Larry's score by <var>L</var> and Robin's score by <var>R</var>, what is the expected value of |<var>L</var>-<var>R</var>| after 50 turns? Give your answer rounded to eight decimal places using the format x.xxxxxxxx .</p>
 =#
 
-submit_answer(nothing; prob_num=309)
+submit_answer(nothing; prob_num=298)
 
 #=
 <h2>Problem 299: Three similar triangles</h2>
@@ -480,7 +480,7 @@ If <var>b</var>+<var>d</var> &lt; 100 000, there are 320471 distinct triplets 
 <p>If <var>b</var>+<var>d</var> &lt; 100 000 000, how many distinct triplets (<var>a</var>,<var>b</var>,<var>d</var>) are there such that point P exists?</p>
 =#
 
-submit_answer(nothing; prob_num=310)
+submit_answer(nothing; prob_num=299)
 
 #=
 <h2>Problem 300: Protein folding</h2>
@@ -504,36 +504,4 @@ On the other hand, the folding on the right has nine H-H contact points, which i
 Give your answer using as many decimal places as necessary for an exact result.</p>
 =#
 
-submit_answer(nothing; prob_num=311)
-
-#=
-<h2>Problem 301: Nim</h2>
-<p><dfn>Nim</dfn> is a game played with heaps of stones, where two players take it in turn to remove any number of stones from any heap until no stones remain.</p>
-
-<p>We'll consider the three-heap normal-play version of Nim, which works as follows:</p>
-<ul>
-<li>At the start of the game there are three heaps of stones.</li>
-<li>On each player's turn, the player may remove any positive number of stones from any single heap.</li>
-<li>The first player unable to move (because no stones remain) loses.</li>
-</ul>
-
-<p>If $(n_1,n_2,n_3)$ indicates a Nim position consisting of heaps of size $n_1$, $n_2$, and $n_3$, then there is a simple function, which you may look up or attempt to deduce for yourself, $X(n_1,n_2,n_3)$ that returns:</p>
-
-<ul>
-<li>zero if, with perfect strategy, the player about to move will eventually lose; or</li>
-<li>non-zero if, with perfect strategy, the player about to move will eventually win.</li>
-</ul>
-
-<p>For example $X(1,2,3) = 0$ because, no matter what the current player does, the opponent can respond with a move that leaves two heaps of equal size, at which point every move by the current player can be mirrored by the opponent until no stones remain; so the current player loses. To illustrate:</p>
-
-<ul>
-<li>current player moves to $(1,2,1)$</li>
-<li>opponent moves to $(1,0,1)$</li>
-<li>current player moves to $(0,0,1)$</li>
-<li>opponent moves to $(0,0,0)$, and so wins.</li>
-</ul>
-
-<p>For how many positive integers $n \le 2^{30}$ does $X(n,2n,3n) = 0$ ?</p>
-=#
-
-submit_answer(nothing; prob_num=312)
+submit_answer(nothing; prob_num=300)

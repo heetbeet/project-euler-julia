@@ -30,7 +30,7 @@ include((@__DIR__)*"/shared.jl");
 <p>For how many positive integers $n \le 2^{30}$ does $X(n,2n,3n) = 0$ ?</p>
 =#
 
-submit_answer(nothing; prob_num=313)
+submit_answer(nothing; prob_num=301)
 
 #=
 <h2>Problem 302: Strong Achilles Numbers</h2>
@@ -57,7 +57,7 @@ How many Strong Achilles numbers are there below 10<sup>18</sup>?
 </p>
 =#
 
-submit_answer(nothing; prob_num=314)
+submit_answer(nothing; prob_num=302)
 
 #=
 <h2>Problem 303: Multiples with small digits</h2>
@@ -70,7 +70,7 @@ Find $\sum \limits_{n=1}^{10000} {\dfrac{f(n)}{n}}$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=315)
+submit_answer(nothing; prob_num=303)
 
 #=
 <h2>Problem 304: Primonacci</h2>
@@ -98,7 +98,7 @@ Give your answer mod 1234567891011.
 </p>
 =#
 
-submit_answer(nothing; prob_num=316)
+submit_answer(nothing; prob_num=304)
 
 #=
 <h2>Problem 305: Reflexive Position</h2>
@@ -118,7 +118,7 @@ Find <span style="font-size:larger;"><span style="font-size:larger;">∑</span><
 </p>
 =#
 
-submit_answer(nothing; prob_num=317)
+submit_answer(nothing; prob_num=305)
 
 #=
 <h2>Problem 306: Paper-strip Game</h2>
@@ -144,7 +144,7 @@ Similarly, for $1 \le n \le 50$, there are 40 values of $n$ for which the first 
 <p>For $1 \le n \le 1 000 000$, how many values of $n$ are there for which the first player can force a win?</p>
 =#
 
-submit_answer(nothing; prob_num=318)
+submit_answer(nothing; prob_num=306)
 
 #=
 <h2>Problem 307: Chip Defects</h2>
@@ -160,7 +160,7 @@ Find p(20 000, 1 000 000) and give your answer rounded to 10 decimal places in t
 </p>
 =#
 
-submit_answer(nothing; prob_num=319)
+submit_answer(nothing; prob_num=307)
 
 #=
 <h2>Problem 308: An amazing Prime-generating Automaton</h2>
@@ -181,7 +181,7 @@ It can be shown that <i>all</i> the powers of 2 in this sequence have prime expo
 <p>If someone uses the above Fractran program to solve Project Euler Problem 7 (find the 10001<sup>st</sup> prime), how many iterations would be needed until the program produces 2<sup>10001st prime</sup> ?</p>
 =#
 
-submit_answer(nothing; prob_num=320)
+submit_answer(nothing; prob_num=308)
 
 #=
 <h2>Problem 309: Integer Ladders</h2>
@@ -198,7 +198,7 @@ For example, if <var>x</var> = 70, <var>y</var> = 119 and <var>h</var> = 30, we 
 <p>For integer values <var>x</var>, <var>y</var>, <var>h</var> and 0 &lt; <var>x</var> &lt; <var>y</var> &lt; 1 000 000, how many triplets (<var>x</var>,<var>y</var>,<var>h</var>) produce integer solutions for <var>w</var>?</p>
 =#
 
-submit_answer(nothing; prob_num=321)
+submit_answer(nothing; prob_num=309)
 
 #=
 <h2>Problem 310: Nim Square</h2>
@@ -213,7 +213,7 @@ Find the number of losing positions for the next player if 0≤a≤b≤c≤100 0
 </p>
 =#
 
-submit_answer(nothing; prob_num=322)
+submit_answer(nothing; prob_num=310)
 
 #=
 <h2>Problem 311: Biclinic Integral Quadrilaterals</h2>
@@ -235,7 +235,7 @@ We can verify that B(10 000) = 49 and B(1 000 000) = 38239.
 </p>
 =#
 
-submit_answer(nothing; prob_num=323)
+submit_answer(nothing; prob_num=311)
 
 #=
 <h2>Problem 312: Cyclic paths on Sierpiński graphs</h2>
@@ -261,7 +261,7 @@ C(10 000) mod 13<sup>8</sup> = 617720485<br /></p>
 </p>
 =#
 
-submit_answer(nothing; prob_num=324)
+submit_answer(nothing; prob_num=312)
 
 #=
 <h2>Problem 313: Sliding game</h2>
@@ -278,7 +278,7 @@ submit_answer(nothing; prob_num=324)
 <p>How many grids does S(m,n) = p<sup>2</sup>, where p &lt; 10<sup>6</sup> is prime?</p>
 =#
 
-submit_answer(nothing; prob_num=325)
+submit_answer(nothing; prob_num=313)
 
 #=
 <h2>Problem 314: The Mouse on the Moon</h2>
@@ -304,7 +304,7 @@ Give your answer rounded to 8 places behind the decimal point in the form abc.de
 </p>
 =#
 
-submit_answer(nothing; prob_num=326)
+submit_answer(nothing; prob_num=314)
 
 #=
 <h2>Problem 315: Digital root clocks</h2>
@@ -359,7 +359,7 @@ The two clocks are fed all the prime numbers between A = 10<sup>7</sup> and B = 
 Find the difference between the total number of transitions needed by Sam's clock and that needed by Max's one.</p>
 =#
 
-submit_answer(nothing; prob_num=327)
+submit_answer(nothing; prob_num=315)
 
 #=
 <h2>Problem 316: Numbers in decimal expansions</h2>
@@ -380,7 +380,7 @@ etc and we find that <var>g</var>(535) = 1008.</p>
 <u><i>Note</i></u>: $\lfloor x \rfloor$ represents the floor function.
 =#
 
-submit_answer(nothing; prob_num=328)
+submit_answer(nothing; prob_num=316)
 
 #=
 <h2>Problem 317: Firecracker</h2>
@@ -396,7 +396,7 @@ Give your answer rounded to four decimal places.
 </p>
 =#
 
-submit_answer(nothing; prob_num=329)
+submit_answer(nothing; prob_num=317)
 
 #=
 <h2>Problem 318: 2011 nines</h2>
@@ -431,7 +431,7 @@ Find $\displaystyle \sum N(p,q) \,\, \text{ for } p+q \le 2011$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=330)
+submit_answer(nothing; prob_num=318)
 
 #=
 <h2>Problem 319: Bounded Sequences</h2>
@@ -455,7 +455,7 @@ Find <var>t</var>(10<sup>10</sup>) and give your answer modulo 10<sup>9</sup>.
 </p>
 =#
 
-submit_answer(nothing; prob_num=331)
+submit_answer(nothing; prob_num=319)
 
 #=
 <h2>Problem 320: Factorials divisible by a huge integer</h2>
@@ -472,7 +472,7 @@ Find S(1 000 000) mod 10<sup>18</sup>.
 </p>
 =#
 
-submit_answer(nothing; prob_num=332)
+submit_answer(nothing; prob_num=320)
 
 #=
 <h2>Problem 321: Swapping Counters</h2>
@@ -493,7 +493,7 @@ submit_answer(nothing; prob_num=332)
 <p>Find the sum of the first forty terms of this sequence.</p>
 =#
 
-submit_answer(nothing; prob_num=333)
+submit_answer(nothing; prob_num=321)
 
 #=
 <h2>Problem 322: Binomial coefficients divisible by 10</h2>
@@ -506,7 +506,7 @@ Find T(10<sup>18</sup>, 10<sup>12</sup>-10).
 </p>
 =#
 
-submit_answer(nothing; prob_num=334)
+submit_answer(nothing; prob_num=322)
 
 #=
 <h2>Problem 323: Bitwise-OR operations on random integers</h2>
@@ -520,7 +520,7 @@ submit_answer(nothing; prob_num=334)
 Give your answer rounded to 10 digits after the decimal point.</p>
 =#
 
-submit_answer(nothing; prob_num=335)
+submit_answer(nothing; prob_num=323)
 
 #=
 <h2>Problem 324: Building a tower</h2>
@@ -530,7 +530,7 @@ submit_answer(nothing; prob_num=335)
 <p>Find <var>f</var>(10<sup>10000</sup>) mod 100000007.</p>
 =#
 
-submit_answer(nothing; prob_num=336)
+submit_answer(nothing; prob_num=324)
 
 #=
 <h2>Problem 325: Stone Game II</h2>
@@ -552,31 +552,4 @@ We can verify that $S(10) = 211$ and $S(10^4) = 230312207313$.</p>
 <p>Find $S(10^{16}) \mod 7^{10}$.</p>
 =#
 
-submit_answer(nothing; prob_num=337)
-
-#=
-<h2>Problem 326: Modulo Summations</h2>
-<p>
-Let $a_n$ be a sequence recursively defined by:$\quad a_1=1,\quad\displaystyle a_n=\biggl(\sum_{k=1}^{n-1}k\cdot a_k\biggr)\bmod n$.
-</p>
-<p>
-So the first 10 elements of $a_n$ are: 1,1,0,3,0,3,5,4,1,9.
-</p>
-<p>Let <var>f</var>(<var>N,M</var>) represent the number of pairs (<var>p,q</var>) such that: </p>
-<p>
-$$
-\def\htmltext#1{\style{font-family:inherit;}{\text{#1}}}
-1\le p\le q\le N \quad\htmltext{and}\quad\biggl(\sum_{i=p}^qa_i\biggr)\bmod M=0
-$$
-</p>
-<p>
-It can be seen that <var>f</var>(10,10)=4 with the pairs (3,3), (5,5), (7,9) and (9,10).
-</p>
-<p>
-You are also given that <var>f</var>(10<sup>4</sup>,10<sup>3</sup>)=97158.</p>
-<p>
-Find <var>f</var>(10<sup>12</sup>,10<sup>6</sup>).
-</p>
-=#
-
-submit_answer(nothing; prob_num=338)
+submit_answer(nothing; prob_num=325)

@@ -17,7 +17,7 @@ $M(10, 0.01)=266.9010 \dots$ </p>
 <p>Find $M(100, 0.00002)$, rounded to 4 decimal places.</p>
 =#
 
-submit_answer(nothing; prob_num=599)
+submit_answer(nothing; prob_num=576)
 
 #=
 <h2>Problem 577: Counting hexagons</h2>
@@ -34,7 +34,7 @@ For example, $H(3)=1$, $H(6)=12$ and $H(20)=966$.</p>
 <p>Find $\displaystyle \sum_{n=3}^{12345} H(n)$.</p>
 =#
 
-submit_answer(nothing; prob_num=600)
+submit_answer(nothing; prob_num=577)
 
 #=
 <h2>Problem 578: Integers with decreasing prime powers</h2>
@@ -51,7 +51,7 @@ You are given C(10<sup>6</sup>) = 922052.</p>
 <p>Find C(10<sup>13</sup>).</p>
 =#
 
-submit_answer(nothing; prob_num=601)
+submit_answer(nothing; prob_num=578)
 
 #=
 <h2>Problem 579: Lattice points in lattice cubes</h2>
@@ -73,7 +73,7 @@ Let S(<var>n</var>) be the sum of the lattice points contained in the different 
 <p>Find S(5000) mod 10<sup>9</sup>.</p>
 =#
 
-submit_answer(nothing; prob_num=602)
+submit_answer(nothing; prob_num=579)
 
 #=
 <h2>Problem 580: Squarefree Hilbert numbers</h2>
@@ -86,7 +86,7 @@ How many squarefree Hilbert numbers are there below $10^{16}$?
 </p>
 =#
 
-submit_answer(nothing; prob_num=603)
+submit_answer(nothing; prob_num=580)
 
 #=
 <h2>Problem 581: 47-smooth triangular numbers</h2>
@@ -97,7 +97,7 @@ Find the sum of all indices <var>n</var> such that T(<var>n</var>) is 47-smooth.
 </p>
 =#
 
-submit_answer(nothing; prob_num=604)
+submit_answer(nothing; prob_num=581)
 
 #=
 <h2>Problem 582: Nearly isosceles 120 degree triangles</h2>
@@ -109,7 +109,7 @@ Find T(10<sup>100</sup>).
 </p>
 =#
 
-submit_answer(nothing; prob_num=605)
+submit_answer(nothing; prob_num=582)
 
 #=
 <h2>Problem 583: Heron Envelopes</h2>
@@ -133,7 +133,7 @@ You are given that S(10<sup>4</sup>) = 884680.  Find S(10<sup>7</sup>).
 </p>
 =#
 
-submit_answer(nothing; prob_num=606)
+submit_answer(nothing; prob_num=583)
 
 #=
 <h2>Problem 584: Birthday Problem Revisited</h2>
@@ -158,7 +158,7 @@ submit_answer(nothing; prob_num=606)
 <p>What would be the answer (rounded to eight places after the decimal point) the people of Earth have to enter into the device for a year with 365 days? Ignore leap years. Also assume that all birthdays are equally likely and independent of each other.</p>
 =#
 
-submit_answer(nothing; prob_num=607)
+submit_answer(nothing; prob_num=584)
 
 #=
 <h2>Problem 585: Nested square roots</h2>
@@ -181,7 +181,7 @@ with $k$, $x$, $y$, $z$ and all $a_i$ being positive integers, all $s_i =\pm 1$ 
 Find F(5000000).</p>
 =#
 
-submit_answer(nothing; prob_num=608)
+submit_answer(nothing; prob_num=585)
 
 #=
 <h2>Problem 586: Binary Quadratic Form</h2>
@@ -203,7 +203,7 @@ Find $f(10^{15}, 40)$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=609)
+submit_answer(nothing; prob_num=586)
 
 #=
 <h2>Problem 587: Concave triangle</h2>
@@ -237,7 +237,7 @@ What is the least value of <var>n</var> for which the concave triangle occupies 
 </p>
 =#
 
-submit_answer(nothing; prob_num=610)
+submit_answer(nothing; prob_num=587)
 
 #=
 <h2>Problem 588: Quintinomial coefficients</h2>
@@ -261,7 +261,7 @@ You are given $Q(10)=17$ and $Q(100)=35$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=611)
+submit_answer(nothing; prob_num=588)
 
 #=
 <h2>Problem 589: Poohsticks Marathon</h2>
@@ -285,7 +285,7 @@ Find $S(100)$ and give your answer rounded to 2 decimal places.
 </p>
 =#
 
-submit_answer(nothing; prob_num=612)
+submit_answer(nothing; prob_num=589)
 
 #=
 <h2>Problem 590: Sets with a given Least Common Multiple</h2>
@@ -309,7 +309,7 @@ Find HL(50000). Give your answer modulo 10<sup>9</sup>.
 </p>
 =#
 
-submit_answer(nothing; prob_num=613)
+submit_answer(nothing; prob_num=590)
 
 #=
 <h2>Problem 591: Best Approximations by Quadratic Integers</h2>
@@ -326,7 +326,7 @@ We call $BQA_d(x,n)$ the quadratic integer closest to $x$ with the absolute valu
 <p>Find the sum of $|I_d(BQA_d(\pi,10^{13}))|$ for all  non-square positive integers less than 100.</p>
 =#
 
-submit_answer(nothing; prob_num=614)
+submit_answer(nothing; prob_num=591)
 
 #=
 <h2>Problem 592: Factorial trailing digits 2</h2>
@@ -338,7 +338,7 @@ so <var>f</var>(20) is the digit sequence 21C3677C82B4.</p>
 <p>Find <var>f</var>(20!). Give your answer as twelve hexadecimal digits, using uppercase for the digits A to F.</p>
 =#
 
-submit_answer(nothing; prob_num=615)
+submit_answer(nothing; prob_num=592)
 
 #=
 <h2>Problem 593: Fleeting Medians</h2>
@@ -355,7 +355,7 @@ submit_answer(nothing; prob_num=615)
 <p>Find $F(10^7, 10^5)$. If the sum is not an integer, use $.5$ to denote a half. Otherwise, use $.0$ instead.</p>
 =#
 
-submit_answer(nothing; prob_num=616)
+submit_answer(nothing; prob_num=593)
 
 #=
 <h2>Problem 594: Rhombus Tilings</h2>
@@ -385,7 +385,7 @@ Find $t(O_{4,2})$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=617)
+submit_answer(nothing; prob_num=594)
 
 #=
 <h2>Problem 595: Incremental Random Sort</h2>
@@ -412,7 +412,7 @@ Find S(52), and give your answer rounded to 8 decimal places.
 </p>
 =#
 
-submit_answer(nothing; prob_num=618)
+submit_answer(nothing; prob_num=595)
 
 #=
 <h2>Problem 596: Number of lattice points in a hyperball</h2>
@@ -423,7 +423,7 @@ submit_answer(nothing; prob_num=618)
 <p>Find T(10<sup>8</sup>) mod 1000000007.</p>
 =#
 
-submit_answer(nothing; prob_num=619)
+submit_answer(nothing; prob_num=596)
 
 #=
 <h2>Problem 597: Torpids</h2>
@@ -511,7 +511,7 @@ Find $p(13,1800)$ rounded to 10 digits after the decimal point.
 </p>
 =#
 
-submit_answer(nothing; prob_num=620)
+submit_answer(nothing; prob_num=597)
 
 #=
 <h2>Problem 598: Split Divisibilities</h2>
@@ -529,7 +529,7 @@ You are given $C(10!)=3$: (1680, 2160), (1800, 2016) and (1890,1920).</p><p>
 Find $C(100!)$</p>
 =#
 
-submit_answer(nothing; prob_num=621)
+submit_answer(nothing; prob_num=598)
 
 #=
 <h2>Problem 599: Distinct Colourings of a Rubik's Cube</h2>
@@ -550,7 +550,7 @@ How many essentially distinct colourings are there with 10 different colours ava
 </p>
 =#
 
-submit_answer(nothing; prob_num=622)
+submit_answer(nothing; prob_num=599)
 
 #=
 <h2>Problem 600: Integer sided equiangular hexagons</h2>
@@ -566,31 +566,4 @@ Find <var>H</var>(55106).</p>
 </div>
 =#
 
-submit_answer(nothing; prob_num=623)
-
-#=
-<h2>Problem 601: Divisibility streaks</h2>
-<p>
-For every positive number $n$ we define the function  $streak(n)=k$   as the smallest positive integer $k$ such that $n+k$ is not divisible by $k+1$.<br />
-E.g:<br />
-13 is divisible by 1 <br />
-14 is divisible by 2 <br />
-15 is divisible by 3 <br />
-16 is divisible by 4 <br />
-17 is NOT divisible by 5 <br />
-So $streak(13) = 4$. <br /> 
-Similarly:<br />
-120 is divisible by 1 <br />
-121 is NOT divisible by 2 <br />
-So $streak(120) = 1$.</p>
-<p>
-
-Define $P(s, N)$ to be the number of integers $n$, $1 &lt; n &lt; N$, for which $streak(n) = s$.<br />
-So $P(3, 14) = 1$ and $P(6, 10^6) = 14286$.
-</p>
-<p>
-Find the sum, as $i$ ranges from 1 to 31, of $P(i, 4^i)$.
-</p>
-=#
-
-submit_answer(nothing; prob_num=624)
+submit_answer(nothing; prob_num=600)

@@ -12,7 +12,7 @@ include((@__DIR__)*"/shared.jl");
 <p>Find the least value of <i>n</i> for which C(<i>n</i>) = 1000.</p>
 =#
 
-submit_answer(nothing; prob_num=131)
+submit_answer(nothing; prob_num=126)
 
 #=
 <h2>Problem 127: abc-hits</h2>
@@ -31,7 +31,7 @@ submit_answer(nothing; prob_num=131)
 <p>Find ∑<i>c</i> for <i>c</i> &lt; 120000.</p>
 =#
 
-submit_answer(nothing; prob_num=132)
+submit_answer(nothing; prob_num=127)
 
 #=
 <h2>Problem 128: Hexagonal tile differences</h2>
@@ -47,7 +47,7 @@ submit_answer(nothing; prob_num=132)
 <p>Find the 2000th tile in this sequence.</p>
 =#
 
-submit_answer(nothing; prob_num=133)
+submit_answer(nothing; prob_num=128)
 
 #=
 <h2>Problem 129: Repunit divisibility</h2>
@@ -57,7 +57,7 @@ submit_answer(nothing; prob_num=133)
 <p>Find the least value of <i>n</i> for which A(<i>n</i>) first exceeds one-million.</p>
 =#
 
-submit_answer(nothing; prob_num=134)
+submit_answer(nothing; prob_num=129)
 
 #=
 <h2>Problem 130: Composites with prime repunit property</h2>
@@ -68,7 +68,7 @@ submit_answer(nothing; prob_num=134)
 <p>Find the sum of the first twenty-five composite values of <i>n</i> for which<br />GCD(<i>n</i>, 10) = 1 and <i>n</i> − 1 is divisible by A(<i>n</i>).</p>
 =#
 
-submit_answer(nothing; prob_num=135)
+submit_answer(nothing; prob_num=130)
 
 #=
 <h2>Problem 131: Prime cube partnership</h2>
@@ -78,7 +78,7 @@ submit_answer(nothing; prob_num=135)
 <p>How many primes below one million have this remarkable property?</p>
 =#
 
-submit_answer(nothing; prob_num=136)
+submit_answer(nothing; prob_num=131)
 
 #=
 <h2>Problem 132: Large repunit factors</h2>
@@ -87,7 +87,7 @@ submit_answer(nothing; prob_num=136)
 <p>Find the sum of the first forty prime factors of R(10<sup>9</sup>).</p>
 =#
 
-submit_answer(nothing; prob_num=137)
+submit_answer(nothing; prob_num=132)
 
 #=
 <h2>Problem 133: Repunit nonfactors</h2>
@@ -97,7 +97,7 @@ submit_answer(nothing; prob_num=137)
 <p>Find the sum of all the primes below one-hundred thousand that will never be a factor of R(10<sup><var>n</var></sup>).</p>
 =#
 
-submit_answer(nothing; prob_num=138)
+submit_answer(nothing; prob_num=133)
 
 #=
 <h2>Problem 134: Prime pair connection</h2>
@@ -106,7 +106,7 @@ submit_answer(nothing; prob_num=138)
 <p>Find ∑ <i>S</i> for every pair of consecutive primes with 5 ≤ <i>p</i><sub>1</sub> ≤ 1000000.</p>
 =#
 
-submit_answer(nothing; prob_num=139)
+submit_answer(nothing; prob_num=134)
 
 #=
 <h2>Problem 135: Same differences</h2>
@@ -116,7 +116,7 @@ submit_answer(nothing; prob_num=139)
 <p>How many values of <i>n</i> less than one million have exactly ten distinct solutions?</p>
 =#
 
-submit_answer(nothing; prob_num=140)
+submit_answer(nothing; prob_num=135)
 
 #=
 <h2>Problem 136: Singleton difference</h2>
@@ -126,7 +126,7 @@ submit_answer(nothing; prob_num=140)
 <p>How many values of <i>n</i> less than fifty million have exactly one solution?</p>
 =#
 
-submit_answer(nothing; prob_num=141)
+submit_answer(nothing; prob_num=136)
 
 #=
 <h2>Problem 137: Fibonacci golden nuggets</h2>
@@ -154,7 +154,7 @@ A_F(\tfrac{1}{2})
 <p>Find the 15th golden nugget.</p>
 =#
 
-submit_answer(nothing; prob_num=142)
+submit_answer(nothing; prob_num=137)
 
 #=
 <h2>Problem 138: Special isosceles triangles</h2>
@@ -166,7 +166,7 @@ submit_answer(nothing; prob_num=142)
 <p>Find $\sum L$ for the twelve smallest isosceles triangles for which $h = b \pm 1$ and $b$, $L$ are positive integers.</p>
 =#
 
-submit_answer(nothing; prob_num=143)
+submit_answer(nothing; prob_num=138)
 
 #=
 <h2>Problem 139: Pythagorean tiles</h2>
@@ -178,7 +178,7 @@ submit_answer(nothing; prob_num=143)
 <p>Given that the perimeter of the right triangle is less than one-hundred million, how many Pythagorean triangles would allow such a tiling to take place?</p>
 =#
 
-submit_answer(nothing; prob_num=144)
+submit_answer(nothing; prob_num=139)
 
 #=
 <h2>Problem 140: Modified Fibonacci golden nuggets</h2>
@@ -197,7 +197,7 @@ submit_answer(nothing; prob_num=144)
 <p>Find the sum of the first thirty golden nuggets.</p>
 =#
 
-submit_answer(nothing; prob_num=145)
+submit_answer(nothing; prob_num=140)
 
 #=
 <h2>Problem 141: Investigating progressive numbers, <i>n</i>, which are also square</h2>
@@ -208,14 +208,14 @@ We will call such numbers, <i>n</i>, progressive.</p>
 <p>Find the sum of all progressive perfect squares below one trillion (10<sup>12</sup>).</p>
 =#
 
-submit_answer(nothing; prob_num=146)
+submit_answer(nothing; prob_num=141)
 
 #=
 <h2>Problem 142: Perfect Square Collection</h2>
 <p>Find the smallest x + y + z with integers x &gt; y &gt; z &gt; 0 such that x + y, x − y, x + z, x − z, y + z, y − z are all perfect squares.</p>
 =#
 
-submit_answer(nothing; prob_num=147)
+submit_answer(nothing; prob_num=142)
 
 #=
 <h2>Problem 143: Investigating the Torricelli point of a triangle</h2>
@@ -227,7 +227,7 @@ submit_answer(nothing; prob_num=147)
 <p>Find the sum of all distinct values of p + q + r ≤ 120000 for Torricelli triangles.</p>
 =#
 
-submit_answer(nothing; prob_num=148)
+submit_answer(nothing; prob_num=143)
 
 #=
 <h2>Problem 144: Investigating multiple reflections of a laser beam</h2>
@@ -243,7 +243,7 @@ submit_answer(nothing; prob_num=148)
 <p>How many times does the beam hit the internal surface of the white cell before exiting?</p>
 =#
 
-submit_answer(nothing; prob_num=149)
+submit_answer(nothing; prob_num=144)
 
 #=
 <h2>Problem 145: How many reversible numbers are there below one-billion?</h2>
@@ -254,7 +254,7 @@ submit_answer(nothing; prob_num=149)
 <p>How many reversible numbers are there below one-billion (10<sup>9</sup>)?</p>
 =#
 
-submit_answer(nothing; prob_num=150)
+submit_answer(nothing; prob_num=145)
 
 #=
 <h2>Problem 146: Investigating a Prime Pattern </h2>
@@ -263,7 +263,7 @@ submit_answer(nothing; prob_num=150)
 <p>What is the sum of all such integers <i>n</i> below 150 million?</p>
 =#
 
-submit_answer(nothing; prob_num=151)
+submit_answer(nothing; prob_num=146)
 
 #=
 <h2>Problem 147: Rectangles in cross-hatched grids</h2>
@@ -283,7 +283,7 @@ submit_answer(nothing; prob_num=151)
 <p>How many different rectangles could be situated within 47x43 and smaller grids?</p>
 =#
 
-submit_answer(nothing; prob_num=152)
+submit_answer(nothing; prob_num=147)
 
 #=
 <h2>Problem 148: Exploring Pascal's triangle</h2>
@@ -363,7 +363,7 @@ submit_answer(nothing; prob_num=152)
 <p>Find the number of entries which are <i>not</i> divisible by 7 in the first one billion (10<sup>9</sup>) rows of Pascal's triangle.</p>
 =#
 
-submit_answer(nothing; prob_num=153)
+submit_answer(nothing; prob_num=148)
 
 #=
 <h2>Problem 149: Searching for a maximum-sum subsequence</h2>
@@ -386,7 +386,7 @@ For 56 ≤ <i>k</i> ≤ 4000000, <i>s</i><sub><i>k</i></sub> = [<i>s</i><sub><i>
 <p>Finally, find the greatest sum of (any number of) adjacent entries in any direction (horizontal, vertical, diagonal or anti-diagonal).</p>
 =#
 
-submit_answer(nothing; prob_num=154)
+submit_answer(nothing; prob_num=149)
 
 #=
 <h2>Problem 150: Searching a triangular array for a sub-triangle having minimum-sum</h2>
@@ -418,25 +418,4 @@ The "sum of a sub-triangle" is defined as the sum of all the elements it contain
 Find the smallest possible sub-triangle sum.</p>
 =#
 
-submit_answer(nothing; prob_num=155)
-
-#=
-<h2>Problem 151: Paper sheets of standard sizes: an expected-value problem</h2>
-<p>A printing shop runs 16 batches (jobs) every week and each batch requires a sheet of special colour-proofing paper of size A5.</p>
-
-<p>Every Monday morning, the supervisor opens a new envelope, containing a large sheet of the special paper with size A1.</p>
-
-<p>The supervisor proceeds to cut it in half, thus getting two sheets of size A2. Then one of the sheets is cut in half to get two sheets of size A3 and so on until an A5-size sheet is obtained, which is needed for the first batch of the week.</p>
-
-<p>All the unused sheets are placed back in the envelope.</p>
-
-<div class="center"><img src="project/images/p151.png" class="dark_img" alt="" /></div>
-
-<p>At the beginning of each subsequent batch, the supervisor takes from the envelope one sheet of paper at random. If it is of size A5, then it is used. If it is larger, then the 'cut-in-half' procedure is repeated until an A5-size sheet is obtained, and any remaining sheets are always placed back in the envelope.</p>
-
-<p>Excluding the first and last batch of the week, find the expected number of times (during each week) that the supervisor finds a single sheet of paper in the envelope.</p>
-
-<p>Give your answer rounded to six decimal places using the format x.xxxxxx .</p>
-=#
-
-submit_answer(nothing; prob_num=156)
+submit_answer(nothing; prob_num=150)

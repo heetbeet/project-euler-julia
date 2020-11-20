@@ -15,7 +15,7 @@ and $f(13, 144, 233) \equiv 907081451 \pmod{1\,000\,000\,007}$.</p>
 <p>Find $\sum_{i=4}^{40} f(i, F_{i-1}, F_i) \bmod 1\,000\,000\,007$, where $F_i$ are the Fibonacci numbers starting at $F_0=0$, $F_1=1$.</p>
 =#
 
-submit_answer(nothing; prob_num=677)
+submit_answer(nothing; prob_num=651)
 
 #=
 <h2>Problem 652: Distinct values of a proto-logarithmic function</h2>
@@ -42,7 +42,7 @@ For example, $D(5)=13$, $D(10)=69$, $D(100)=9607$ and $D(10000)=99959605$.</p>
 <font size="2"><b>Note:</b> According to the <b>four exponentials conjecture</b> the function $\text{log}_m(n)$ is <i>proto-logarithmic</i>.<br /> While this conjecture is yet unproven in general, $\text{log}_m(n)$ can be used to calculate $D(N)$ for small values of $N$.</font></p>
 =#
 
-submit_answer(nothing; prob_num=678)
+submit_answer(nothing; prob_num=652)
 
 #=
 <h2>Problem 653: Frictionless Tube</h2>
@@ -65,7 +65,7 @@ Furthermore, the $j$th marble is initially moving eastward if $r_j \le 10\,000\,
 <p>Find $d(1\,000\,000\,000, 1\,000\,001, 500\,001)$.</p>
 =#
 
-submit_answer(nothing; prob_num=679)
+submit_answer(nothing; prob_num=653)
 
 #=
 <h2>Problem 654: Neighbourly Constraints</h2>
@@ -91,7 +91,7 @@ Find $T(5000, 10^{12}) \bmod 1\,000\,000\,007$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=680)
+submit_answer(nothing; prob_num=654)
 
 #=
 <h2>Problem 655: Divisible Palindromes</h2>
@@ -100,7 +100,7 @@ submit_answer(nothing; prob_num=680)
 <p>How many palindromes less than $10^{32}$ are divisible by $10\,000\,019\,$ ?</p>
 =#
 
-submit_answer(nothing; prob_num=681)
+submit_answer(nothing; prob_num=655)
 
 #=
 <h2>Problem 656: Palindromic sequences</h2>
@@ -122,7 +122,7 @@ Calculate the sum of $H_{100}(\sqrt \beta)$ for  $\beta \in T$. Give the last 15
 </p>
 =#
 
-submit_answer(nothing; prob_num=682)
+submit_answer(nothing; prob_num=656)
 
 #=
 <h2>Problem 657: Incomplete words</h2>
@@ -136,7 +136,7 @@ For example, $I(3,0)=1$, $I(3,2)=13$ and $I(3,4)=79$.</p>
 Find $I(10^7,10^{12})$. Give your answer modulo $1\,000\,000\,007$.</p>
 =#
 
-submit_answer(nothing; prob_num=683)
+submit_answer(nothing; prob_num=657)
 
 #=
 <h2>Problem 658: Incomplete words II</h2>
@@ -154,7 +154,7 @@ Find $S(10^7,10^{12})$. Give your answer modulo $1\,000\,000\,007$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=684)
+submit_answer(nothing; prob_num=658)
 
 #=
 <h2>Problem 659: Largest prime</h2>
@@ -173,7 +173,7 @@ Find the last 18 digits of $\displaystyle \sum_{k=1}^{10\,000\,000} P(k)$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=685)
+submit_answer(nothing; prob_num=659)
 
 #=
 <h2>Problem 660: Pandigital Triangles</h2>
@@ -185,7 +185,7 @@ For example, the triangle (217, 248, 403) is 9-pandigital because it contains on
 <p>Find the sum of the largest sides of all n-pandigital triangles with $9 \le n \le 18$.</p>
 =#
 
-submit_answer(nothing; prob_num=686)
+submit_answer(nothing; prob_num=660)
 
 #=
 <h2>Problem 661: A Long Chess Match</h2>
@@ -203,7 +203,7 @@ For example $H(3) \approx 6.8345$, rounded to 4 digits after the decimal point.<
 <p>Find $H(50)$, rounded to 4 digits after the decimal point.</p>
 =#
 
-submit_answer(nothing; prob_num=687)
+submit_answer(nothing; prob_num=661)
 
 #=
 <h2>Problem 662: Fibonacci paths</h2>
@@ -224,7 +224,7 @@ You are given $F(3,4) = 278$ and $F(10,10) = 215846462$.
 Find $F(10\,000,10\,000) \bmod 1\,000\,000\,007$.</p>
 =#
 
-submit_answer(nothing; prob_num=688)
+submit_answer(nothing; prob_num=662)
 
 #=
 <h2>Problem 663: Sums of subarrays</h2>
@@ -253,7 +253,7 @@ You are given $S(5,100)=2416$, $S(14,100)=3881$ and $S(107,1000)=1618572$.</p>
 <p>Find $S(10\,000\,003,10\,200\,000)-S(10\,000\,003,10\,000\,000)$.</p>
 =#
 
-submit_answer(nothing; prob_num=689)
+submit_answer(nothing; prob_num=663)
 
 #=
 <h2>Problem 664: An infinite game</h2>
@@ -289,7 +289,7 @@ You are also given that $F(1)=6$, $F(2)=9$, $F(3)=13$, $F(11)=58$ and $F(123)=11
 <p>Find $F(1234567)$.</p>
 =#
 
-submit_answer(nothing; prob_num=690)
+submit_answer(nothing; prob_num=664)
 
 #=
 <h2>Problem 665: Proportionate Nim</h2>
@@ -315,7 +315,7 @@ $(0,2)$, $(0,4)$, $(0,5)$, $(0,6)$, $(1,2)$, $(1,4)$, $(1,5)$, $(1,6)$, $(2,2)$,
 <p>Find $f(10^7)$.</p>
 =#
 
-submit_answer(nothing; prob_num=691)
+submit_answer(nothing; prob_num=665)
 
 #=
 <h2>Problem 666: Polymorphic Bacteria</h2>
@@ -364,7 +364,7 @@ Find $P_{500,10}$, and give your answer rounded to 8 decimal places.
 </p>
 =#
 
-submit_answer(nothing; prob_num=692)
+submit_answer(nothing; prob_num=666)
 
 #=
 <h2>Problem 667: Moving Pentagon</h2>
@@ -381,7 +381,7 @@ Given optimal form and size, what is the biggest pentagonal cocktail table (in t
 Give your answer rounded to 10 digits after the decimal point (if Jack had choosen the square model instead the answer would have been 1.0000000000).</p>
 =#
 
-submit_answer(nothing; prob_num=693)
+submit_answer(nothing; prob_num=667)
 
 #=
 <h2>Problem 668: Square root smooth Numbers</h2>
@@ -393,7 +393,7 @@ Including the number $1$, there are $29$ square root smooth numbers not exceedin
 How many square root smooth numbers are there not exceeding $10\,000\,000\,000$?</p>
 =#
 
-submit_answer(nothing; prob_num=694)
+submit_answer(nothing; prob_num=668)
 
 #=
 <h2>Problem 669: The King's Banquet</h2>
@@ -418,7 +418,7 @@ submit_answer(nothing; prob_num=694)
 <p>Find the number of the knight sitting in the $10\,000\,000\,000\,000\,000$th chair from the king’s left.</p>
 =#
 
-submit_answer(nothing; prob_num=695)
+submit_answer(nothing; prob_num=669)
 
 #=
 <h2>Problem 670: Colouring a Strip</h2>
@@ -449,7 +449,7 @@ submit_answer(nothing; prob_num=695)
 <p>Find $F(10^{16}) \bmod 1\,000\,004\,321$.</p>
 =#
 
-submit_answer(nothing; prob_num=696)
+submit_answer(nothing; prob_num=670)
 
 #=
 <h2>Problem 671: Colouring a Loop</h2>
@@ -480,7 +480,7 @@ submit_answer(nothing; prob_num=696)
 <p>Find $F_{10}(10\,004\,003\,002\,001) \bmod 1\,000\,004\,321$.</p>
 =#
 
-submit_answer(nothing; prob_num=697)
+submit_answer(nothing; prob_num=671)
 
 #=
 <h2>Problem 672: One more one</h2>
@@ -497,7 +497,7 @@ submit_answer(nothing; prob_num=697)
 <p>Find $H(10^9)$ modulo $1\,117\,117\,717$.</p>
 =#
 
-submit_answer(nothing; prob_num=698)
+submit_answer(nothing; prob_num=672)
 
 #=
 <h2>Problem 673: Beds and Desks</h2>
@@ -533,7 +533,7 @@ then among the $36!$ possible permutations (including the identity permutation),
 <p>With these pairings, find the number of permutations that satisfy the students' conditions. Give your answer modulo $999\,999\,937$.</p>
 =#
 
-submit_answer(nothing; prob_num=699)
+submit_answer(nothing; prob_num=673)
 
 #=
 <h2>Problem 674: Solving $\mathcal{I}$-equations</h2>
@@ -550,7 +550,7 @@ The least simultaneous value of $A$ and $B$ is $23$, attained for $x=3,y=1,z=t=0
 <p>Find the sum of least simultaneous values of all $\mathcal{I}$-expressions pairs made of distinct expressions from file <a href="project/resources/p674_i_expressions.txt">I-expressions.txt</a> (pairs $(e_1,e_2)$ and $(e_2,e_1)$ are considered to be identical). Give the last nine digits of the result as the answer.</p>
 =#
 
-submit_answer(nothing; prob_num=700)
+submit_answer(nothing; prob_num=674)
 
 #=
 <h2>Problem 675: $2^{\omega(n)}$</h2>
@@ -572,24 +572,4 @@ Find $F(10\,000\,000)$. Give your answer modulo  $1\,000\,000\,087$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=701)
-
-#=
-<h2>Problem 676: Matching Digit Sums</h2>
-<p>
-Let $d(i,b)$ be the <b>digit sum</b> of the number $i$ in base $b$. For example $d(9,2)=2$, since $9=1001_2$.
-When using different bases, the respective digit sums most of the time deviate from each other, for example $d(9,4)=3 \ne d(9,2)$.
-</p>
-
-<p>
-However, for some numbers $i$ there will be a match, like $d(17,4)=d(17,2)=2$.
-Let $ M(n,b_1,b_2)$ be the sum of all natural numbers $i \le n$ for which $d(i,b_1)=d(i,b_2)$.
-For example, $M(10,8,2)=18$, $M(100,8,2)=292$ and $M(10^6,8,2)=19173952$.
-</p>
-
-<p>
-Find $\displaystyle \sum_{k=3}^6 \sum_{l=1}^{k-2}M(10^{16},2^k,2^l)$, giving the last 16 digits as the answer.
-</p>
-=#
-
-submit_answer(nothing; prob_num=702)
+submit_answer(nothing; prob_num=675)

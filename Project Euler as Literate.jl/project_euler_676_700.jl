@@ -18,7 +18,7 @@ Find $\displaystyle \sum_{k=3}^6 \sum_{l=1}^{k-2}M(10^{16},2^k,2^l)$, giving the
 </p>
 =#
 
-submit_answer(nothing; prob_num=703)
+submit_answer(nothing; prob_num=676)
 
 #=
 <h2>Problem 677: Coloured Graphs</h2>
@@ -37,7 +37,7 @@ You are also given that $g(10) = 710249$ and $g(100) \equiv 919747298 \pmod{1\,0
 <p>Find $g(10\,000) \bmod 1\,000\,000\,007$.</p>
 =#
 
-submit_answer(nothing; prob_num=704)
+submit_answer(nothing; prob_num=677)
 
 #=
 <h2>Problem 678: Fermat-like Equations</h2>
@@ -51,7 +51,7 @@ Find $F(10^{18})$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=705)
+submit_answer(nothing; prob_num=678)
 
 #=
 <h2>Problem 679: Freefarea</h2>
@@ -69,7 +69,7 @@ So, $f(9)=1$.</p>
 <p>Find $f(30)$.</p>
 =#
 
-submit_answer(nothing; prob_num=706)
+submit_answer(nothing; prob_num=679)
 
 #=
 <h2>Problem 680: Yarra Gnisrever</h2>
@@ -97,7 +97,7 @@ $R(5, 4) = 0 \times 2 + 1 \times 0 + 2 \times 1 + 3 \times 3 + 4 \times 4 = 27$<
 <p>Find $R(10^{18}, 10^6)$ giving your answer modulo $10^9$.</p>
 =#
 
-submit_answer(nothing; prob_num=707)
+submit_answer(nothing; prob_num=680)
 
 #=
 <h2>Problem 681: Maximal Area</h2>
@@ -113,7 +113,7 @@ Find $SP(1\,000\,000)$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=708)
+submit_answer(nothing; prob_num=681)
 
 #=
 <h2>Problem 682: 5-Smooth Pairs</h2>
@@ -130,7 +130,7 @@ You are given $f(10)=4$ (the pairs are $(4,9),(5,5),(6,6),(9,4)$) and $f(10^2)=3
 <p>Find $f(10^7) \bmod 1\,000\,000\,007$.</p>
 =#
 
-submit_answer(nothing; prob_num=709)
+submit_answer(nothing; prob_num=682)
 
 #=
 <h2>Problem 683: The Chase II</h2>
@@ -147,7 +147,7 @@ submit_answer(nothing; prob_num=709)
 <p>Find $G(500)$, giving your answer in scientific notation rounded to 9 significant digits.</p>
 =#
 
-submit_answer(nothing; prob_num=710)
+submit_answer(nothing; prob_num=683)
 
 #=
 <h2>Problem 684: Inverse Digit Sum</h2>
@@ -159,7 +159,7 @@ Further let $f_i$ be the Fibonacci sequence defined by $f_0=0, f_1=1$ and $f_i=f
 Find $\displaystyle \sum_{i=2}^{90} S(f_i)$. Give your answer modulo $1\,000\,000\,007$.</p>
 =#
 
-submit_answer(nothing; prob_num=711)
+submit_answer(nothing; prob_num=684)
 
 #=
 <h2>Problem 685: Inverse Digit Sum II</h2>
@@ -173,7 +173,7 @@ Let $\displaystyle S(k)=\sum_{n=1}^k f(n^3,n^4)$. For example $S(3)=7128$ and $S
 Find $S(10\,000)$ modulo $1\,000\,000\,007$.</p>
 =#
 
-submit_answer(nothing; prob_num=712)
+submit_answer(nothing; prob_num=685)
 
 #=
 <h2>Problem 686: Powers of Two</h2>
@@ -188,7 +188,7 @@ So $p(12, 1) = 7$ and $p(12, 2) = 80$.</p>
 <p>Find $p(123, 678910)$.</p>
 =#
 
-submit_answer(nothing; prob_num=713)
+submit_answer(nothing; prob_num=686)
 
 #=
 <h2>Problem 687: Shuffling Cards</h2>
@@ -199,7 +199,7 @@ It can be seen that the expected number of ranks that are perfect after a random
 Find the probability that the number of perfect ranks is prime. Give your answer rounded to 10 decimal places.</p>
 =#
 
-submit_answer(nothing; prob_num=714)
+submit_answer(nothing; prob_num=687)
 
 #=
 <h2>Problem 688: Piles of Plates</h2>
@@ -217,7 +217,7 @@ Find $S(10^{16})$ giving your answer modulo $1\,000\,000\,007$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=715)
+submit_answer(nothing; prob_num=688)
 
 #=
 <h2>Problem 689: Binary Series</h2>
@@ -231,7 +231,7 @@ For example $d_2(0.25) = 1$, $d_i(0.25) = 0$ for $i \ne 2$.</p>
 <p>Find $p(0.5)$. Give your answer rounded to 8 digits after the decimal point.</p>
 =#
 
-submit_answer(nothing; prob_num=716)
+submit_answer(nothing; prob_num=689)
 
 #=
 <h2>Problem 690: Tom and Jerry</h2>
@@ -267,7 +267,7 @@ Find $T(2019)$ giving your answer modulo $1\,000\,000\,007$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=717)
+submit_answer(nothing; prob_num=690)
 
 #=
 <h2>Problem 691: Long substring with many repetitions</h2>
@@ -286,7 +286,7 @@ submit_answer(nothing; prob_num=717)
 <p>Find the sum of non-zero $L(k,S_{5000000})$ for $k\ge 1$.</p>
 =#
 
-submit_answer(nothing; prob_num=718)
+submit_answer(nothing; prob_num=691)
 
 #=
 <h2>Problem 692: Siegbert and Jo</h2>
@@ -312,7 +312,7 @@ Find $G(23416728348467685)$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=719)
+submit_answer(nothing; prob_num=692)
 
 #=
 <h2>Problem 693: Finite Sequence Generator</h2>
@@ -335,7 +335,7 @@ Hence $l(5,3) = 29$.</p>
 <p>Find $f(3\,000\,000)$.</p>
 =#
 
-submit_answer(nothing; prob_num=720)
+submit_answer(nothing; prob_num=693)
 
 #=
 <h2>Problem 694: Cube-full Divisors</h2>
@@ -356,7 +356,7 @@ Find $S(10^{18})$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=721)
+submit_answer(nothing; prob_num=694)
 
 #=
 <h2>Problem 695: Random Rectangles</h2>
@@ -371,7 +371,7 @@ submit_answer(nothing; prob_num=721)
 <p>Find the expected value of the area of the second biggest of the three rectangles. Give your answer rounded to 10 digits after the decimal point.</p>
 =#
 
-submit_answer(nothing; prob_num=722)
+submit_answer(nothing; prob_num=695)
 
 #=
 <h2>Problem 696: Mahjong</h2>
@@ -402,7 +402,7 @@ submit_answer(nothing; prob_num=722)
 <p>Find $w(10^8, 10^8, 30)$. Give your answer modulo $1\,000\,000\,007$.</p>
 =#
 
-submit_answer(nothing; prob_num=723)
+submit_answer(nothing; prob_num=696)
 
 #=
 <h2>Problem 697: Randomly Decaying Sequence</h2>
@@ -418,7 +418,7 @@ submit_answer(nothing; prob_num=723)
 <p>Find $\log_{10} c$ and give your answer rounded to two places after the decimal point.</p>
 =#
 
-submit_answer(nothing; prob_num=724)
+submit_answer(nothing; prob_num=697)
 
 #=
 <h2>Problem 698: 123 Numbers</h2>
@@ -447,7 +447,7 @@ Find $F(111\,111\,111\,111\,222\,333)$. Give your answer modulo $123\,123\,123$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=725)
+submit_answer(nothing; prob_num=698)
 
 #=
 <h2>Problem 699: Triffle Numbers</h2>
@@ -466,7 +466,7 @@ Find $T(10^{14})$.
 </p>
 =#
 
-submit_answer(nothing; prob_num=726)
+submit_answer(nothing; prob_num=699)
 
 #=
 <h2>Problem 700: Eulercoin</h2>
@@ -483,26 +483,4 @@ submit_answer(nothing; prob_num=726)
 <p>Find the sum of all Eulercoins.</p>
 =#
 
-submit_answer(nothing; prob_num=727)
-
-#=
-<h2>Problem 701: Random connected area</h2>
-<p>
-Consider a rectangle made up of $W \times H$ square cells each with area 1.<br /> Each cell is independently coloured black with probability 0.5 otherwise white. Black cells sharing an edge are assumed to be connected.<br />Consider the maximum area of connected cells.</p>
-
-<p>
-Define $E(W,H)$ to be the expected value of this maximum area.
-For example, $E(2,2)=1.875$, as illustrated below.
-</p>
-<div class="center">
-<img src="project/images/p701_randcon.png" alt="3 random connected area" />
-</div>
-<p>
-You are also given $E(4, 4) = 5.76487732$, rounded to 8 decimal places.
-</p>
-<p>
-Find $E(7, 7)$, rounded to 8 decimal places.
-</p>
-=#
-
-submit_answer(nothing; prob_num=728)
+submit_answer(nothing; prob_num=700)
