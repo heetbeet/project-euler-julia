@@ -1,13 +1,13 @@
 #=
 This is a quick and dirty script to
 - download the project Puzzle html sources
-- download dependant images and files
+- download dependent images and files
 - edit the source to fit as Literate.jl markdown
 - download puzzle solutions and create a solution checker
 - compile all of this into 25 puzzles per page
 - export everyting as Literate.jl, Pluto.jl, and Jupyter
 
-dependancies:
+dependencies:
 ] add Glob
 ] add Literate
 =#
