@@ -103,7 +103,7 @@ submit_answer(nothing; prob_num=154)
 <p>An electric circuit uses exclusively identical capacitors of the same value C.
 <br />
 The capacitors can be connected in series or in parallel to form sub-units, which can then be connected in series or in parallel with other capacitors or other sub-units to form larger sub-units, and so on up to a final circuit.</p>
-<p>Using this simple procedure and up to <var>n</var> identical capacitors, we can make circuits having a range of different total capacitances. For example, using up to <var>n</var>=3 capacitors of 60 <img src="project/images/p155_capsmu.gif" width="12" height="21" alt="" style="vertical-align:middle;" />F each, we can obtain the following 7 distinct total capacitance values: </p>
+<p>Using this simple procedure and up to <var>n</var> identical capacitors, we can make circuits having a range of different total capacitances. For example, using up to <var>n</var>=3 capacitors of 60 $\mu$ F each, we can obtain the following 7 distinct total capacitance values: </p>
 <div class="center"><img src="project/images/p155_capacitors1.gif" class="dark_img" alt="" /></div>
 <p>If we denote by <var>D</var>(<var>n</var>) the number of distinct total capacitance values we can obtain when using up to <var>n</var> equal-valued capacitors and the simple procedure described above, we have: <var>D</var>(1)=1, <var>D</var>(2)=3, <var>D</var>(3)=7 ...</p>
 <p>Find <var>D</var>(18).</p>
@@ -214,14 +214,17 @@ and repeating that process until a number is arrived at that is less than 10.
 Thus the digital root of 467 is 8.</p>
 <p>We shall call a Digital Root Sum (DRS) the sum of the digital roots of the individual factors of our number.<br />
  The chart below demonstrates all of the DRS values for 24.</p>
-<table align="center" border="1" cellpadding="2" cellspacing="0"><tr><th>Factorisation</th><th>Digital Root Sum</th></tr><tr><td><div class="margin_left">2x2x2x3</div></td>
-<td><div class="center">9</div></td></tr><tr><td><div class="margin_left">2x3x4</div></td>
-<td><div class="center">9</div></td></tr><tr><td><div class="margin_left">2x2x6</div></td>
-<td><div class="center">10</div></td></tr><tr><td><div class="margin_left">4x6</div></td>
-<td><div class="center">10</div></td></tr><tr><td><div class="margin_left">3x8</div></td>
-<td><div class="center">11</div></td></tr><tr><td><div class="margin_left">2x12</div></td>
-<td><div class="center">5</div></td></tr><tr><td><div class="margin_left">24</div></td>
-<td><div class="center">6</div></td></tr></table><p>The maximum Digital Root Sum  of 24 is 11.<br />
+<table class="grid center">
+<tr><th>Factorisation</th><th>Digital Root Sum</th></tr>
+<tr><td>2x2x2x3</td><td>9</td></tr>
+<tr><td>2x3x4</td><td>9</td></tr>
+<tr><td>2x2x6</td><td>10</td></tr>
+<tr><td>4x6</td><td>10</td></tr>
+<tr><td>3x8</td><td>11</td></tr>
+<tr><td>2x12</td><td>5</td></tr>
+<tr><td>24</td><td>6</td></tr>
+</table>
+<p>The maximum Digital Root Sum  of 24 is 11.<br />
 The function mdrs(<var>n</var>) gives the maximum Digital Root Sum of <var>n</var>. So  mdrs(24)=11.<br />
 Find <span style="font-size:larger;"><span style="font-size:larger;">∑</span></span> mdrs(<var>n</var>) for 1 &lt; <var>n</var> &lt; 1,000,000.</p>
 =#

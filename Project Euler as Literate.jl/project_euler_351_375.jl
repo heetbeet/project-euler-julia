@@ -329,7 +329,7 @@ submit_answer(nothing; prob_num=362)
 
 #=
 <h2>Problem 363: Bézier Curves</h2>
-<p>A cubic Bézier curve is defined by four points: $P_0, P_1, P_2,$ and $P_4$.</p>
+<p>A cubic Bézier curve is defined by four points: $P_0, P_1, P_2,$ and $P_3$.</p>
 
 <div class="float_right"><img src="project/images/p363_bezier.png" class="dark_img" alt="p363_bezier.png" /></div>
 
@@ -345,7 +345,7 @@ $\dfrac{Q_0 R_0}{Q_0 Q_1} = \dfrac{Q_1 R_1}{Q_1 Q_2} = t$ for the same value of 
 <p>The Bézier curve defined by the points $P_0, P_1, P_2, P_3$ is the locus of $B$ as $Q_0$ takes all possible positions on the segment $P_0 P_1$.<br />
 (Please note that for all points the value of $t$ is the same.)</p>
 
-<p>At <a href="http://home.kpn.nl/hklein/bezier/bezier.html">this (external) web address</a> you will find an applet that allows you to drag the points $P_0, P_1, P_2,$ and $P_3$ to see what the Bézier curve (green curve) defined by those points looks like. You can also drag the point $Q_0$ along the segment $P_0 P_1$.</p>
+
 
 <p>From the construction it is clear that the Bézier curve will be tangent to the segments $P_0 P_1$ in $P_0$ and $P_2 P_3$ in $P_3$.</p>
 

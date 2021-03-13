@@ -46,7 +46,7 @@ How many are there for <var>N</var> = 30 ?
 submit_answer(nothing; prob_num=376)
 
 #=
-<h2>Problem 377: Sum of digits, experience 13</h2>
+<h2>Problem 377: Sum of digits - experience #13</h2>
 <p>
 There are 16 positive integers that do not have a zero in their digits and that have a digital sum equal to 5, namely: <br />
 5, 14, 23, 32, 41, 113, 122, 131, 212, 221, 311, 1112, 1121, 1211, 2111 and 11111.<br />

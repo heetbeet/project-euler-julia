@@ -17,6 +17,7 @@ using Glob
 using Markdown
 using Literate
 using UUIDs
+using SHA
 
 
 url = "https://projecteuler.net/"
@@ -29,6 +30,16 @@ get_html_txt(url) = read(download(url), String)
 puzzle_url(puzzle_number::Int) = "https://projecteuler.net/problem=$puzzle_number"
 
 puzzle_name(puzzle_text::String) =first(eachmatch(r"(<h2>.*</h2>)", puzzle_text)).captures[1]
+
+
+function do_hash(x::Number)
+    sha1(reinterpret(UInt8, [Float64(x)])) |> join
+end
+
+
+function do_hash(x)
+    sha1(x) |> join
+end
 
 
 function puzzle_content(puzzle_text::String)
@@ -242,17 +253,17 @@ end
 
 header = """
 using Markdown
+using SHA
 
-hashed_answers = Dict{Int, Any}()
+hashed_answers = Dict{Int64, String}()
 
 function do_hash(x::Number)
-    Base.hash(float(x))
+    sha1(reinterpret(UInt8, [Float64(x)])) |> join
 end
 
-function do_hash(x::String)
-    Base.hash(x)
+function do_hash(x)
+    sha1(x) |> join
 end
-
 
 function submit_answer(answer; prob_num=nothing)
     prob_num =  floor(Int, prob_num)
@@ -279,9 +290,9 @@ function make_shared_jl()
 
         puzzle, answer = match(r"(\d+)\.\s+(.*)", i).captures
         try
-            txt = txt * """hashed_answers[$puzzle] = $(Base.hash(parse(Float64, answer))) \n"""
+            txt = txt * """hashed_answers[$puzzle] = "$(do_hash(parse(Float64, answer)))" \n"""
         catch
-            txt = txt * """hashed_answers[$puzzle] = $(Base.hash(answer)) \n"""
+            txt = txt * """hashed_answers[$puzzle] = "$(do_hash(answer))" # as string \n"""
         end
     end
 
