@@ -273,7 +273,8 @@ function submit_answer(answer; prob_num=nothing)
     elseif !(prob_num in keys(hashed_answers))
         error("Sorry, problem "*string(prob_num)*"'s answer was not yet public knowledge during the creation of this code.")
     elseif hashed_answers[prob_num] == do_hash(answer)
-        return md"🚀 Your answer is correct! 🥳"
+        clipboard(answer)
+        return md"🚀 Your answer is correct and added to your clipboard! 🥳"
     else
         return md"⚠️ Oops, wrong answer!"
     end
