@@ -77,6 +77,17 @@ function download_all_euler_puzzles()
     Threads.@threads for i in 1:newest
         download_euler_puzzle(i)
     end
+
+    # sometime the end is a bit farther
+    while(true)
+        web_text = get_html_txt(puzzle_url(newest+1))
+        if contains(web_text, "class=\"problem_content\"")
+            download_euler_puzzle(newest+1)
+        else
+            break
+        end
+        newest += 1
+    end
 end
 
 
@@ -153,9 +164,10 @@ function convert_to_pluto(pluto_output)
         String(take!(io))
     end
 
-    open_close = []
+
     puzzle_nr = 0
     for (count, section) in enumerate(subfiles)
+        open_close = []
         txt = pluto_header
 
         uuid_header = get_uuid()
@@ -268,10 +280,10 @@ end
 function submit_answer(answer; prob_num=nothing)
     prob_num =  floor(Int, prob_num)
 
-    if answer === nothing || prob_num === nothing
+    if !(prob_num in keys(hashed_answers))
+        return md"⚠️ Answer \$(string(prob_num)) was not yet public knowledge during the creation of this code ⚠️"
+    elseif answer === nothing || prob_num === nothing
         return md"📃 No answer yet."
-    elseif !(prob_num in keys(hashed_answers))
-        error("Sorry, problem "*string(prob_num)*"'s answer was not yet public knowledge during the creation of this code.")
     elseif hashed_answers[prob_num] == do_hash(answer)
         clipboard(answer)
         return md"🚀 Your answer is correct and added to your clipboard! 🥳"
